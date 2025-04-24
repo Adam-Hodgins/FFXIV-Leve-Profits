@@ -1,8 +1,8 @@
-### If running this for the first time, youll need to run the following in your environment to get the required dependencies
+## If running this for the first time, youll need to run the following in your environment to get the required dependencies
 
 ```pip install selenium requests pandas openpyxl```
 
-### To Update Prices
+## To Update Prices
 
 1. Duplicate the Clean Leves into Prepped Leves if needed (only needed when leves get an update)
 
@@ -12,7 +12,7 @@
 
 
 
-### To Update the Class Leves 
+## To Update the Class Leves 
 ### Only needs to be done once/xpac or whenever new leves are added
 
 1. Navigate to https://ffxivteamcraft.com/levequests?min=1&max=100 and select the job you want to export
