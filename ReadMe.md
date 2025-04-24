@@ -1,18 +1,19 @@
-If running this for the first time, youll need to run the following in your environment to get the required dependencies
+### If running this for the first time, youll need to run the following in your environment to get the required dependencies
 
-pip install selenium requests pandas openpyxl
+```pip install selenium requests pandas openpyxl```
 
 
-To Update the Class Leves - Only needs to be done once/xpac or whenever new leves are added
+### To Update the Class Leves 
+### Only needs to be done once/xpac or whenever new leves are added
 
 1. Navigate to https://ffxivteamcraft.com/levequests?min=1&max=100 and select the job you want to export
 
 2. Open your browser dev console and paste the following
 
+```
 (() => {
   const rows = Array.from(document.querySelectorAll('div.leve-row'));
   const data = rows.map(el => {
-    // 1. Leve Name
     const nameEl = el.querySelector('app-i18n-name[content="leves"] span');
     const leveName = nameEl ? nameEl.textContent.trim() : '';
 
@@ -53,6 +54,8 @@ To Update the Class Leves - Only needs to be done once/xpac or whenever new leve
   console.log(data);
   return data;
 })();
+```
+
 
 3. Copy the output into the required Class Leves File
 
