@@ -2,6 +2,15 @@
 
 ```pip install selenium requests pandas openpyxl```
 
+### To Update Prices
+
+1. Duplicate the Clean Leves into Prepped Leves if needed (only needed when leves get an update)
+
+2.  Update the WORLD constant in update_leve_prices.py to your world, default is Famfrit and save the script
+
+3. Run master.py (will automatically run update_leve_prices.py and then export.py) to create the Leve Profits.xlsx file
+
+
 
 ### To Update the Class Leves 
 ### Only needs to be done once/xpac or whenever new leves are added
@@ -65,11 +74,3 @@
 
 5. Run fetch_leve_item_ids.py to fetch the leve item ids from universalis
 
-
-### To Update Prices
-
-1. Duplicate the Clean Leves into Prepped Leves if needed (only needed when leves get an update)
-
-2.  Update the WORLD constant in update_leve_prices.py to your world, default is Famfrit and save the script
-
-3. Run master.py (will automatically run update_leve_prices.py and then export.py) to create the Leve Profits.xlsx file
