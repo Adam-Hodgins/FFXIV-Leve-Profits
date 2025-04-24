@@ -5,6 +5,7 @@ import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.worksheet.table import Table, TableStyleInfo
 
+
 def process_dataframe(records):
     df = pd.DataFrame(records)
     # Numeric conversions
@@ -15,12 +16,25 @@ def process_dataframe(records):
         .str.replace(',', '', regex=False)
         .astype(float)
     )
-    # Additional metrics
+
+    # Additional metrics: calculate raw prices
     df['LevePriceNQ'] = df['currentAveragePriceNQ'] * df['Leve Amount']
     df['LevePriceHQ'] = df['currentAveragePriceHQ'] * df['Leve Amount']
+
+    # Masks where item cannot be purchased (price == 0)
+    mask_nq_zero = df['currentAveragePriceNQ'] == 0
+    mask_hq_zero = df['currentAveragePriceHQ'] == 0
+
+    # Profit calculations
     df['LeveProfitNQ'] = df['Leve Gil'] - df['LevePriceNQ']
     df['LeveProfitHQ'] = - (df['Leve Gil'] * 2) - df['LevePriceHQ']
+
+    # For zero-price items, set profit to NA and ensure price is zero
+    df.loc[mask_nq_zero, ['LevePriceNQ', 'LeveProfitNQ']] = [0, pd.NA]
+    df.loc[mask_hq_zero, ['LevePriceHQ', 'LeveProfitHQ']] = [0, pd.NA]
+
     return df
+
 
 def main():
     directory = 'Prepped Leves'
@@ -53,8 +67,6 @@ def main():
     # Re-open workbook and convert each sheet to an Excel Table
     wb = load_workbook(output_file)
     for ws in wb.worksheets:
-        # Use sheet dimensions to define table ref
-        ref = ws.dimensions
         tbl = Table(displayName=f"Table_{ws.title}", ref=ref)
         style = TableStyleInfo(
             name="TableStyleMedium9",
@@ -67,6 +79,7 @@ def main():
 
     wb.save(output_file)
     print(f"All sheets converted to tables in '{output_file}'")
+
 
 if __name__ == '__main__':
     main()
