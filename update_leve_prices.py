@@ -2,85 +2,109 @@ import os
 import json
 import time
 import requests
+from itertools import islice
 
 # === Configuration ===
-# Change this to target a different server
 WORLD = 'Famfrit'
+# Directory containing the leve JSON files
+DIRECTORY = 'Clean Leves Directory'
 
+# API URL template; {ids} will be replaced with comma-separated list
 API_URL = (
-    'https://universalis.app/api/v2/{world}/{item_id}'
+    'https://universalis.app/api/v2/{world}/{ids}'
     '?listings=0&entries=0'
     '&fields=currentAveragePrice%2CcurrentAveragePriceNQ%2CcurrentAveragePriceHQ'
 )
 
 
-def fetch_prices(item_id: int) -> dict:
+def chunked_iterable(iterable, size):
+    """Yield successive chunks of given size from iterable."""
+    it = iter(iterable)
+    while True:
+        chunk = list(islice(it, size))
+        if not chunk:
+            break
+        yield chunk
+
+
+def fetch_prices_batch(item_ids):
     """
-    Fetches average price data for a given item ID from Universalis.
-    Returns dict with keys 'currentAveragePrice', 'currentAveragePriceNQ', 'currentAveragePriceHQ'.
-    Refer to https://docs.universalis.app/ if you want to change/update the fields returned
+    Fetch price data for a batch of item IDs from Universalis.
+    Returns a dict: { item_id (int): {price fields} }
     """
-    url = API_URL.format(world=WORLD, item_id=item_id)
-    resp = requests.get(url, timeout=10)
+    id_list = ','.join(str(i) for i in item_ids)
+    url = API_URL.format(world=WORLD, ids=id_list)
+    resp = requests.get(url, timeout=20)
     resp.raise_for_status()
-    return resp.json()
+    data = resp.json()
+    # If multiple IDs, response is keyed by ID strings
+    # Convert keys to int for easy lookup
+    return {int(k): v for k, v in data.items()}
 
 
 def main():
-    directory = 'Prepped Leves'
-    if not os.path.isdir(directory):
-        print(f"Directory not found: {directory}")
+    if not os.path.isdir(DIRECTORY):
+        print(f"Directory not found: {DIRECTORY}")
         return
 
-    for fname in os.listdir(directory):
+    for fname in sorted(os.listdir(DIRECTORY)):
         if not fname.lower().endswith('.json'):
             continue
-
-        file_path = os.path.join(directory, fname)
+        file_path = os.path.join(DIRECTORY, fname)
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
+                entries = json.load(f)
         except Exception as e:
-            print(f"Failed to load {file_path}: {e}")
+            print(f"Failed to load {fname}: {e}")
+            continue
+
+        if not isinstance(entries, list):
+            print(f"Skipping {fname}: JSON root is not a list")
+            continue
+
+        # Clear existing price fields
+        for entry in entries:
+            entry.pop('currentAveragePrice', None)
+            entry.pop('currentAveragePriceNQ', None)
+            entry.pop('currentAveragePriceHQ', None)
+
+        # Collect unique valid IDs
+        ids = sorted({entry.get('Leve Item ID') for entry in entries if isinstance(entry.get('Leve Item ID'), int)})
+        if not ids:
+            print(f"No valid item IDs in {fname}, skipping.")
             continue
 
         updated = False
-        if isinstance(data, list):
-            # Clear existing price fields
-            for entry in data:
-                entry.pop('currentAveragePrice', None)
-                entry.pop('currentAveragePriceNQ', None)
-                entry.pop('currentAveragePriceHQ', None)
+        # Fetch in batches
+        for batch in chunked_iterable(ids, 100):
+            try:
+                price_map = fetch_prices_batch(batch)
+                print(f"Fetched prices for IDs: {batch}")
+            except Exception as e:
+                print(f"Error fetching batch {batch}: {e}")
+                continue
 
-            # Fetch fresh prices
-            for entry in data:
+            # Apply prices to entries
+            for entry in entries:
                 item_id = entry.get('Leve Item ID')
-                if not isinstance(item_id, int):
-                    continue
-
-                try:
-                    prices = fetch_prices(item_id)
+                if item_id in price_map:
+                    prices = price_map[item_id]
                     entry['currentAveragePrice'] = prices.get('currentAveragePrice')
                     entry['currentAveragePriceNQ'] = prices.get('currentAveragePriceNQ')
                     entry['currentAveragePriceHQ'] = prices.get('currentAveragePriceHQ')
                     updated = True
-                    print(f"{fname}: Refreshed prices for ID {item_id}")
-                except Exception as e:
-                    print(f"Error fetching prices for ID {item_id}: {e}")
 
-                # Pause to avoid rate limiting
-                time.sleep(0.2)
-        else:
-            print(f"Skipping {file_path}: root JSON is not a list")
-            continue
+            # Pause to respect rate limits
+            time.sleep(0.2)
 
+        # Write updated file if any changes
         if updated:
             try:
                 with open(file_path, 'w', encoding='utf-8') as f:
-                    json.dump(data, f, ensure_ascii=False, indent=2)
-                print(f"Updated prices in {file_path}\n")
+                    json.dump(entries, f, ensure_ascii=False, indent=2)
+                print(f"Updated prices in {fname}\n")
             except Exception as e:
-                print(f"Failed to write {file_path}: {e}")
+                print(f"Failed to write {fname}: {e}")
 
 if __name__ == '__main__':
     main()

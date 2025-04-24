@@ -7,8 +7,8 @@
     "Leve Gil": "113",
     "Leve Amount": 1,
     "Leve Item ID": 27713,
-    "currentAveragePrice": 4999,
-    "currentAveragePriceNQ": 4999,
+    "currentAveragePrice": 4997,
+    "currentAveragePriceNQ": 4997,
     "currentAveragePriceHQ": 0
   },
   {
@@ -259,9 +259,9 @@
     "Leve Gil": "259",
     "Leve Amount": 1,
     "Leve Item ID": 2236,
-    "currentAveragePrice": 10006,
+    "currentAveragePrice": 0,
     "currentAveragePriceNQ": 0,
-    "currentAveragePriceHQ": 10006
+    "currentAveragePriceHQ": 0
   },
   {
     "Leve Name": "A Firm Hand",
@@ -367,8 +367,8 @@
     "Leve Gil": "287",
     "Leve Amount": 1,
     "Leve Item ID": 44147,
-    "currentAveragePrice": 19243420,
-    "currentAveragePriceNQ": 21748520,
+    "currentAveragePrice": 19243350,
+    "currentAveragePriceNQ": 21748440,
     "currentAveragePriceHQ": 37657
   },
   {
@@ -523,8 +523,8 @@
     "Leve Gil": "377",
     "Leve Amount": 1,
     "Leve Item ID": 27714,
-    "currentAveragePrice": 2095.7856,
-    "currentAveragePriceNQ": 1887.2,
+    "currentAveragePrice": 2036,
+    "currentAveragePriceNQ": 1824.6364,
     "currentAveragePriceHQ": 2617.25
   },
   {
@@ -666,10 +666,7 @@
     "Leve EXP": "75,570",
     "Leve Gil": "484",
     "Leve Amount": 1,
-    "Leve Item ID": 39767,
-    "currentAveragePrice": 0,
-    "currentAveragePriceNQ": 0,
-    "currentAveragePriceHQ": 0
+    "Leve Item ID": 39767
   },
   {
     "Leve Name": "Some Dragoons Have All the Luck",
@@ -715,8 +712,8 @@
     "Leve Gil": "212",
     "Leve Amount": 1,
     "Leve Item ID": 43999,
-    "currentAveragePrice": 66673668,
-    "currentAveragePriceNQ": 90915000,
+    "currentAveragePrice": 58830150,
+    "currentAveragePriceNQ": 76928664,
     "currentAveragePriceHQ": 9999.75
   },
   {
@@ -871,8 +868,8 @@
     "Leve Gil": "874",
     "Leve Amount": 1,
     "Leve Item ID": 44000,
-    "currentAveragePrice": 111112870,
-    "currentAveragePriceNQ": 117648856,
+    "currentAveragePrice": 100001704,
+    "currentAveragePriceNQ": 105264890,
     "currentAveragePriceHQ": 1200
   },
   {
@@ -907,8 +904,8 @@
     "Leve Gil": "4,368",
     "Leve Amount": 5,
     "Leve Item ID": 44000,
-    "currentAveragePrice": 111112870,
-    "currentAveragePriceNQ": 117648856,
+    "currentAveragePrice": 100001704,
+    "currentAveragePriceNQ": 105264890,
     "currentAveragePriceHQ": 1200
   },
   {
@@ -955,9 +952,9 @@
     "Leve Gil": "998",
     "Leve Amount": 1,
     "Leve Item ID": 10841,
-    "currentAveragePrice": 60000,
+    "currentAveragePrice": 57666.668,
     "currentAveragePriceNQ": 60000,
-    "currentAveragePriceHQ": 0
+    "currentAveragePriceHQ": 56500
   },
   {
     "Leve Name": "Belle of the Brawl",
@@ -991,9 +988,9 @@
     "Leve Gil": "4,992",
     "Leve Amount": 3,
     "Leve Item ID": 10841,
-    "currentAveragePrice": 60000,
+    "currentAveragePrice": 57666.668,
     "currentAveragePriceNQ": 60000,
-    "currentAveragePriceHQ": 0
+    "currentAveragePriceHQ": 56500
   },
   {
     "Leve Name": "Shouldering the Shut-ins (L)",
@@ -1147,8 +1144,8 @@
     "Leve Gil": "496",
     "Leve Amount": 1,
     "Leve Item ID": 19941,
-    "currentAveragePrice": 1784.75,
-    "currentAveragePriceNQ": 435.22223,
+    "currentAveragePrice": 1937,
+    "currentAveragePriceNQ": 475.875,
     "currentAveragePriceHQ": 5833.3335
   },
   {
@@ -1207,8 +1204,8 @@
     "Leve Gil": "1,622",
     "Leve Amount": 1,
     "Leve Item ID": 19945,
-    "currentAveragePrice": 63817.605,
-    "currentAveragePriceNQ": 93185.05,
+    "currentAveragePrice": 60263.742,
+    "currentAveragePriceNQ": 85555.04,
     "currentAveragePriceHQ": 5082.727
   },
   {
@@ -1375,8 +1372,8 @@
     "Leve Gil": "2,294",
     "Leve Amount": 1,
     "Leve Item ID": 27713,
-    "currentAveragePrice": 4999,
-    "currentAveragePriceNQ": 4999,
+    "currentAveragePrice": 4997,
+    "currentAveragePriceNQ": 4997,
     "currentAveragePriceHQ": 0
   },
   {
@@ -1411,9 +1408,9 @@
     "Leve Gil": "4,838",
     "Leve Amount": 1,
     "Leve Item ID": 26287,
-    "currentAveragePrice": 70724.4,
+    "currentAveragePrice": 69539.2,
     "currentAveragePriceNQ": 0,
-    "currentAveragePriceHQ": 70724.4
+    "currentAveragePriceHQ": 69539.2
   },
   {
     "Leve Name": "One Foot Forward",
@@ -1447,8 +1444,8 @@
     "Leve Gil": "2,450",
     "Leve Amount": 3,
     "Leve Item ID": 36168,
-    "currentAveragePrice": 2724.7917,
-    "currentAveragePriceNQ": 2040.9231,
+    "currentAveragePrice": 2667.76,
+    "currentAveragePriceNQ": 1987.9286,
     "currentAveragePriceHQ": 3533
   },
   {
@@ -1567,8 +1564,8 @@
     "Leve Gil": "2,530",
     "Leve Amount": 3,
     "Leve Item ID": 43997,
-    "currentAveragePrice": 45468868,
-    "currentAveragePriceNQ": 15002.857,
+    "currentAveragePrice": 37049400,
+    "currentAveragePriceNQ": 12840.23,
     "currentAveragePriceHQ": 1000000000.0
   },
   {
@@ -1579,9 +1576,9 @@
     "Leve Gil": "2,530",
     "Leve Amount": 1,
     "Leve Item ID": 41857,
-    "currentAveragePrice": 114008.6,
+    "currentAveragePrice": 112009.4,
     "currentAveragePriceNQ": 0,
-    "currentAveragePriceHQ": 114008.6
+    "currentAveragePriceHQ": 112009.4
   },
   {
     "Leve Name": "Brace for More Vambraces",
@@ -1591,9 +1588,9 @@
     "Leve Gil": "5,070",
     "Leve Amount": 1,
     "Leve Item ID": 42019,
-    "currentAveragePrice": 131892.81,
+    "currentAveragePrice": 125102.5,
     "currentAveragePriceNQ": 0,
-    "currentAveragePriceHQ": 131892.81
+    "currentAveragePriceHQ": 125102.5
   },
   {
     "Leve Name": "Forgiveness for My Shins",
@@ -1615,8 +1612,8 @@
     "Leve Gil": "2,550",
     "Leve Amount": 3,
     "Leve Item ID": 43999,
-    "currentAveragePrice": 66673668,
-    "currentAveragePriceNQ": 90915000,
+    "currentAveragePrice": 58830150,
+    "currentAveragePriceNQ": 76928664,
     "currentAveragePriceHQ": 9999.75
   },
   {

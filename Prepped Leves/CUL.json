@@ -43,8 +43,8 @@
     "Leve Gil": "112",
     "Leve Amount": 3,
     "Leve Item ID": 43974,
-    "currentAveragePrice": 4730.4062,
-    "currentAveragePriceNQ": 649.5,
+    "currentAveragePrice": 4679.9375,
+    "currentAveragePriceNQ": 568.75,
     "currentAveragePriceHQ": 11531.917
   },
   {
@@ -67,9 +67,9 @@
     "Leve Gil": "112",
     "Leve Amount": 3,
     "Leve Item ID": 4728,
-    "currentAveragePrice": 419.1,
-    "currentAveragePriceNQ": 336.375,
-    "currentAveragePriceHQ": 750
+    "currentAveragePrice": 460.75,
+    "currentAveragePriceNQ": 383.7143,
+    "currentAveragePriceHQ": 1000
   },
   {
     "Leve Name": "Whip It",
@@ -115,9 +115,9 @@
     "Leve Gil": "140",
     "Leve Amount": 3,
     "Leve Item ID": 4745,
-    "currentAveragePrice": 160.06667,
-    "currentAveragePriceNQ": 141.85715,
-    "currentAveragePriceHQ": 415
+    "currentAveragePrice": 253.33333,
+    "currentAveragePriceNQ": 134.125,
+    "currentAveragePriceHQ": 1207
   },
   {
     "Leve Name": "Butter Me Up",
@@ -127,9 +127,9 @@
     "Leve Gil": "173",
     "Leve Amount": 3,
     "Leve Item ID": 4854,
-    "currentAveragePrice": 181.95833,
-    "currentAveragePriceNQ": 250.83333,
-    "currentAveragePriceHQ": 159
+    "currentAveragePrice": 152.21739,
+    "currentAveragePriceNQ": 233.57143,
+    "currentAveragePriceHQ": 116.625
   },
   {
     "Leve Name": "Fishy Revelations",
@@ -451,9 +451,9 @@
     "Leve Gil": "294",
     "Leve Amount": 3,
     "Leve Item ID": 4712,
-    "currentAveragePrice": 3198,
+    "currentAveragePrice": 6283,
     "currentAveragePriceNQ": 3500,
-    "currentAveragePriceHQ": 2896
+    "currentAveragePriceHQ": 9066
   },
   {
     "Leve Name": "True Grits",
@@ -547,9 +547,9 @@
     "Leve Gil": "431",
     "Leve Amount": 3,
     "Leve Item ID": 4663,
-    "currentAveragePrice": 1279.7142,
-    "currentAveragePriceNQ": 1243.1666,
-    "currentAveragePriceHQ": 1499
+    "currentAveragePrice": 1250.25,
+    "currentAveragePriceNQ": 1000.2857,
+    "currentAveragePriceHQ": 3000
   },
   {
     "Leve Name": "Rise and Dine",
@@ -883,9 +883,9 @@
     "Leve Gil": "998",
     "Leve Amount": 3,
     "Leve Item ID": 12863,
-    "currentAveragePrice": 14244.75,
+    "currentAveragePrice": 16493,
     "currentAveragePriceNQ": 19739.5,
-    "currentAveragePriceHQ": 8750
+    "currentAveragePriceHQ": 10000
   },
   {
     "Leve Name": "Old Victories, New Tastes",
@@ -919,9 +919,9 @@
     "Leve Gil": "4,992",
     "Leve Amount": 9,
     "Leve Item ID": 12863,
-    "currentAveragePrice": 14244.75,
+    "currentAveragePrice": 16493,
     "currentAveragePriceNQ": 19739.5,
-    "currentAveragePriceHQ": 8750
+    "currentAveragePriceHQ": 10000
   },
   {
     "Leve Name": "The Eats of Authenticity (L)",
@@ -1147,9 +1147,9 @@
     "Leve Gil": "496",
     "Leve Amount": 3,
     "Leve Item ID": 19846,
-    "currentAveragePrice": 309.33334,
-    "currentAveragePriceNQ": 313.25,
-    "currentAveragePriceHQ": 301.5
+    "currentAveragePrice": 500,
+    "currentAveragePriceNQ": 500,
+    "currentAveragePriceHQ": 500
   },
   {
     "Leve Name": "Sweet Kiss of Death",
@@ -1267,9 +1267,9 @@
     "Leve Gil": "1,920",
     "Leve Amount": 3,
     "Leve Item ID": 27838,
-    "currentAveragePrice": 1300,
-    "currentAveragePriceNQ": 1150,
-    "currentAveragePriceHQ": 1450
+    "currentAveragePrice": 1284.1428,
+    "currentAveragePriceNQ": 1100,
+    "currentAveragePriceHQ": 1422.25
   },
   {
     "Leve Name": "Meet for Meat",
@@ -1447,9 +1447,9 @@
     "Leve Gil": "2,450",
     "Leve Amount": 9,
     "Leve Item ID": 36078,
-    "currentAveragePrice": 3500,
+    "currentAveragePrice": 3499.4285,
     "currentAveragePriceNQ": 0,
-    "currentAveragePriceHQ": 3500
+    "currentAveragePriceHQ": 3499.4285
   },
   {
     "Leve Name": "Topping Up the Pot",
@@ -1555,9 +1555,9 @@
     "Leve Gil": "5,040",
     "Leve Amount": 3,
     "Leve Item ID": 36060,
-    "currentAveragePrice": 1696.5,
-    "currentAveragePriceNQ": 1374.6666,
-    "currentAveragePriceHQ": 1889.6
+    "currentAveragePrice": 1925.3125,
+    "currentAveragePriceNQ": 2036.3334,
+    "currentAveragePriceHQ": 1899.6923
   },
   {
     "Leve Name": "More Mezcal",
@@ -1567,9 +1567,9 @@
     "Leve Gil": "2,530",
     "Leve Amount": 9,
     "Leve Item ID": 43972,
-    "currentAveragePrice": 3512870.8,
-    "currentAveragePriceNQ": 2900,
-    "currentAveragePriceHQ": 4170990
+    "currentAveragePrice": 4170960,
+    "currentAveragePriceNQ": 3750,
+    "currentAveragePriceHQ": 4766276
   },
   {
     "Leve Name": "Friends Are Food",
@@ -1603,8 +1603,8 @@
     "Leve Gil": "2,535",
     "Leve Amount": 9,
     "Leve Item ID": 43974,
-    "currentAveragePrice": 4730.4062,
-    "currentAveragePriceNQ": 649.5,
+    "currentAveragePrice": 4679.9375,
+    "currentAveragePriceNQ": 568.75,
     "currentAveragePriceHQ": 11531.917
   },
   {
@@ -1627,9 +1627,9 @@
     "Leve Gil": "5,100",
     "Leve Amount": 3,
     "Leve Item ID": 44088,
-    "currentAveragePrice": 5647.8887,
+    "currentAveragePrice": 5520.625,
     "currentAveragePriceNQ": 3900,
-    "currentAveragePriceHQ": 7832.75
+    "currentAveragePriceHQ": 8221.667
   },
   {
     "Leve Name": "Bring Me Your Tacos",
@@ -1651,9 +1651,9 @@
     "Leve Gil": "5,140",
     "Leve Amount": 3,
     "Leve Item ID": 44102,
-    "currentAveragePrice": 2853.889,
-    "currentAveragePriceNQ": 2853.6,
-    "currentAveragePriceHQ": 2855.3333
+    "currentAveragePrice": 2815,
+    "currentAveragePriceNQ": 2787.75,
+    "currentAveragePriceHQ": 3033
   },
   {
     "Leve Name": "Sweet, Sweet Bean Juice",

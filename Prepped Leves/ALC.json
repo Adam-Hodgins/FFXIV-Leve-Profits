@@ -79,8 +79,8 @@
     "Leve Gil": "139",
     "Leve Amount": 3,
     "Leve Item ID": 4565,
-    "currentAveragePrice": 0,
-    "currentAveragePriceNQ": 0,
+    "currentAveragePrice": 101,
+    "currentAveragePriceNQ": 101,
     "currentAveragePriceHQ": 0
   },
   {
@@ -319,9 +319,9 @@
     "Leve Gil": "485",
     "Leve Amount": 1,
     "Leve Item ID": 27772,
-    "currentAveragePrice": 3533.75,
-    "currentAveragePriceNQ": 494.25,
-    "currentAveragePriceHQ": 6573.25
+    "currentAveragePrice": 3682.7856,
+    "currentAveragePriceNQ": 494.125,
+    "currentAveragePriceHQ": 7934.3335
   },
   {
     "Leve Name": "Dripping with Venom",
@@ -355,8 +355,8 @@
     "Leve Gil": "230",
     "Leve Amount": 3,
     "Leve Item ID": 4576,
-    "currentAveragePrice": 0,
-    "currentAveragePriceNQ": 0,
+    "currentAveragePrice": 584,
+    "currentAveragePriceNQ": 584,
     "currentAveragePriceHQ": 0
   },
   {
@@ -439,9 +439,9 @@
     "Leve Gil": "372",
     "Leve Amount": 3,
     "Leve Item ID": 4599,
-    "currentAveragePrice": 978.2857,
+    "currentAveragePrice": 284.30768,
     "currentAveragePriceNQ": 284.30768,
-    "currentAveragePriceHQ": 10000
+    "currentAveragePriceHQ": 0
   },
   {
     "Leve Name": "Riches' Brew",
@@ -463,9 +463,9 @@
     "Leve Gil": "175",
     "Leve Amount": 1,
     "Leve Item ID": 5505,
-    "currentAveragePrice": 837687.44,
-    "currentAveragePriceNQ": 1671916.6,
-    "currentAveragePriceHQ": 3458.1667
+    "currentAveragePrice": 913395.4,
+    "currentAveragePriceNQ": 1433357.1,
+    "currentAveragePriceHQ": 3462.25
   },
   {
     "Leve Name": "The Write Stuff",
@@ -679,9 +679,9 @@
     "Leve Gil": "150",
     "Leve Amount": 3,
     "Leve Item ID": 4606,
-    "currentAveragePrice": 600.4,
+    "currentAveragePrice": 142.07143,
     "currentAveragePriceNQ": 142.07143,
-    "currentAveragePriceHQ": 7017
+    "currentAveragePriceHQ": 0
   },
   {
     "Leve Name": "Shut Up Already",
@@ -727,9 +727,9 @@
     "Leve Gil": "624",
     "Leve Amount": 1,
     "Leve Item ID": 27781,
-    "currentAveragePrice": 5401,
+    "currentAveragePrice": 5244.143,
     "currentAveragePriceNQ": 5452.25,
-    "currentAveragePriceHQ": 5360
+    "currentAveragePriceHQ": 4966.6665
   },
   {
     "Leve Name": "Summoning for Dummies",
@@ -763,9 +763,9 @@
     "Leve Gil": "3,120",
     "Leve Amount": 5,
     "Leve Item ID": 27781,
-    "currentAveragePrice": 5401,
+    "currentAveragePrice": 5244.143,
     "currentAveragePriceNQ": 5452.25,
-    "currentAveragePriceHQ": 5360
+    "currentAveragePriceHQ": 4966.6665
   },
   {
     "Leve Name": "Summoning the Courage to Be Different (L)",
@@ -823,9 +823,9 @@
     "Leve Gil": "270",
     "Leve Amount": 3,
     "Leve Item ID": 12604,
-    "currentAveragePrice": 3385.6924,
+    "currentAveragePrice": 3401.3635,
     "currentAveragePriceNQ": 0,
-    "currentAveragePriceHQ": 3385.6924
+    "currentAveragePriceHQ": 3401.3635
   },
   {
     "Leve Name": "Allow No Fallacies (L)",
@@ -859,9 +859,9 @@
     "Leve Gil": "936",
     "Leve Amount": 3,
     "Leve Item ID": 12604,
-    "currentAveragePrice": 3385.6924,
+    "currentAveragePrice": 3401.3635,
     "currentAveragePriceNQ": 0,
-    "currentAveragePriceHQ": 3385.6924
+    "currentAveragePriceHQ": 3401.3635
   },
   {
     "Leve Name": "Adhesive of Antipathy",
@@ -895,8 +895,8 @@
     "Leve Gil": "315",
     "Leve Amount": 1,
     "Leve Item ID": 12602,
-    "currentAveragePrice": 13721.833,
-    "currentAveragePriceNQ": 17973,
+    "currentAveragePrice": 14696.546,
+    "currentAveragePriceNQ": 20468.5,
     "currentAveragePriceHQ": 7770.2
   },
   {
@@ -931,8 +931,8 @@
     "Leve Gil": "1,092",
     "Leve Amount": 1,
     "Leve Item ID": 12602,
-    "currentAveragePrice": 13721.833,
-    "currentAveragePriceNQ": 17973,
+    "currentAveragePrice": 14696.546,
+    "currentAveragePriceNQ": 20468.5,
     "currentAveragePriceHQ": 7770.2
   },
   {
@@ -1087,9 +1087,9 @@
     "Leve Gil": "1,248",
     "Leve Amount": 1,
     "Leve Item ID": 19901,
-    "currentAveragePrice": 401.94287,
-    "currentAveragePriceNQ": 320.9643,
-    "currentAveragePriceHQ": 725.8571
+    "currentAveragePrice": 329.54544,
+    "currentAveragePriceNQ": 268.07407,
+    "currentAveragePriceHQ": 606.1667
   },
   {
     "Leve Name": "Spellbound",
@@ -1159,9 +1159,9 @@
     "Leve Gil": "1,498",
     "Leve Amount": 1,
     "Leve Item ID": 36237,
-    "currentAveragePrice": 20776.07,
-    "currentAveragePriceNQ": 20776.07,
-    "currentAveragePriceHQ": 0
+    "currentAveragePrice": 19924.955,
+    "currentAveragePriceNQ": 20309.613,
+    "currentAveragePriceHQ": 3000
   },
   {
     "Leve Name": "Rumor Has It",
@@ -1171,9 +1171,9 @@
     "Leve Gil": "1,498",
     "Leve Amount": 3,
     "Leve Item ID": 19883,
-    "currentAveragePrice": 499.66666,
+    "currentAveragePrice": 403.4,
     "currentAveragePriceNQ": 403.4,
-    "currentAveragePriceHQ": 981
+    "currentAveragePriceHQ": 0
   },
   {
     "Leve Name": "Asking for a Friend",
@@ -1183,8 +1183,8 @@
     "Leve Gil": "541",
     "Leve Amount": 1,
     "Leve Item ID": 19906,
-    "currentAveragePrice": 2588.2856,
-    "currentAveragePriceNQ": 1623.5,
+    "currentAveragePrice": 2853.6667,
+    "currentAveragePriceNQ": 1832.6666,
     "currentAveragePriceHQ": 3874.6667
   },
   {
@@ -1267,9 +1267,9 @@
     "Leve Gil": "1,920",
     "Leve Amount": 1,
     "Leve Item ID": 27766,
-    "currentAveragePrice": 545.4375,
+    "currentAveragePrice": 518.05884,
     "currentAveragePriceNQ": 533.8182,
-    "currentAveragePriceHQ": 571
+    "currentAveragePriceHQ": 489.16666
   },
   {
     "Leve Name": "Keeping Magic Alive",
@@ -1327,9 +1327,9 @@
     "Leve Gil": "1,108",
     "Leve Amount": 3,
     "Leve Item ID": 27960,
-    "currentAveragePrice": 5104976,
+    "currentAveragePrice": 5211282,
     "currentAveragePriceNQ": 5649.5,
-    "currentAveragePriceHQ": 5211212
+    "currentAveragePriceHQ": 5322040
   },
   {
     "Leve Name": "Amaro Kart",
@@ -1447,9 +1447,9 @@
     "Leve Gil": "2,450",
     "Leve Amount": 3,
     "Leve Item ID": 36237,
-    "currentAveragePrice": 20776.07,
-    "currentAveragePriceNQ": 20776.07,
-    "currentAveragePriceHQ": 0
+    "currentAveragePrice": 19924.955,
+    "currentAveragePriceNQ": 20309.613,
+    "currentAveragePriceHQ": 3000
   },
   {
     "Leve Name": "Nearly Bare",
@@ -1507,8 +1507,8 @@
     "Leve Gil": "4,960",
     "Leve Amount": 3,
     "Leve Item ID": 36114,
-    "currentAveragePrice": 1405.8334,
-    "currentAveragePriceNQ": 847.6,
+    "currentAveragePrice": 1350.3846,
+    "currentAveragePriceNQ": 832.8182,
     "currentAveragePriceHQ": 4197
   },
   {
@@ -1567,8 +1567,8 @@
     "Leve Gil": "2,530",
     "Leve Amount": 3,
     "Leve Item ID": 44049,
-    "currentAveragePrice": 1275.5646,
-    "currentAveragePriceNQ": 984.34485,
+    "currentAveragePrice": 1235.7188,
+    "currentAveragePriceNQ": 951.55,
     "currentAveragePriceHQ": 5498.25
   },
   {
@@ -1603,8 +1603,8 @@
     "Leve Gil": "2,535",
     "Leve Amount": 9,
     "Leve Item ID": 44047,
-    "currentAveragePrice": 7354452.5,
-    "currentAveragePriceNQ": 1149.3462,
+    "currentAveragePrice": 6580294,
+    "currentAveragePriceNQ": 988.93335,
     "currentAveragePriceHQ": 31252686
   },
   {
@@ -1627,9 +1627,9 @@
     "Leve Gil": "2,550",
     "Leve Amount": 3,
     "Leve Item ID": 44013,
-    "currentAveragePrice": 80004600,
-    "currentAveragePriceNQ": 47622676,
-    "currentAveragePriceHQ": 250009680
+    "currentAveragePrice": 86961470,
+    "currentAveragePriceNQ": 55559456,
+    "currentAveragePriceHQ": 200008750
   },
   {
     "Leve Name": "All-night Crafting",
@@ -1639,9 +1639,9 @@
     "Leve Gil": "5,140",
     "Leve Amount": 3,
     "Leve Item ID": 44169,
-    "currentAveragePrice": 5386497,
-    "currentAveragePriceNQ": 2953,
-    "currentAveragePriceHQ": 6421794
+    "currentAveragePrice": 4840792.5,
+    "currentAveragePriceNQ": 2618.9167,
+    "currentAveragePriceHQ": 5859355
   },
   {
     "Leve Name": "Something Salty and Ceremonial",
