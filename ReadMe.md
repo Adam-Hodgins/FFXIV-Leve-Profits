@@ -66,7 +66,7 @@
 5. Run fetch_leve_item_ids.py to fetch the leve item ids from universalis
 
 
-To Update Prices
+### To Update Prices
 
 1. Duplicate the Clean Leves into Prepped Leves if needed (only needed when leves get an update)
 
