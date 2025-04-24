@@ -70,4 +70,4 @@ To Update Prices
 
 1. Duplicate the Clean Leves into Prepped Leves if needed (only needed when leves get an update)
 
-2. Run master.py (will automatically run update_leve_prices.py and then export.py) to create the Leve Profits.xlsx
+2. Run master.py (will automatically run update_leve_prices.py and then export.py) to create the Leve Profits.xlsx file
