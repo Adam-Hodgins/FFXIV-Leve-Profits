@@ -1,0 +1,982 @@
+[
+    {
+        "Leve Name": "Pork Is a Salty Food",
+        "Leve Item": "Table Salt x 6",
+        "Leve Level": "1",
+        "Leve EXP": "1,420",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "Trout Fishing in Limsa",
+        "Leve Item": "Grilled Trout x 3",
+        "Leve Level": "1",
+        "Leve EXP": "540",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "In Hot Water",
+        "Leve Item": "Boiled Egg x 3",
+        "Leve Level": "1",
+        "Leve EXP": "630",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "What a Sap",
+        "Leve Item": "Maple Syrup x 3",
+        "Leve Level": "1",
+        "Leve EXP": "370",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "Meat-lover's Special",
+        "Leve Item": "Marmot Steak x 3",
+        "Leve Level": "1",
+        "Leve EXP": "900",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "It's Always Sunny in Vylbrand",
+        "Leve Item": "Raisins x 3",
+        "Leve Level": "1",
+        "Leve EXP": "370",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "Whip It",
+        "Leve Item": "Sweet Cream x 3",
+        "Leve Level": "5",
+        "Leve EXP": "1,170",
+        "Leve Gil": "139"
+    },
+    {
+        "Leve Name": "Jack of All Plates",
+        "Leve Item": "Jack-o'-lantern x 3",
+        "Leve Level": "5",
+        "Leve EXP": "6,280",
+        "Leve Gil": "224"
+    },
+    {
+        "Leve Name": "A Real Fungi",
+        "Leve Item": "Chanterelle Saute x 3",
+        "Leve Level": "5",
+        "Leve EXP": "1,810",
+        "Leve Gil": "139"
+    },
+    {
+        "Leve Name": "Putting the Squeeze On",
+        "Leve Item": "Orange Juice x 3",
+        "Leve Level": "5",
+        "Leve EXP": "2,790",
+        "Leve Gil": "140"
+    },
+    {
+        "Leve Name": "Butter Me Up",
+        "Leve Item": "Kukuru Butter x 3",
+        "Leve Level": "5",
+        "Leve EXP": "1,980",
+        "Leve Gil": "173"
+    },
+    {
+        "Leve Name": "Fishy Revelations",
+        "Leve Item": "Braised Pipira x 3",
+        "Leve Level": "5",
+        "Leve EXP": "3,140",
+        "Leve Gil": "168"
+    },
+    {
+        "Leve Name": "Keep Your Powder Dry",
+        "Leve Item": "Kukuru Powder x 3",
+        "Leve Level": "10",
+        "Leve EXP": "3,780",
+        "Leve Gil": "173"
+    },
+    {
+        "Leve Name": "Pretty Enough to Eat",
+        "Leve Item": "Grilled Carp x 3",
+        "Leve Level": "10",
+        "Leve EXP": "3,220",
+        "Leve Gil": "140"
+    },
+    {
+        "Leve Name": "Go Ahead and Dig In",
+        "Leve Item": "Mole Loaf x 3",
+        "Leve Level": "10",
+        "Leve EXP": "9,990",
+        "Leve Gil": "173"
+    },
+    {
+        "Leve Name": "Chew the Fat",
+        "Leve Item": "Grilled Dodo x 3",
+        "Leve Level": "10",
+        "Leve EXP": "4,770",
+        "Leve Gil": "169"
+    },
+    {
+        "Leve Name": "Fisher of Men",
+        "Leve Item": "Salt Cod x 3",
+        "Leve Level": "10",
+        "Leve EXP": "3,220",
+        "Leve Gil": "169"
+    },
+    {
+        "Leve Name": "The Bango Zango Diet",
+        "Leve Item": "Parsnip Salad x 3",
+        "Leve Level": "10",
+        "Leve EXP": "10,480",
+        "Leve Gil": "174"
+    },
+    {
+        "Leve Name": "Omelette's Be Friends",
+        "Leve Item": "Dodo Omelette x 3",
+        "Leve Level": "15",
+        "Leve EXP": "17,740",
+        "Leve Gil": "227"
+    },
+    {
+        "Leve Name": "Shy Is the Oyster",
+        "Leve Item": "Raw Oyster x 3",
+        "Leve Level": "15",
+        "Leve EXP": "7,170",
+        "Leve Gil": "173"
+    },
+    {
+        "Leve Name": "A Total Nut Job",
+        "Leve Item": "Walnut Bread x 3",
+        "Leve Level": "15",
+        "Leve EXP": "19,270",
+        "Leve Gil": "169"
+    },
+    {
+        "Leve Name": "Sweet Smell of Success",
+        "Leve Item": "Lavender Oil x 3",
+        "Leve Level": "15",
+        "Leve EXP": "13,040",
+        "Leve Gil": "235"
+    },
+    {
+        "Leve Name": "Rustic Repast",
+        "Leve Item": "Chicken and Mushrooms x 3",
+        "Leve Level": "15",
+        "Leve EXP": "11,390",
+        "Leve Gil": "230"
+    },
+    {
+        "Leve Name": "Flakes for Friends",
+        "Leve Item": "Apple Tart x 3",
+        "Leve Level": "15",
+        "Leve EXP": "18,330",
+        "Leve Gil": "169"
+    },
+    {
+        "Leve Name": "A Grape Idea",
+        "Leve Item": "Grape Juice x 3",
+        "Leve Level": "20",
+        "Leve EXP": "11,880",
+        "Leve Gil": "288"
+    },
+    {
+        "Leve Name": "Brain Food",
+        "Leve Item": "Walnut Bread x 3",
+        "Leve Level": "20",
+        "Leve EXP": "13,190",
+        "Leve Gil": "102"
+    },
+    {
+        "Leve Name": "Feast of All Soles",
+        "Leve Item": "Salmon Meuniere x 3",
+        "Leve Level": "20",
+        "Leve EXP": "18,680",
+        "Leve Gil": "232"
+    },
+    {
+        "Leve Name": "For Crumbs' Sake",
+        "Leve Item": "Honey Muffin x 3",
+        "Leve Level": "20",
+        "Leve EXP": "22,960",
+        "Leve Gil": "277"
+    },
+    {
+        "Leve Name": "Picnic Panic",
+        "Leve Item": "Apple Tart x 3",
+        "Leve Level": "20",
+        "Leve EXP": "12,490",
+        "Leve Gil": "102"
+    },
+    {
+        "Leve Name": "Food Fight",
+        "Leve Item": "Shepherd's Pie x 3",
+        "Leve Level": "20",
+        "Leve EXP": "22,570",
+        "Leve Gil": "288"
+    },
+    {
+        "Leve Name": "Convalescence Precedes Essence",
+        "Leve Item": "Ginger Cookie x 3",
+        "Leve Level": "25",
+        "Leve EXP": "55,060",
+        "Leve Gil": "283"
+    },
+    {
+        "Leve Name": "Cooking with Gas",
+        "Leve Item": "Chicken Stock x 6",
+        "Leve Level": "25",
+        "Leve EXP": "20,010",
+        "Leve Gil": "283"
+    },
+    {
+        "Leve Name": "Fever Pitch",
+        "Leve Item": "Chamomile Tea x 3",
+        "Leve Level": "25",
+        "Leve EXP": "12,990",
+        "Leve Gil": "84"
+    },
+    {
+        "Leve Name": "Whirled Peas",
+        "Leve Item": "Pea Soup x 3",
+        "Leve Level": "25",
+        "Leve EXP": "31,800",
+        "Leve Gil": "288"
+    },
+    {
+        "Leve Name": "Love's Crumpets Lost",
+        "Leve Item": "Crumpet x 3",
+        "Leve Level": "25",
+        "Leve EXP": "53,430",
+        "Leve Gil": "169"
+    },
+    {
+        "Leve Name": "I Love Lamprey",
+        "Leve Item": "Eel Pie x 3",
+        "Leve Level": "25",
+        "Leve EXP": "20,060",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "Pretty as a Picture",
+        "Leve Item": "Dark Vinegar x 3",
+        "Leve Level": "30",
+        "Leve EXP": "36,240",
+        "Leve Gil": "347"
+    },
+    {
+        "Leve Name": "Bloody Good Tart, This",
+        "Leve Item": "Blood Currant Tart x 3",
+        "Leve Level": "30",
+        "Leve EXP": "72,430",
+        "Leve Gil": "294"
+    },
+    {
+        "Leve Name": "True Grits",
+        "Leve Item": "Cornmeal x 4",
+        "Leve Level": "30",
+        "Leve EXP": "17,230",
+        "Leve Gil": "69"
+    },
+    {
+        "Leve Name": "Gegeruju Gets Down",
+        "Leve Item": "Cornbread x 3",
+        "Leve Level": "30",
+        "Leve EXP": "57,390",
+        "Leve Gil": "338"
+    },
+    {
+        "Leve Name": "Point Them with the Sticky End",
+        "Leve Item": "Tuna Miq'abob x 3",
+        "Leve Level": "30",
+        "Leve EXP": "52,220",
+        "Leve Gil": "534"
+    },
+    {
+        "Leve Name": "Sole Survivor",
+        "Leve Item": "Baked Sole x 3",
+        "Leve Level": "30",
+        "Leve EXP": "20,330",
+        "Leve Gil": "114"
+    },
+    {
+        "Leve Name": "No More Dumpster Diving",
+        "Leve Item": "Knight's Bread x 3",
+        "Leve Level": "35",
+        "Leve EXP": "68,670",
+        "Leve Gil": "398"
+    },
+    {
+        "Leve Name": "Don't Turn Up Your Nose",
+        "Leve Item": "Sauerkraut x 3",
+        "Leve Level": "35",
+        "Leve EXP": "57,570",
+        "Leve Gil": "532"
+    },
+    {
+        "Leve Name": "Feeding Frenzy",
+        "Leve Item": "Acorn Cookie x 3",
+        "Leve Level": "35",
+        "Leve EXP": "30,230",
+        "Leve Gil": "91"
+    },
+    {
+        "Leve Name": "Winter of Our Discontent",
+        "Leve Item": "Mugwort Carp x 3",
+        "Leve Level": "35",
+        "Leve EXP": "36,000",
+        "Leve Gil": "431"
+    },
+    {
+        "Leve Name": "Rise and Dine",
+        "Leve Item": "Cheese Souffle x 3",
+        "Leve Level": "35",
+        "Leve EXP": "79,780",
+        "Leve Gil": "250"
+    },
+    {
+        "Leve Name": "Leek Soup for the Soul",
+        "Leve Item": "Cawl Cennin x 3",
+        "Leve Level": "35",
+        "Leve EXP": "41,990",
+        "Leve Gil": "156"
+    },
+    {
+        "Leve Name": "Moving Up in the World",
+        "Leve Item": "Rolanberry Cheese x 3",
+        "Leve Level": "40",
+        "Leve EXP": "56,430",
+        "Leve Gil": "481"
+    },
+    {
+        "Leve Name": "The Perks of Life at Sea",
+        "Leve Item": "Jerked Beef x 3",
+        "Leve Level": "40",
+        "Leve EXP": "69,350",
+        "Leve Gil": "460"
+    },
+    {
+        "Leve Name": "Made by Apple in Coerthas",
+        "Leve Item": "Apple Juice x 3",
+        "Leve Level": "40",
+        "Leve EXP": "47,700",
+        "Leve Gil": "266"
+    },
+    {
+        "Leve Name": "Rolanberry Fields Forever",
+        "Leve Item": "Rolanberry Cheese x 3",
+        "Leve Level": "40",
+        "Leve EXP": "56,430",
+        "Leve Gil": "481"
+    },
+    {
+        "Leve Name": "Good Eats in Ishgard",
+        "Leve Item": "Salt Cod Puffs x 3",
+        "Leve Level": "40",
+        "Leve EXP": "96,130",
+        "Leve Gil": "559"
+    },
+    {
+        "Leve Name": "Pagan Pastries",
+        "Leve Item": "Pastry Fish x 3",
+        "Leve Level": "40",
+        "Leve EXP": "44,930",
+        "Leve Gil": "177"
+    },
+    {
+        "Leve Name": "Culture Club",
+        "Leve Item": "Crowned Pie",
+        "Leve Level": "45",
+        "Leve EXP": "106,480",
+        "Leve Gil": "530"
+    },
+    {
+        "Leve Name": "The Egg Files",
+        "Leve Item": "Deviled Eggs x 3",
+        "Leve Level": "45",
+        "Leve EXP": "113,900",
+        "Leve Gil": "559"
+    },
+    {
+        "Leve Name": "Bread in the Clouds",
+        "Leve Item": "La Noscean Toast x 3",
+        "Leve Level": "45",
+        "Leve EXP": "75,760",
+        "Leve Gil": "128"
+    },
+    {
+        "Leve Name": "Comfort Me with Mushrooms",
+        "Leve Item": "Buttons in a Blanket x 3",
+        "Leve Level": "45",
+        "Leve EXP": "126,270",
+        "Leve Gil": "540"
+    },
+    {
+        "Leve Name": "Drinking to Your Health",
+        "Leve Item": "Mulled Tea x 3",
+        "Leve Level": "45",
+        "Leve EXP": "90,400",
+        "Leve Gil": "251"
+    },
+    {
+        "Leve Name": "Red Letter Day",
+        "Leve Item": "Rolanberry Lassi x 3",
+        "Leve Level": "45",
+        "Leve EXP": "54,240",
+        "Leve Gil": "215"
+    },
+    {
+        "Leve Name": "Little Orphan Candy",
+        "Leve Item": "Fig Bavarois x 3",
+        "Leve Level": "50",
+        "Leve EXP": "275,170",
+        "Leve Gil": "686"
+    },
+    {
+        "Leve Name": "The Next to Last Supper",
+        "Leve Item": "Stuffed Cabbage Rolls x 3",
+        "Leve Level": "50",
+        "Leve EXP": "343,900",
+        "Leve Gil": "749"
+    },
+    {
+        "Leve Name": "The Aroma of Faith",
+        "Leve Item": "Baked Onion Soup x 3",
+        "Leve Level": "50",
+        "Leve EXP": "145,960",
+        "Leve Gil": "270"
+    },
+    {
+        "Leve Name": "Confections of Confession (L)",
+        "Leve Item": "Fig Bavarois x 9",
+        "Leve Level": "50",
+        "Leve EXP": "1,513,480",
+        "Leve Gil": "3,432"
+    },
+    {
+        "Leve Name": "Nostalgia through the Stomach (L)",
+        "Leve Item": "Stuffed Cabbage Rolls x 9",
+        "Leve Level": "50",
+        "Leve EXP": "1,891,490",
+        "Leve Gil": "3,744"
+    },
+    {
+        "Leve Name": "Soup's On (L)",
+        "Leve Item": "Baked Onion Soup x 3",
+        "Leve Level": "50",
+        "Leve EXP": "243,260",
+        "Leve Gil": "936"
+    },
+    {
+        "Leve Name": "Such a Butter Face",
+        "Leve Item": "Fermented Butter x 3",
+        "Leve Level": "52",
+        "Leve EXP": "310,610",
+        "Leve Gil": "811"
+    },
+    {
+        "Leve Name": "Loving That Muffin Top",
+        "Leve Item": "Ishgardian Muffin x 3",
+        "Leve Level": "52",
+        "Leve EXP": "274,810",
+        "Leve Gil": "811"
+    },
+    {
+        "Leve Name": "Persona non Gratin",
+        "Leve Item": "Dhalmel Gratin x 3",
+        "Leve Level": "52",
+        "Leve EXP": "213,220",
+        "Leve Gil": "315"
+    },
+    {
+        "Leve Name": "No Margarine of Error (L)",
+        "Leve Item": "Fermented Butter x 9",
+        "Leve Level": "52",
+        "Leve EXP": "1,708,380",
+        "Leve Gil": "4,056"
+    },
+    {
+        "Leve Name": "Muffin of the Morn (L)",
+        "Leve Item": "Ishgardian Muffin x 9",
+        "Leve Level": "52",
+        "Leve EXP": "1,511,460",
+        "Leve Gil": "4,056"
+    },
+    {
+        "Leve Name": "Recipe for Disaster (L)",
+        "Leve Item": "Dhalmel Gratin x 3",
+        "Leve Level": "52",
+        "Leve EXP": "355,360",
+        "Leve Gil": "1,092"
+    },
+    {
+        "Leve Name": "The Nutcracker's Sweets",
+        "Leve Item": "Royal Eggs x 3",
+        "Leve Level": "54",
+        "Leve EXP": "316,760",
+        "Leve Gil": "1,061"
+    },
+    {
+        "Leve Name": "Breakfast of Champions",
+        "Leve Item": "Emerald Soup x 3",
+        "Leve Level": "54",
+        "Leve EXP": "459,310",
+        "Leve Gil": "998"
+    },
+    {
+        "Leve Name": "Old Victories, New Tastes",
+        "Leve Item": "Dhalmel Fricassee x 3",
+        "Leve Level": "54",
+        "Leve EXP": "233,860",
+        "Leve Gil": "383"
+    },
+    {
+        "Leve Name": "Time for a Midnight Snack (L)",
+        "Leve Item": "Royal Eggs x 9",
+        "Leve Level": "54",
+        "Leve EXP": "1,742,220",
+        "Leve Gil": "5,304"
+    },
+    {
+        "Leve Name": "Emerald Soup for the Soul (L)",
+        "Leve Item": "Emerald Soup x 9",
+        "Leve Level": "54",
+        "Leve EXP": "2,526,230",
+        "Leve Gil": "4,992"
+    },
+    {
+        "Leve Name": "The Eats of Authenticity (L)",
+        "Leve Item": "Dhalmel Fricassee x 3",
+        "Leve Level": "54",
+        "Leve EXP": "389,780",
+        "Leve Gil": "1,326"
+    },
+    {
+        "Leve Name": "Saucy for a Suitor",
+        "Leve Item": "Hollandaise Sauce x 3",
+        "Leve Level": "56",
+        "Leve EXP": "291,280",
+        "Leve Gil": "936"
+    },
+    {
+        "Leve Name": "It Goes Down Smoothly",
+        "Leve Item": "Frozen Spirits x 3",
+        "Leve Level": "56",
+        "Leve EXP": "409,190",
+        "Leve Gil": "1,123"
+    },
+    {
+        "Leve Name": "Persuasion of a Higher Power",
+        "Leve Item": "Baked Pipira Pira x 3",
+        "Leve Level": "56",
+        "Leve EXP": "219,570",
+        "Leve Gil": "406"
+    },
+    {
+        "Leve Name": "Saved by the Sauce (L)",
+        "Leve Item": "Hollandaise Sauce x 9",
+        "Leve Level": "56",
+        "Leve EXP": "1,602,040",
+        "Leve Gil": "4,680"
+    },
+    {
+        "Leve Name": "Quenching the Flame (L)",
+        "Leve Item": "Frozen Spirits x 9",
+        "Leve Level": "56",
+        "Leve EXP": "2,250,550",
+        "Leve Gil": "5,616"
+    },
+    {
+        "Leve Name": "Loaves and Fishes (L)",
+        "Leve Item": "Baked Pipira Pira x 3",
+        "Leve Level": "56",
+        "Leve EXP": "365,950",
+        "Leve Gil": "1,404"
+    },
+    {
+        "Leve Name": "Let's Not Get Sappy",
+        "Leve Item": "Birch Syrup x 3",
+        "Leve Level": "58",
+        "Leve EXP": "170,500",
+        "Leve Gil": "1,186"
+    },
+    {
+        "Leve Name": "Soup That Eats Like a Knight",
+        "Leve Item": "Clam Chowder x 3",
+        "Leve Level": "58",
+        "Leve EXP": "453,870",
+        "Leve Gil": "1,248"
+    },
+    {
+        "Leve Name": "Don't Let It Fall Apart",
+        "Leve Item": "Liver-cheese Sandwich x 3",
+        "Leve Level": "58",
+        "Leve EXP": "212,160",
+        "Leve Gil": "428"
+    },
+    {
+        "Leve Name": "Luxury Spillover (L)",
+        "Leve Item": "Birch Syrup x 9",
+        "Leve Level": "58",
+        "Leve EXP": "937,750",
+        "Leve Gil": "5,928"
+    },
+    {
+        "Leve Name": "Like Ma Used to Make (L)",
+        "Leve Item": "Clam Chowder x 9",
+        "Leve Level": "58",
+        "Leve EXP": "2,496,310",
+        "Leve Gil": "6,240"
+    },
+    {
+        "Leve Name": "Better Come Back with a Sandwich (L)",
+        "Leve Item": "Liver-cheese Sandwich x 3",
+        "Leve Level": "58",
+        "Leve EXP": "353,600",
+        "Leve Gil": "1,482"
+    },
+    {
+        "Leve Name": "Oh No Udon",
+        "Leve Item": "Gyr Abanian Flour x 3",
+        "Leve Level": "60",
+        "Leve EXP": "249,450",
+        "Leve Gil": "1,248"
+    },
+    {
+        "Leve Name": "Loquacious",
+        "Leve Item": "Loquat Juice x 3",
+        "Leve Level": "60",
+        "Leve EXP": "323,710",
+        "Leve Gil": "1,872"
+    },
+    {
+        "Leve Name": "All You Can Stomach",
+        "Leve Item": "Baklava x 3",
+        "Leve Level": "60",
+        "Leve EXP": "238,780",
+        "Leve Gil": "676"
+    },
+    {
+        "Leve Name": "Soup for the Soul",
+        "Leve Item": "Kasha x 3",
+        "Leve Level": "62",
+        "Leve EXP": "333,110",
+        "Leve Gil": "2,059"
+    },
+    {
+        "Leve Name": "Hunger Is No Game",
+        "Leve Item": "Popoto Soba x 3",
+        "Leve Level": "62",
+        "Leve EXP": "416,270",
+        "Leve Gil": "2,059"
+    },
+    {
+        "Leve Name": "The Frier Never Lies",
+        "Leve Item": "Cottonseed Oil x 3",
+        "Leve Level": "62",
+        "Leve EXP": "149,970",
+        "Leve Gil": "496"
+    },
+    {
+        "Leve Name": "Sweet Kiss of Death",
+        "Leve Item": "Rice Vinegar x 3",
+        "Leve Level": "64",
+        "Leve EXP": "251,370",
+        "Leve Gil": "1,498"
+    },
+    {
+        "Leve Name": "A Shorlonging for the Familiar",
+        "Leve Item": "Shorlog x 3",
+        "Leve Level": "64",
+        "Leve EXP": "326,200",
+        "Leve Gil": "2,246"
+    },
+    {
+        "Leve Name": "Souper",
+        "Leve Item": "Gameni x 3",
+        "Leve Level": "64",
+        "Leve EXP": "274,940",
+        "Leve Gil": "811"
+    },
+    {
+        "Leve Name": "No Othard Choice",
+        "Leve Item": "Egg Foo Young x 3",
+        "Leve Level": "66",
+        "Leve EXP": "436,760",
+        "Leve Gil": "2,434"
+    },
+    {
+        "Leve Name": "Persimmony Snicket",
+        "Leve Item": "Persimmon Pudding x 3",
+        "Leve Level": "66",
+        "Leve EXP": "459,720",
+        "Leve Gil": "2,434"
+    },
+    {
+        "Leve Name": "West Meats East",
+        "Leve Item": "Nomad Meat Pie x 3",
+        "Leve Level": "66",
+        "Leve EXP": "275,830",
+        "Leve Gil": "879"
+    },
+    {
+        "Leve Name": "Fits to a Tea",
+        "Leve Item": "Doman Tea x 3",
+        "Leve Level": "68",
+        "Leve EXP": "371,080",
+        "Leve Gil": "2,621"
+    },
+    {
+        "Leve Name": "Fish Box",
+        "Leve Item": "Chirashi-zushi x 3",
+        "Leve Level": "68",
+        "Leve EXP": "466,220",
+        "Leve Gil": "2,621"
+    },
+    {
+        "Leve Name": "Herky Jerky",
+        "Leve Item": "Jerked Jhammel x 3",
+        "Leve Level": "68",
+        "Leve EXP": "312,780",
+        "Leve Gil": "946"
+    },
+    {
+        "Leve Name": "Slippery Service",
+        "Leve Item": "Frantoio Oil x 3",
+        "Leve Level": "70",
+        "Leve EXP": "290,850",
+        "Leve Gil": "1,920"
+    },
+    {
+        "Leve Name": "Meet for Meat",
+        "Leve Item": "Grilled Rail x 3",
+        "Leve Level": "70",
+        "Leve EXP": "509,840",
+        "Leve Gil": "2,880"
+    },
+    {
+        "Leve Name": "Cure for What Ails",
+        "Leve Item": "Purple Carrot Juice x 3",
+        "Leve Level": "70",
+        "Leve EXP": "290,630",
+        "Leve Gil": "1,040"
+    },
+    {
+        "Leve Name": "His Dark Utensils",
+        "Leve Item": "Spaghetti al Nero x 3",
+        "Leve Level": "72",
+        "Leve EXP": "713,410",
+        "Leve Gil": "4,090"
+    },
+    {
+        "Leve Name": "Soup for the Soldier",
+        "Leve Item": "Broad Bean Soup x 3",
+        "Leve Level": "72",
+        "Leve EXP": "677,510",
+        "Leve Gil": "3,067"
+    },
+    {
+        "Leve Name": "Sweet Tooth",
+        "Leve Item": "Caramels x 3",
+        "Leve Level": "72",
+        "Leve EXP": "391,120",
+        "Leve Gil": "1,108"
+    },
+    {
+        "Leve Name": "Can't Eat Just One",
+        "Leve Item": "Night Vinegar x 3",
+        "Leve Level": "74",
+        "Leve EXP": "332,230",
+        "Leve Gil": "2,170"
+    },
+    {
+        "Leve Name": "One Last Meal",
+        "Leve Item": "Mushroom Saute x 3",
+        "Leve Level": "74",
+        "Leve EXP": "419,490",
+        "Leve Gil": "3,254"
+    },
+    {
+        "Leve Name": "Mixology",
+        "Leve Item": "Blood Tomato Juice x 3",
+        "Leve Level": "74",
+        "Leve EXP": "258,670",
+        "Leve Gil": "1,175"
+    },
+    {
+        "Leve Name": "On a Full Stomach",
+        "Leve Item": "Sausage Links x 3",
+        "Leve Level": "76",
+        "Leve EXP": "493,710",
+        "Leve Gil": "3,442"
+    },
+    {
+        "Leve Name": "A Good Omen",
+        "Leve Item": "Peppered Popotoes x 3",
+        "Leve Level": "76",
+        "Leve EXP": "689,550",
+        "Leve Gil": "3,442"
+    },
+    {
+        "Leve Name": "Teetotally",
+        "Leve Item": "Masala Chai x 3",
+        "Leve Level": "76",
+        "Leve EXP": "308,380",
+        "Leve Gil": "1,243"
+    },
+    {
+        "Leve Name": "Super Dark Times",
+        "Leve Item": "Risotto al Nero x 3",
+        "Leve Level": "78",
+        "Leve EXP": "738,830",
+        "Leve Gil": "4,838"
+    },
+    {
+        "Leve Name": "A Happy End",
+        "Leve Item": "Paella x 3",
+        "Leve Level": "78",
+        "Leve EXP": "828,030",
+        "Leve Gil": "4,838"
+    },
+    {
+        "Leve Name": "A Cookie for Your Troubles",
+        "Leve Item": "Coffee Biscuit x 3",
+        "Leve Level": "78",
+        "Leve EXP": "258,410",
+        "Leve Gil": "1,310"
+    },
+    {
+        "Leve Name": "Salt of the North",
+        "Leve Item": "Northern Sea Salt x 9",
+        "Leve Level": "80",
+        "Leve EXP": "724,620",
+        "Leve Gil": "2,450"
+    },
+    {
+        "Leve Name": "Topping Up the Pot",
+        "Leve Item": "Zurek x 3",
+        "Leve Level": "80",
+        "Leve EXP": "696,220",
+        "Leve Gil": "2,450"
+    },
+    {
+        "Leve Name": "Bobbing for Compliments",
+        "Leve Item": "Island Miq'abob x 3",
+        "Leve Level": "82",
+        "Leve EXP": "866,040",
+        "Leve Gil": "4,910"
+    },
+    {
+        "Leve Name": "At Any Temperature",
+        "Leve Item": "Borscht x 3",
+        "Leve Level": "82",
+        "Leve EXP": "1,062,190",
+        "Leve Gil": "4,920"
+    },
+    {
+        "Leve Name": "Imperial Palate",
+        "Leve Item": "Glory Be Soup x 3",
+        "Leve Level": "84",
+        "Leve EXP": "1,113,470",
+        "Leve Gil": "4,940"
+    },
+    {
+        "Leve Name": "A Stickler for Carrots",
+        "Leve Item": "Carrot Nibbles x 3",
+        "Leve Level": "84",
+        "Leve EXP": "1,160,960",
+        "Leve Gil": "4,960"
+    },
+    {
+        "Leve Name": "A Historical Flavor",
+        "Leve Item": "Skyr x 3",
+        "Leve Level": "86",
+        "Leve EXP": "1,471,010",
+        "Leve Gil": "4,980"
+    },
+    {
+        "Leve Name": "Comfort Food",
+        "Leve Item": "Yakow Moussaka x 3",
+        "Leve Level": "86",
+        "Leve EXP": "1,432,410",
+        "Leve Gil": "5,000"
+    },
+    {
+        "Leve Name": "Blast from the Pasta",
+        "Leve Item": "The Noodles of Elpis x 3",
+        "Leve Level": "88",
+        "Leve EXP": "1,595,390",
+        "Leve Gil": "5,020"
+    },
+    {
+        "Leve Name": "The Mountain Steeped",
+        "Leve Item": "Tsai tou Vounou x 3",
+        "Leve Level": "88",
+        "Leve EXP": "1,592,240",
+        "Leve Gil": "5,040"
+    },
+    {
+        "Leve Name": "More Mezcal",
+        "Leve Item": "Cooking Mezcal x 9",
+        "Leve Level": "90",
+        "Leve EXP": "1,440,660",
+        "Leve Gil": "2,530"
+    },
+    {
+        "Leve Name": "Friends Are Food",
+        "Leve Item": "Boiled Alpaca Steak x 3",
+        "Leve Level": "90",
+        "Leve EXP": "1,713,570",
+        "Leve Gil": "5,060"
+    },
+    {
+        "Leve Name": "Don't Knock It Till You've Tried It",
+        "Leve Item": "Mezcal-marinated Swampmonk x 3",
+        "Leve Level": "92",
+        "Leve EXP": "2,230,900",
+        "Leve Gil": "5,070"
+    },
+    {
+        "Leve Name": "Not-so-secret Ingredient",
+        "Leve Item": "Royal Maple Syrup x 9",
+        "Leve Level": "92",
+        "Leve EXP": "1,665,250",
+        "Leve Gil": "2,535"
+    },
+    {
+        "Leve Name": "Simple Is Hardest",
+        "Leve Item": "Spaghetti al Olio e Peperoncino x 3",
+        "Leve Level": "94",
+        "Leve EXP": "2,041,900",
+        "Leve Gil": "5,100"
+    },
+    {
+        "Leve Name": "Creative Chocolate",
+        "Leve Item": "Gateau au Chocolat x 3",
+        "Leve Level": "94",
+        "Leve EXP": "2,382,950",
+        "Leve Gil": "5,100"
+    },
+    {
+        "Leve Name": "Bring Me Your Tacos",
+        "Leve Item": "Tacos Al Pastor x 3",
+        "Leve Level": "96",
+        "Leve EXP": "2,771,460",
+        "Leve Gil": "5,140"
+    },
+    {
+        "Leve Name": "Najoothie",
+        "Leve Item": "Wild Banana Blend x 3",
+        "Leve Level": "96",
+        "Leve EXP": "2,952,300",
+        "Leve Gil": "5,140"
+    },
+    {
+        "Leve Name": "Sweet, Sweet Bean Juice",
+        "Leve Item": "Mesquite Juice x 3",
+        "Leve Level": "98",
+        "Leve EXP": "2,903,990",
+        "Leve Gil": "5,180"
+    },
+    {
+        "Leve Name": "Ocean Explosion",
+        "Leve Item": "Acqua Pazza x 3",
+        "Leve Level": "98",
+        "Leve EXP": "3,206,200",
+        "Leve Gil": "5,180"
+    }
+]

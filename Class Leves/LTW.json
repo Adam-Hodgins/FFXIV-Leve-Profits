@@ -1,0 +1,982 @@
+[
+    {
+        "Leve Name": "Red in the Head",
+        "Leve Item": "Leather Calot",
+        "Leve Level": "1",
+        "Leve EXP": "630",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "Underneath It All",
+        "Leve Item": "Leather Wristguards",
+        "Leve Level": "1",
+        "Leve EXP": "900",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "Sole Traders",
+        "Leve Item": "Leather Duckbills",
+        "Leve Level": "1",
+        "Leve EXP": "1,160",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "These Boots Are Made for Wailing",
+        "Leve Item": "Leather Duckbills of Gathering",
+        "Leve Level": "1",
+        "Leve EXP": "1,160",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "Sticking Their Necks Out",
+        "Leve Item": "Leather Choker",
+        "Leve Level": "1",
+        "Leve EXP": "900",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "Tan Before the Ban",
+        "Leve Item": "Leather",
+        "Leve Level": "1",
+        "Leve EXP": "370",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "Mind over Muzzle",
+        "Leve Item": "Leather Wristbands",
+        "Leve Level": "5",
+        "Leve EXP": "4,660",
+        "Leve Gil": "140"
+    },
+    {
+        "Leve Name": "From the Sands to the Stage",
+        "Leve Item": "Leather Himantes",
+        "Leve Level": "5",
+        "Leve EXP": "6,840",
+        "Leve Gil": "224"
+    },
+    {
+        "Leve Name": "In Their Shoes",
+        "Leve Item": "Leather Leggings",
+        "Leve Level": "5",
+        "Leve EXP": "5,220",
+        "Leve Gil": "140"
+    },
+    {
+        "Leve Name": "A Thorn in One's Hide",
+        "Leve Item": "Leather Mitts",
+        "Leve Level": "5",
+        "Leve EXP": "4,410",
+        "Leve Gil": "140"
+    },
+    {
+        "Leve Name": "A Place to Call Helm",
+        "Leve Item": "Hard Leather Pot Helm",
+        "Leve Level": "5",
+        "Leve EXP": "5,220",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "Throwing Down the Gauntlet",
+        "Leve Item": "Fingerless Leather Gloves",
+        "Leve Level": "5",
+        "Leve EXP": "5,220",
+        "Leve Gil": "140"
+    },
+    {
+        "Leve Name": "Quelling Bloody Rumors",
+        "Leve Item": "Hard Leather Shoes",
+        "Leve Level": "10",
+        "Leve EXP": "8,430",
+        "Leve Gil": "172"
+    },
+    {
+        "Leve Name": "The Bards' Guards",
+        "Leve Item": "Hard Leather Wristguards",
+        "Leve Level": "10",
+        "Leve EXP": "5,330",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "Saddle Sore",
+        "Leve Item": "Hard Leather",
+        "Leve Level": "10",
+        "Leve EXP": "2,230",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "Only the Best",
+        "Leve Item": "Hard Leather Harness",
+        "Leve Level": "10",
+        "Leve EXP": "9,990",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "Simply the Best",
+        "Leve Item": "Hard Leather Caligae",
+        "Leve Level": "10",
+        "Leve EXP": "8,430",
+        "Leve Gil": "172"
+    },
+    {
+        "Leve Name": "Targe Up",
+        "Leve Item": "Leather Targe",
+        "Leve Level": "10",
+        "Leve EXP": "9,990",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "Choke Hold",
+        "Leve Item": "Hard Leather Choker",
+        "Leve Level": "15",
+        "Leve EXP": "10,100",
+        "Leve Gil": "226"
+    },
+    {
+        "Leve Name": "Heads Up",
+        "Leve Item": "Hard Leather Skullcap",
+        "Leve Level": "15",
+        "Leve EXP": "18,910",
+        "Leve Gil": "174"
+    },
+    {
+        "Leve Name": "Skin off Their Backs",
+        "Leve Item": "Aldgoat Leather",
+        "Leve Level": "15",
+        "Leve EXP": "6,110",
+        "Leve Gil": "295"
+    },
+    {
+        "Leve Name": "Back in the Band",
+        "Leve Item": "Hard Leather Wristbands",
+        "Leve Level": "15",
+        "Leve EXP": "16,920",
+        "Leve Gil": "230"
+    },
+    {
+        "Leve Name": "On Their Feet Again",
+        "Leve Item": "Hard Leather Espadrilles",
+        "Leve Level": "15",
+        "Leve EXP": "15,980",
+        "Leve Gil": "343"
+    },
+    {
+        "Leve Name": "A Rush on Ringbands",
+        "Leve Item": "Hard Leather Ringbands",
+        "Leve Level": "15",
+        "Leve EXP": "13,040",
+        "Leve Gil": "230"
+    },
+    {
+        "Leve Name": "Playing the Part",
+        "Leve Item": "Goatskin Armguards",
+        "Leve Level": "20",
+        "Leve EXP": "21,600",
+        "Leve Gil": "295"
+    },
+    {
+        "Leve Name": "Fire and Hide",
+        "Leve Item": "Aldgoat Leather",
+        "Leve Level": "20",
+        "Leve EXP": "4,440",
+        "Leve Gil": "107"
+    },
+    {
+        "Leve Name": "My Sole to Take",
+        "Leve Item": "Padded Leather Duckbills",
+        "Leve Level": "20",
+        "Leve EXP": "21,600",
+        "Leve Gil": "232"
+    },
+    {
+        "Leve Name": "Hands On",
+        "Leve Item": "Fingerless Goatskin Gloves",
+        "Leve Level": "20",
+        "Leve EXP": "21,600",
+        "Leve Gil": "295"
+    },
+    {
+        "Leve Name": "Packing a Punch",
+        "Leve Item": "Goatskin Cesti",
+        "Leve Level": "20",
+        "Leve EXP": "10,970",
+        "Leve Gil": "108"
+    },
+    {
+        "Leve Name": "Open to Attack",
+        "Leve Item": "Goatskin Jacket",
+        "Leve Level": "20",
+        "Leve EXP": "24,710",
+        "Leve Gil": "248"
+    },
+    {
+        "Leve Name": "Men Who Scare Up Goats",
+        "Leve Item": "Goatskin Targe",
+        "Leve Level": "25",
+        "Leve EXP": "36,390",
+        "Leve Gil": "317"
+    },
+    {
+        "Leve Name": "Just Rewards",
+        "Leve Item": "Goatskin Wristbands",
+        "Leve Level": "25",
+        "Leve EXP": "32,460",
+        "Leve Gil": "290"
+    },
+    {
+        "Leve Name": "Breeches Served Cold",
+        "Leve Item": "Goatskin Breeches",
+        "Leve Level": "25",
+        "Leve EXP": "18,490",
+        "Leve Gil": "172"
+    },
+    {
+        "Leve Name": "No Risk, No Reward",
+        "Leve Item": "Toadskin Cesti",
+        "Leve Level": "25",
+        "Leve EXP": "30,820",
+        "Leve Gil": "336"
+    },
+    {
+        "Leve Name": "Campaign in the Membrane",
+        "Leve Item": "Toadskin Jacket",
+        "Leve Level": "25",
+        "Leve EXP": "41,630",
+        "Leve Gil": "562"
+    },
+    {
+        "Leve Name": "Quicker than Sand",
+        "Leve Item": "Padded Leather Duckbills",
+        "Leve Level": "25",
+        "Leve EXP": "21,830",
+        "Leve Gil": "107"
+    },
+    {
+        "Leve Name": "Emergency Patches",
+        "Leve Item": "Skull Eyepatch",
+        "Leve Level": "30",
+        "Leve EXP": "52,220",
+        "Leve Gil": "410"
+    },
+    {
+        "Leve Name": "Quality over Quantity",
+        "Leve Item": "Boarskin Himantes",
+        "Leve Level": "30",
+        "Leve EXP": "44,230",
+        "Leve Gil": "460"
+    },
+    {
+        "Leve Name": "Best Served Toad",
+        "Leve Item": "Toad Leather",
+        "Leve Level": "30",
+        "Leve EXP": "10,740",
+        "Leve Gil": "136"
+    },
+    {
+        "Leve Name": "The Hand that Bleeds",
+        "Leve Item": "Fingerless Boarskin Gloves",
+        "Leve Level": "30",
+        "Leve EXP": "67,730",
+        "Leve Gil": "438"
+    },
+    {
+        "Leve Name": "Slave to Fashion",
+        "Leve Item": "Boarskin Choker",
+        "Leve Level": "30",
+        "Leve EXP": "28,720",
+        "Leve Gil": "563"
+    },
+    {
+        "Leve Name": "Subordinate Clause",
+        "Leve Item": "Goatskin Choker",
+        "Leve Level": "30",
+        "Leve EXP": "17,230",
+        "Leve Gil": "193"
+    },
+    {
+        "Leve Name": "The Righteous Tools for the Job",
+        "Leve Item": "Boarskin Ringbands",
+        "Leve Level": "35",
+        "Leve EXP": "50,380",
+        "Leve Gil": "456"
+    },
+    {
+        "Leve Name": "Soft Shoe Shuffle",
+        "Leve Item": "Peisteskin Crakows",
+        "Leve Level": "35",
+        "Leve EXP": "83,050",
+        "Leve Gil": "407"
+    },
+    {
+        "Leve Name": "Supply Side Logic",
+        "Leve Item": "Boar Leather",
+        "Leve Level": "35",
+        "Leve EXP": "14,940",
+        "Leve Gil": "188"
+    },
+    {
+        "Leve Name": "Springtime for Coerthas",
+        "Leve Item": "Boarskin Harness",
+        "Leve Level": "35",
+        "Leve EXP": "94,160",
+        "Leve Gil": "490"
+    },
+    {
+        "Leve Name": "Through a Glass Brightly",
+        "Leve Item": "Fingerless Peisteskin Gloves",
+        "Leve Level": "35",
+        "Leve EXP": "94,160",
+        "Leve Gil": "661"
+    },
+    {
+        "Leve Name": "First They Came for the Heretics",
+        "Leve Item": "Boarskin Choker",
+        "Leve Level": "35",
+        "Leve EXP": "23,950",
+        "Leve Gil": "147"
+    },
+    {
+        "Leve Name": "The Birdmen of Ishgard",
+        "Leve Item": "Boarskin Culottes",
+        "Leve Level": "40",
+        "Leve EXP": "102,600",
+        "Leve Gil": "637"
+    },
+    {
+        "Leve Name": "Skirt Chaser",
+        "Leve Item": "Boarskin Skirt",
+        "Leve Level": "40",
+        "Leve EXP": "102,600",
+        "Leve Gil": "478"
+    },
+    {
+        "Leve Name": "The Tao of Rabbits",
+        "Leve Item": "Boarskin Harness",
+        "Leve Level": "40",
+        "Leve EXP": "61,560",
+        "Leve Gil": "233"
+    },
+    {
+        "Leve Name": "Foot Blues",
+        "Leve Item": "Boarskin Moccasins",
+        "Leve Level": "40",
+        "Leve EXP": "90,590",
+        "Leve Gil": "518"
+    },
+    {
+        "Leve Name": "Not So Alike in Dignity",
+        "Leve Item": "Boarskin Jerkin",
+        "Leve Level": "40",
+        "Leve EXP": "125,680",
+        "Leve Gil": "644"
+    },
+    {
+        "Leve Name": "It's Not a Job, It's a Calling",
+        "Leve Item": "Peiste Leather",
+        "Leve Level": "40",
+        "Leve EXP": "17,230",
+        "Leve Gil": "173"
+    },
+    {
+        "Leve Name": "Hold On Tight",
+        "Leve Item": "Raptorskin Smithy's Gloves",
+        "Leve Level": "45",
+        "Leve EXP": "137,400",
+        "Leve Gil": "691"
+    },
+    {
+        "Leve Name": "Too Hot to Handle",
+        "Leve Item": "Raptorskin Wristbands",
+        "Leve Level": "45",
+        "Leve EXP": "95,350",
+        "Leve Gil": "566"
+    },
+    {
+        "Leve Name": "Handle with Care",
+        "Leve Item": "Peisteskin Cesti",
+        "Leve Level": "45",
+        "Leve EXP": "54,240",
+        "Leve Gil": "260"
+    },
+    {
+        "Leve Name": "Fuss in Boots",
+        "Leve Item": "Raptorskin Thighboots",
+        "Leve Level": "45",
+        "Leve EXP": "137,400",
+        "Leve Gil": "654"
+    },
+    {
+        "Leve Name": "Tenderfoot Moments",
+        "Leve Item": "Hunting Moccasins",
+        "Leve Level": "45",
+        "Leve EXP": "121,320",
+        "Leve Gil": "509"
+    },
+    {
+        "Leve Name": "Spelling Me Softly",
+        "Leve Item": "Raptor Leather",
+        "Leve Level": "45",
+        "Leve EXP": "23,080",
+        "Leve Gil": "202"
+    },
+    {
+        "Leve Name": "Pummeling Abroad",
+        "Leve Item": "Archaeoskin Breeches of Maiming",
+        "Leve Level": "50",
+        "Leve EXP": "211,350",
+        "Leve Gil": "624"
+    },
+    {
+        "Leve Name": "From Mud to Mourning",
+        "Leve Item": "Archaeoskin Jackboots of Gathering",
+        "Leve Level": "50",
+        "Leve EXP": "334,080",
+        "Leve Gil": "749"
+    },
+    {
+        "Leve Name": "Glorified Hole-punchers",
+        "Leve Item": "Archaeoskin Gloves of Aiming",
+        "Leve Level": "50",
+        "Leve EXP": "200,450",
+        "Leve Gil": "225"
+    },
+    {
+        "Leve Name": "The Style of the Time (L)",
+        "Leve Item": "Archaeoskin Breeches of Maiming x 3",
+        "Leve Level": "50",
+        "Leve EXP": "1,162,470",
+        "Leve Gil": "3,120"
+    },
+    {
+        "Leve Name": "These Boots Are Made for Hawkin' (L)",
+        "Leve Item": "Archaeoskin Jackboots of Gathering x 3",
+        "Leve Level": "50",
+        "Leve EXP": "1,837,480",
+        "Leve Gil": "3,744"
+    },
+    {
+        "Leve Name": "Treat Them with Kid Gloves (L)",
+        "Leve Item": "Archaeoskin Gloves of Aiming",
+        "Leve Level": "50",
+        "Leve EXP": "334,080",
+        "Leve Gil": "780"
+    },
+    {
+        "Leve Name": "You Could Say It's a Moving Target",
+        "Leve Item": "Wyvern Leather",
+        "Leve Level": "52",
+        "Leve EXP": "182,320",
+        "Leve Gil": "749"
+    },
+    {
+        "Leve Name": "Maybe He's a Lion",
+        "Leve Item": "Wyvernskin Mane of Fending",
+        "Leve Level": "52",
+        "Leve EXP": "480,670",
+        "Leve Gil": "811"
+    },
+    {
+        "Leve Name": "(Don't) Love the Skin You're In",
+        "Leve Item": "Wyvernskin Cuffs of Aiming",
+        "Leve Level": "52",
+        "Leve EXP": "154,140",
+        "Leve Gil": "270"
+    },
+    {
+        "Leve Name": "They Call It Bloody Mary (L)",
+        "Leve Item": "Wyvern Leather x 5",
+        "Leve Level": "52",
+        "Leve EXP": "1,367,410",
+        "Leve Gil": "3,744"
+    },
+    {
+        "Leve Name": "The Wyvern of It (L)",
+        "Leve Item": "Wyvernskin Mane of Fending x 3",
+        "Leve Level": "52",
+        "Leve EXP": "2,643,720",
+        "Leve Gil": "4,056"
+    },
+    {
+        "Leve Name": "Wrist Apart (L)",
+        "Leve Item": "Wyvernskin Cuffs of Aiming",
+        "Leve Level": "52",
+        "Leve EXP": "256,910",
+        "Leve Gil": "936"
+    },
+    {
+        "Leve Name": "Overall, We Blend In",
+        "Leve Item": "Dhalmelskin Vest",
+        "Leve Level": "54",
+        "Leve EXP": "560,140",
+        "Leve Gil": "998"
+    },
+    {
+        "Leve Name": "Tally Ho, Chocobo",
+        "Leve Item": "Dhalmelskin Leggings of Aiming",
+        "Leve Level": "54",
+        "Leve EXP": "473,220",
+        "Leve Gil": "936"
+    },
+    {
+        "Leve Name": "Dragoon Drop Rate",
+        "Leve Item": "Dhalmelskin Breeches of Maiming",
+        "Leve Level": "54",
+        "Leve EXP": "283,930",
+        "Leve Gil": "338"
+    },
+    {
+        "Leve Name": "Eviction Notice (L)",
+        "Leve Item": "Dhalmelskin Vest x 3",
+        "Leve Level": "54",
+        "Leve EXP": "3,080,780",
+        "Leve Gil": "4,992"
+    },
+    {
+        "Leve Name": "Hunting Heretics (L)",
+        "Leve Item": "Dhalmelskin Leggings of Aiming x 3",
+        "Leve Level": "54",
+        "Leve EXP": "2,602,720",
+        "Leve Gil": "4,680"
+    },
+    {
+        "Leve Name": "Exploiting the Adroit (L)",
+        "Leve Item": "Dhalmelskin Breeches of Maiming",
+        "Leve Level": "54",
+        "Leve EXP": "473,220",
+        "Leve Gil": "1,170"
+    },
+    {
+        "Leve Name": "Don't Sweat the Small Fry",
+        "Leve Item": "Dragonskin Wristbands",
+        "Leve Level": "56",
+        "Leve EXP": "534,960",
+        "Leve Gil": "1,123"
+    },
+    {
+        "Leve Name": "I Need Your Glove Tonight",
+        "Leve Item": "Dragonskin Gloves of Healing",
+        "Leve Level": "56",
+        "Leve EXP": "534,960",
+        "Leve Gil": "998"
+    },
+    {
+        "Leve Name": "Trainin' the Neck",
+        "Leve Item": "Dragon Leather",
+        "Leve Level": "56",
+        "Leve EXP": "127,600",
+        "Leve Gil": "361"
+    },
+    {
+        "Leve Name": "It's All in the Wrists (L)",
+        "Leve Item": "Dragonskin Wristbands x 3",
+        "Leve Level": "56",
+        "Leve EXP": "2,942,290",
+        "Leve Gil": "5,616"
+    },
+    {
+        "Leve Name": "Halonic Drake Handlers (L)",
+        "Leve Item": "Dragonskin Gloves of Healing x 3",
+        "Leve Level": "56",
+        "Leve EXP": "2,942,290",
+        "Leve Gil": "4,992"
+    },
+    {
+        "Leve Name": "Training Is Only Skintight (L)",
+        "Leve Item": "Dragon Leather",
+        "Leve Level": "56",
+        "Leve EXP": "212,670",
+        "Leve Gil": "1,248"
+    },
+    {
+        "Leve Name": "Starting Off on the Wrong Foot",
+        "Leve Item": "Serpentskin Armguards of Maiming",
+        "Leve Level": "58",
+        "Leve EXP": "593,380",
+        "Leve Gil": "1,186"
+    },
+    {
+        "Leve Name": "Bar of the Bannermen",
+        "Leve Item": "Serpentskin Hat of Casting",
+        "Leve Level": "58",
+        "Leve EXP": "484,390",
+        "Leve Gil": "1,123"
+    },
+    {
+        "Leve Name": "It Will Knock Your Socks Off",
+        "Leve Item": "Serpentskin Thighboots of Casting",
+        "Leve Level": "58",
+        "Leve EXP": "421,420",
+        "Leve Gil": "428"
+    },
+    {
+        "Leve Name": "Raising the Dragoons (L)",
+        "Leve Item": "Serpentskin Armguards of Maiming x 3",
+        "Leve Level": "58",
+        "Leve EXP": "3,263,600",
+        "Leve Gil": "5,928"
+    },
+    {
+        "Leve Name": "Do My Little Turn on the Stonewalk (L)",
+        "Leve Item": "Serpentskin Hat of Casting x 3",
+        "Leve Level": "58",
+        "Leve EXP": "2,664,150",
+        "Leve Gil": "5,616"
+    },
+    {
+        "Leve Name": "On My Own Two Feet (L)",
+        "Leve Item": "Serpentskin Thighboots of Casting",
+        "Leve Level": "58",
+        "Leve EXP": "702,370",
+        "Leve Gil": "1,482"
+    },
+    {
+        "Leve Name": "Vested Interest",
+        "Leve Item": "Gaganaskin Vest",
+        "Leve Level": "60",
+        "Leve EXP": "703,720",
+        "Leve Gil": "2,496"
+    },
+    {
+        "Leve Name": "Hide to Go Seek",
+        "Leve Item": "Gagana Leather",
+        "Leve Level": "60",
+        "Leve EXP": "236,350",
+        "Leve Gil": "1,248"
+    },
+    {
+        "Leve Name": "Fitting In",
+        "Leve Item": "Gaganaskin Hat of Aiming",
+        "Leve Level": "60",
+        "Leve EXP": "225,670",
+        "Leve Gil": "676"
+    },
+    {
+        "Leve Name": "Weathering Heights",
+        "Leve Item": "Gyuki Leather Highboots of Striking",
+        "Leve Level": "62",
+        "Leve EXP": "595,710",
+        "Leve Gil": "2,746"
+    },
+    {
+        "Leve Name": "Off the Cuff",
+        "Leve Item": "Gyuki Leather Wristband",
+        "Leve Level": "62",
+        "Leve EXP": "486,300",
+        "Leve Gil": "2,746"
+    },
+    {
+        "Leve Name": "Looking for Glove",
+        "Leve Item": "Gyuki Leather Halfgloves of Scouting",
+        "Leve Level": "62",
+        "Leve EXP": "357,430",
+        "Leve Gil": "991"
+    },
+    {
+        "Leve Name": "Try Tricorne Again",
+        "Leve Item": "Tigerskin Tricorne of Aiming",
+        "Leve Level": "64",
+        "Leve EXP": "709,140",
+        "Leve Gil": "2,995"
+    },
+    {
+        "Leve Name": "Shoe on the Other Foot",
+        "Leve Item": "Tigerskin Boots of Crafting",
+        "Leve Level": "64",
+        "Leve EXP": "599,100",
+        "Leve Gil": "2,995"
+    },
+    {
+        "Leve Name": "Tiger in the Sack",
+        "Leve Item": "Tiger Leather",
+        "Leve Level": "64",
+        "Leve EXP": "142,900",
+        "Leve Gil": "541"
+    },
+    {
+        "Leve Name": "A Stitch in Time",
+        "Leve Item": "Marid Leather Gloves of Healing",
+        "Leve Level": "66",
+        "Leve EXP": "625,040",
+        "Leve Gil": "3,245"
+    },
+    {
+        "Leve Name": "Shrug It On",
+        "Leve Item": "Marid Leather Bolero of Crafting",
+        "Leve Level": "66",
+        "Leve EXP": "739,840",
+        "Leve Gil": "3,245"
+    },
+    {
+        "Leve Name": "Security Breeches",
+        "Leve Item": "Marid Leather Breeches of Maiming",
+        "Leve Level": "66",
+        "Leve EXP": "581,670",
+        "Leve Gil": "1,172"
+    },
+    {
+        "Leve Name": "Brace Yourselves",
+        "Leve Item": "Gazelleskin Bracers of Fending",
+        "Leve Level": "68",
+        "Leve EXP": "806,710",
+        "Leve Gil": "3,494"
+    },
+    {
+        "Leve Name": "Thick and Thin",
+        "Leve Item": "Gazelleskin Corselet of Scouting",
+        "Leve Level": "68",
+        "Leve EXP": "1,182,260",
+        "Leve Gil": "3,494"
+    },
+    {
+        "Leve Name": "If the Shoe Fits",
+        "Leve Item": "Gazelleskin Boots of Casting",
+        "Leve Level": "68",
+        "Leve EXP": "559,130",
+        "Leve Gil": "1,262"
+    },
+    {
+        "Leve Name": "Ware and Chair",
+        "Leve Item": "Smilodon Leather",
+        "Leve Level": "70",
+        "Leve EXP": "341,780",
+        "Leve Gil": "1,920"
+    },
+    {
+        "Leve Name": "Girding for Glory",
+        "Leve Item": "Smilodonskin Trousers of Maiming",
+        "Leve Level": "70",
+        "Leve EXP": "820,510",
+        "Leve Gil": "3,840"
+    },
+    {
+        "Leve Name": "Band Substances",
+        "Leve Item": "Smilodonskin Wristband",
+        "Leve Level": "70",
+        "Leve EXP": "339,520",
+        "Leve Gil": "1,387"
+    },
+    {
+        "Leve Name": "Breeches of Trust",
+        "Leve Item": "Gliderskin Breeches of Fending",
+        "Leve Level": "72",
+        "Leve EXP": "826,240",
+        "Leve Gil": "4,090"
+    },
+    {
+        "Leve Name": "Glove Me Tender",
+        "Leve Item": "Gliderskin Gloves of Striking",
+        "Leve Level": "72",
+        "Leve EXP": "569,820",
+        "Leve Gil": "4,090"
+    },
+    {
+        "Leve Name": "A Slippery Slope",
+        "Leve Item": "Gliderskin Boots of Casting",
+        "Leve Level": "72",
+        "Leve EXP": "495,740",
+        "Leve Gil": "1,477"
+    },
+    {
+        "Leve Name": "Peace in Rest",
+        "Leve Item": "Atrociraptor Leather",
+        "Leve Level": "74",
+        "Leve EXP": "390,410",
+        "Leve Gil": "2,170"
+    },
+    {
+        "Leve Name": "A Heady Endeavor",
+        "Leve Item": "Atrociraptorskin Headgear of Scouting",
+        "Leve Level": "74",
+        "Leve EXP": "937,250",
+        "Leve Gil": "4,339"
+    },
+    {
+        "Leve Name": "At Your Neck and Call",
+        "Leve Item": "Atrociraptorskin Necklace of Aiming",
+        "Leve Level": "74",
+        "Leve EXP": "387,820",
+        "Leve Gil": "1,175"
+    },
+    {
+        "Leve Name": "Protecting the Nuts",
+        "Leve Item": "Zonureskin Coat of Maiming",
+        "Leve Level": "76",
+        "Leve EXP": "1,425,640",
+        "Leve Gil": "4,589"
+    },
+    {
+        "Leve Name": "If I Could Walk a Thousand Malms",
+        "Leve Item": "Zonureskin Shoes of Gathering",
+        "Leve Level": "76",
+        "Leve EXP": "919,160",
+        "Leve Gil": "4,589"
+    },
+    {
+        "Leve Name": "Strike True",
+        "Leve Item": "Zonureskin Fingerless Gloves of Aiming",
+        "Leve Level": "76",
+        "Leve EXP": "551,490",
+        "Leve Gil": "1,657"
+    },
+    {
+        "Leve Name": "Fit for a Friend",
+        "Leve Item": "Swallowskin Gloves of Fending",
+        "Leve Level": "78",
+        "Leve EXP": "1,103,750",
+        "Leve Gil": "4,838"
+    },
+    {
+        "Leve Name": "Into the Storm",
+        "Leve Item": "Swallowskin Jacket of Scouting",
+        "Leve Level": "78",
+        "Leve EXP": "1,606,520",
+        "Leve Gil": "4,838"
+    },
+    {
+        "Leve Name": "A Shoe In",
+        "Leve Item": "Swallowskin Shoes of Healing",
+        "Leve Level": "78",
+        "Leve EXP": "783,880",
+        "Leve Gil": "1,747"
+    },
+    {
+        "Leve Name": "Hell on Leather",
+        "Leve Item": "Gaja Leather x 3",
+        "Leve Level": "80",
+        "Leve EXP": "724,620",
+        "Leve Gil": "2,450"
+    },
+    {
+        "Leve Name": "Running up the Tabi",
+        "Leve Item": "Gajaskin Tabi",
+        "Leve Level": "80",
+        "Leve EXP": "935,000",
+        "Leve Gil": "4,900"
+    },
+    {
+        "Leve Name": "Boot Legs",
+        "Leve Item": "Luncheon Toadskin Boots of Striking",
+        "Leve Level": "82",
+        "Leve EXP": "1,051,810",
+        "Leve Gil": "4,910"
+    },
+    {
+        "Leve Name": "Scouting Talent",
+        "Leve Item": "Luncheon Toadskin Jacket of Scouting",
+        "Leve Level": "82",
+        "Leve EXP": "1,582,910",
+        "Leve Gil": "4,920"
+    },
+    {
+        "Leve Name": "Battered Books",
+        "Leve Item": "Saiga Leather x 3",
+        "Leve Level": "84",
+        "Leve EXP": "933,280",
+        "Leve Gil": "2,470"
+    },
+    {
+        "Leve Name": "Loyal Turncoat",
+        "Leve Item": "Saigaskin Coat of Fending",
+        "Leve Level": "84",
+        "Leve EXP": "1,725,980",
+        "Leve Gil": "4,960"
+    },
+    {
+        "Leve Name": "Grips of Fear",
+        "Leve Item": "Kumbhiraskin Gloves of the Black Griffin",
+        "Leve Level": "86",
+        "Leve EXP": "1,503,270",
+        "Leve Gil": "4,980"
+    },
+    {
+        "Leve Name": "Loving Soles",
+        "Leve Item": "Kumbhiraskin Boots of Gathering",
+        "Leve Level": "86",
+        "Leve EXP": "1,443,780",
+        "Leve Gil": "5,000"
+    },
+    {
+        "Leve Name": "Generous Soles",
+        "Leve Item": "Ophiotauroskin Boots of Healing",
+        "Leve Level": "88",
+        "Leve EXP": "1,703,250",
+        "Leve Gil": "5,020"
+    },
+    {
+        "Leve Name": "For What Was Gleaned",
+        "Leve Item": "Ophiotauroskin Wristband of Gathering",
+        "Leve Level": "88",
+        "Leve EXP": "1,457,380",
+        "Leve Gil": "5,040"
+    },
+    {
+        "Leve Name": "Tenets of Tanning",
+        "Leve Item": "Silver Lobo Leather x 3",
+        "Leve Level": "90",
+        "Leve EXP": "1,440,660",
+        "Leve Gil": "2,530"
+    },
+    {
+        "Leve Name": "The Perfect Accessory",
+        "Leve Item": "Loboskin Amulet of Fending",
+        "Leve Level": "90",
+        "Leve EXP": "1,440,660",
+        "Leve Gil": "2,530"
+    },
+    {
+        "Leve Name": "Freezing Fingers",
+        "Leve Item": "Crocodileskin Fingerless Gloves of Striking",
+        "Leve Level": "92",
+        "Leve EXP": "2,148,720",
+        "Leve Gil": "5,070"
+    },
+    {
+        "Leve Name": "Dreams of Ja",
+        "Leve Item": "Crocodileskin Leg Wraps of Scouting",
+        "Leve Level": "92",
+        "Leve EXP": "2,148,720",
+        "Leve Gil": "5,070"
+    },
+    {
+        "Leve Name": "Respect for Br'aax",
+        "Leve Item": "Br'aax Leather x 3",
+        "Leve Level": "94",
+        "Leve EXP": "1,902,430",
+        "Leve Gil": "2,550"
+    },
+    {
+        "Leve Name": "Lending Artisans a Hand",
+        "Leve Item": "Br'aaxskin Halfgloves of Crafting",
+        "Leve Level": "94",
+        "Leve EXP": "2,454,760",
+        "Leve Gil": "5,100"
+    },
+    {
+        "Leve Name": "Freezing Toes",
+        "Leve Item": "Gomphotherium Boots of Striking",
+        "Leve Level": "96",
+        "Leve EXP": "3,059,520",
+        "Leve Gil": "5,140"
+    },
+    {
+        "Leve Name": "Giving Gatherers Their Gear",
+        "Leve Item": "Gomphotherium Doublet of Gathering",
+        "Leve Level": "96",
+        "Leve EXP": "4,125,360",
+        "Leve Gil": "5,140"
+    },
+    {
+        "Leve Name": "Worqor Zormor or Bust",
+        "Leve Item": "Gargantuaskin Shoes of Healing",
+        "Leve Level": "98",
+        "Leve EXP": "3,459,540",
+        "Leve Gil": "5,180"
+    },
+    {
+        "Leve Name": "Just Generally Freezing",
+        "Leve Item": "Gargantuaskin Trousers of Striking",
+        "Leve Level": "98",
+        "Leve EXP": "5,149,700",
+        "Leve Gil": "5,180"
+    }
+]

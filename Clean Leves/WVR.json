@@ -1,0 +1,1262 @@
+[
+  {
+    "Leve Name": "The Unmentionables",
+    "Leve Item": "Hempen Underpants",
+    "Leve Level": "1",
+    "Leve EXP": "1,690",
+    "Leve Gil": "112",
+    "Leve Amount": 1,
+    "Leve Item ID": 3307
+  },
+  {
+    "Leve Name": "Trew Enough",
+    "Leve Item": "Hempen Chausses",
+    "Leve Level": "1",
+    "Leve EXP": "2,220",
+    "Leve Gil": "114",
+    "Leve Amount": 1,
+    "Leve Item ID": 3309
+  },
+  {
+    "Leve Name": "Not Cool Enough",
+    "Leve Item": "Hempen Undershirt",
+    "Leve Level": "1",
+    "Leve EXP": "1,690",
+    "Leve Gil": "113",
+    "Leve Amount": 1,
+    "Leve Item ID": 2996
+  },
+  {
+    "Leve Name": "Hire in the Blood",
+    "Leve Item": "Hempen Halfgloves",
+    "Leve Level": "1",
+    "Leve EXP": "1,160",
+    "Leve Gil": "112",
+    "Leve Amount": 1,
+    "Leve Item ID": 3515
+  },
+  {
+    "Leve Name": "Burn Me Up",
+    "Leve Item": "Hempen Cowl",
+    "Leve Level": "1",
+    "Leve EXP": "2,740",
+    "Leve Gil": "115",
+    "Leve Amount": 1,
+    "Leve Item ID": 3000
+  },
+  {
+    "Leve Name": "Long Hair, Long Life",
+    "Leve Item": "Hempen Coif",
+    "Leve Level": "1",
+    "Leve EXP": "1,690",
+    "Leve Gil": "113",
+    "Leve Amount": 1,
+    "Leve Item ID": 2661
+  },
+  {
+    "Leve Name": "The Adventurer's New Coat",
+    "Leve Item": "Hempen Tabard",
+    "Leve Level": "5",
+    "Leve EXP": "6,030",
+    "Leve Gil": "140",
+    "Leve Amount": 1,
+    "Leve Item ID": 2999
+  },
+  {
+    "Leve Name": "A Taste for Dalmaticae",
+    "Leve Item": "Amateur's Dalmatica",
+    "Leve Level": "5",
+    "Leve EXP": "6,030",
+    "Leve Gil": "140",
+    "Leve Amount": 1,
+    "Leve Item ID": 3015
+  },
+  {
+    "Leve Name": "Just for Kecks",
+    "Leve Item": "Hempen Kecks",
+    "Leve Level": "5",
+    "Leve EXP": "8,460",
+    "Leve Gil": "169",
+    "Leve Amount": 1,
+    "Leve Item ID": 3313
+  },
+  {
+    "Leve Name": "Wiggle Room",
+    "Leve Item": "Hempen Shepherd's Tunic",
+    "Leve Level": "5",
+    "Leve EXP": "6,840",
+    "Leve Gil": "142",
+    "Leve Amount": 1,
+    "Leve Item ID": 3001
+  },
+  {
+    "Leve Name": "This Is Why You Can't Have Nice Things",
+    "Leve Item": "Amateur's Breeches",
+    "Leve Level": "5",
+    "Leve EXP": "6,840",
+    "Leve Gil": "142",
+    "Leve Amount": 1,
+    "Leve Item ID": 3316
+  },
+  {
+    "Leve Name": "Time for Acton",
+    "Leve Item": "Hempen Acton",
+    "Leve Level": "5",
+    "Leve EXP": "5,730",
+    "Leve Gil": "140",
+    "Leve Amount": 1,
+    "Leve Item ID": 3008
+  },
+  {
+    "Leve Name": "Hat in Hand",
+    "Leve Item": "Straw Hat",
+    "Leve Level": "10",
+    "Leve EXP": "3,780",
+    "Leve Gil": "168",
+    "Leve Amount": 1,
+    "Leve Item ID": 2658
+  },
+  {
+    "Leve Name": "Workplace Safety",
+    "Leve Item": "Cotton Scarf",
+    "Leve Level": "10",
+    "Leve EXP": "9,990",
+    "Leve Gil": "288",
+    "Leve Amount": 1,
+    "Leve Item ID": 2670
+  },
+  {
+    "Leve Name": "Keep It under Wraps",
+    "Leve Item": "Cotton Turban",
+    "Leve Level": "10",
+    "Leve EXP": "9,990",
+    "Leve Gil": "292",
+    "Leve Amount": 1,
+    "Leve Item ID": 26304
+  },
+  {
+    "Leve Name": "Making Gloves Out of Nothing at All",
+    "Leve Item": "Hempen Bracers",
+    "Leve Level": "10",
+    "Leve EXP": "13,090",
+    "Leve Gil": "172",
+    "Leve Amount": 1,
+    "Leve Item ID": 3539
+  },
+  {
+    "Leve Name": "Welcome to the Cotton Club",
+    "Leve Item": "Cotton Halfgloves",
+    "Leve Level": "10",
+    "Leve EXP": "6,880",
+    "Leve Gil": "173",
+    "Leve Amount": 1,
+    "Leve Item ID": 3543
+  },
+  {
+    "Leve Name": "Dirt Cheap",
+    "Leve Item": "Stablehand's Hat",
+    "Leve Level": "10",
+    "Leve EXP": "6,880",
+    "Leve Gil": "174",
+    "Leve Amount": 1,
+    "Leve Item ID": 2666
+  },
+  {
+    "Leve Name": "Read the Fine Print",
+    "Leve Item": "Cotton Shepherd's Tunic",
+    "Leve Level": "15",
+    "Leve EXP": "24,790",
+    "Leve Gil": "240",
+    "Leve Amount": 1,
+    "Leve Item ID": 3023
+  },
+  {
+    "Leve Name": "Don't Trew So Hard",
+    "Leve Item": "Initiate's Slops",
+    "Leve Level": "15",
+    "Leve EXP": "21,850",
+    "Leve Gil": "235",
+    "Leve Amount": 1,
+    "Leve Item ID": 3341
+  },
+  {
+    "Leve Name": "Better Shroud than Sorry",
+    "Leve Item": "Cotton Kurta",
+    "Leve Level": "15",
+    "Leve EXP": "24,790",
+    "Leve Gil": "293",
+    "Leve Amount": 1,
+    "Leve Item ID": 3041
+  },
+  {
+    "Leve Name": "Pants Are Not Enough",
+    "Leve Item": "Padded Hempen Trousers",
+    "Leve Level": "15",
+    "Leve EXP": "21,850",
+    "Leve Gil": "229",
+    "Leve Amount": 1,
+    "Leve Item ID": 3325
+  },
+  {
+    "Leve Name": "Touch Me If You Can",
+    "Leve Item": "Cotton Work Gloves",
+    "Leve Level": "15",
+    "Leve EXP": "20,790",
+    "Leve Gil": "230",
+    "Leve Amount": 1,
+    "Leve Item ID": 3561
+  },
+  {
+    "Leve Name": "A Drag of a Doublet",
+    "Leve Item": "Initiate's Doublet Vest",
+    "Leve Level": "15",
+    "Leve EXP": "24,790",
+    "Leve Gil": "293",
+    "Leve Amount": 1,
+    "Leve Item ID": 3064
+  },
+  {
+    "Leve Name": "New Shoes, New Me",
+    "Leve Item": "Cotton Dress Shoes",
+    "Leve Level": "20",
+    "Leve EXP": "28,010",
+    "Leve Gil": "293",
+    "Leve Amount": 1,
+    "Leve Item ID": 3800
+  },
+  {
+    "Leve Name": "Hitting Below the Belt",
+    "Leve Item": "Cotton Breeches of Crafting",
+    "Leve Level": "20",
+    "Leve EXP": "16,800",
+    "Leve Gil": "69",
+    "Leve Amount": 1,
+    "Leve Item ID": 27174
+  },
+  {
+    "Leve Name": "Doublet Jeopardy",
+    "Leve Item": "Cotton Doublet Vest of Gathering",
+    "Leve Level": "20",
+    "Leve EXP": "28,010",
+    "Leve Gil": "348",
+    "Leve Amount": 1,
+    "Leve Item ID": 3053
+  },
+  {
+    "Leve Name": "Getting Handsy",
+    "Leve Item": "Cotton Dress Gloves",
+    "Leve Level": "20",
+    "Leve EXP": "28,010",
+    "Leve Gil": "290",
+    "Leve Amount": 1,
+    "Leve Item ID": 3568
+  },
+  {
+    "Leve Name": "The Telltale Tress",
+    "Leve Item": "Cotton Coif of Gathering",
+    "Leve Level": "20",
+    "Leve EXP": "12,960",
+    "Leve Gil": "107",
+    "Leve Amount": 1,
+    "Leve Item ID": 2700
+  },
+  {
+    "Leve Name": "Whatchoo Talking About",
+    "Leve Item": "Cotton Doublet Vest of Crafting",
+    "Leve Level": "20",
+    "Leve EXP": "28,010",
+    "Leve Gil": "348",
+    "Leve Amount": 1,
+    "Leve Item ID": 3052
+  },
+  {
+    "Leve Name": "Piling It On",
+    "Leve Item": "Velveteen Shirt",
+    "Leve Level": "25",
+    "Leve EXP": "47,200",
+    "Leve Gil": "317",
+    "Leve Amount": 1,
+    "Leve Item ID": 3066
+  },
+  {
+    "Leve Name": "I'll Be Your Wailer Today",
+    "Leve Item": "Velveteen Wedge Cap of Gathering",
+    "Leve Level": "25",
+    "Leve EXP": "36,390",
+    "Leve Gil": "250",
+    "Leve Amount": 1,
+    "Leve Item ID": 2734
+  },
+  {
+    "Leve Name": "He's Got Legs",
+    "Leve Item": "Velveteen Sarouel",
+    "Leve Level": "25",
+    "Leve EXP": "24,980",
+    "Leve Gil": "203",
+    "Leve Amount": 1,
+    "Leve Item ID": 3349
+  },
+  {
+    "Leve Name": "Pantser Corps",
+    "Leve Item": "Initiate's Slops",
+    "Leve Level": "25",
+    "Leve EXP": "41,630",
+    "Leve Gil": "290",
+    "Leve Amount": 1,
+    "Leve Item ID": 3341
+  },
+  {
+    "Leve Name": "Put a Lid on It",
+    "Leve Item": "Velveteen Wedge Cap of Gathering",
+    "Leve Level": "25",
+    "Leve EXP": "36,390",
+    "Leve Gil": "250",
+    "Leve Amount": 1,
+    "Leve Item ID": 2734
+  },
+  {
+    "Leve Name": "Bet You Anything",
+    "Leve Item": "Velveteen Sarouel of Gathering",
+    "Leve Level": "25",
+    "Leve EXP": "24,980",
+    "Leve Gil": "203",
+    "Leve Amount": 1,
+    "Leve Item ID": 3351
+  },
+  {
+    "Leve Name": "By the Seat of the Pants",
+    "Leve Item": "Linen Chausses",
+    "Leve Level": "30",
+    "Leve EXP": "67,730",
+    "Leve Gil": "473",
+    "Leve Amount": 1,
+    "Leve Item ID": 27990
+  },
+  {
+    "Leve Name": "By the Short Hairs",
+    "Leve Item": "Velveteen Robe",
+    "Leve Level": "30",
+    "Leve EXP": "99,220",
+    "Leve Gil": "413",
+    "Leve Amount": 1,
+    "Leve Item ID": 3106
+  },
+  {
+    "Leve Name": "Our Man in Ul'dah",
+    "Leve Item": "Velveteen Work Gloves",
+    "Leve Level": "30",
+    "Leve EXP": "34,430",
+    "Leve Gil": "149",
+    "Leve Amount": 1,
+    "Leve Item ID": 3601
+  },
+  {
+    "Leve Name": "Half Is the New Double",
+    "Leve Item": "Linen Halfgloves",
+    "Leve Level": "30",
+    "Leve EXP": "36,240",
+    "Leve Gil": "390",
+    "Leve Amount": 1,
+    "Leve Item ID": 21725
+  },
+  {
+    "Leve Name": "Put on Your Party Pants",
+    "Leve Item": "Velveteen Gaskins",
+    "Leve Level": "30",
+    "Leve EXP": "52,220",
+    "Leve Gil": "378",
+    "Leve Amount": 1,
+    "Leve Item ID": 3372
+  },
+  {
+    "Leve Name": "Walk Softly and Carry a Big Halberd",
+    "Leve Item": "Velveteen Dress Shoes",
+    "Leve Level": "30",
+    "Leve EXP": "40,640",
+    "Leve Gil": "149",
+    "Leve Amount": 1,
+    "Leve Item ID": 3831
+  },
+  {
+    "Leve Name": "Edmelle's Hair",
+    "Leve Item": "Linen Wedge Cap of Gathering",
+    "Leve Level": "35",
+    "Leve EXP": "94,160",
+    "Leve Gil": "554",
+    "Leve Amount": 1,
+    "Leve Item ID": 2805
+  },
+  {
+    "Leve Name": "Private Concerns",
+    "Leve Item": "Linen Trousers",
+    "Leve Level": "35",
+    "Leve EXP": "105,270",
+    "Leve Gil": "491",
+    "Leve Amount": 1,
+    "Leve Item ID": 21726
+  },
+  {
+    "Leve Name": "Crunching the Numbers",
+    "Leve Item": "Linen Hat",
+    "Leve Level": "35",
+    "Leve EXP": "49,830",
+    "Leve Gil": "231",
+    "Leve Amount": 1,
+    "Leve Item ID": 42037
+  },
+  {
+    "Leve Name": "The Wages of Sin",
+    "Leve Item": "Linen Coatee of Crafting",
+    "Leve Level": "35",
+    "Leve EXP": "115,720",
+    "Leve Gil": "572",
+    "Leve Amount": 1,
+    "Leve Item ID": 3144
+  },
+  {
+    "Leve Name": "In over Your Head",
+    "Leve Item": "Linen Cowl",
+    "Leve Level": "35",
+    "Leve EXP": "115,720",
+    "Leve Gil": "569",
+    "Leve Amount": 1,
+    "Leve Item ID": 3140
+  },
+  {
+    "Leve Name": "A Leg Up on the Cold",
+    "Leve Item": "Linen Tights",
+    "Leve Level": "35",
+    "Leve EXP": "43,560",
+    "Leve Gil": "230",
+    "Leve Amount": 1,
+    "Leve Item ID": 3397
+  },
+  {
+    "Leve Name": "Cool to Be Southern",
+    "Leve Item": "Woolen Kecks",
+    "Leve Level": "40",
+    "Leve EXP": "125,680",
+    "Leve Gil": "631",
+    "Leve Amount": 1,
+    "Leve Item ID": 3421
+  },
+  {
+    "Leve Name": "After the Smock-down",
+    "Leve Item": "Linen Smock",
+    "Leve Level": "40",
+    "Leve EXP": "125,680",
+    "Leve Gil": "510",
+    "Leve Amount": 1,
+    "Leve Item ID": 3162
+  },
+  {
+    "Leve Name": "Party Animals",
+    "Leve Item": "Linen Deerstalker",
+    "Leve Level": "40",
+    "Leve EXP": "61,560",
+    "Leve Gil": "226",
+    "Leve Amount": 1,
+    "Leve Item ID": 2816
+  },
+  {
+    "Leve Name": "I'll Swap You",
+    "Leve Item": "Ranger's Tunic",
+    "Leve Level": "40",
+    "Leve EXP": "113,680",
+    "Leve Gil": "607",
+    "Leve Amount": 1,
+    "Leve Item ID": 3172
+  },
+  {
+    "Leve Name": "No Country for Cold Men",
+    "Leve Item": "Woolen Tights",
+    "Leve Level": "40",
+    "Leve EXP": "79,510",
+    "Leve Gil": "520",
+    "Leve Amount": 1,
+    "Leve Item ID": 3413
+  },
+  {
+    "Leve Name": "A Matter of Import",
+    "Leve Item": "Woolen Hat",
+    "Leve Level": "40",
+    "Leve EXP": "54,350",
+    "Leve Gil": "277",
+    "Leve Amount": 1,
+    "Leve Item ID": 2832
+  },
+  {
+    "Leve Name": "Full Moon Fever",
+    "Leve Item": "Felt Chausses",
+    "Leve Level": "45",
+    "Leve EXP": "137,400",
+    "Leve Gil": "714",
+    "Leve Amount": 1,
+    "Leve Item ID": 10912
+  },
+  {
+    "Leve Name": "Glad As a Hatter",
+    "Leve Item": "Felt Hat",
+    "Leve Level": "45",
+    "Leve EXP": "152,230",
+    "Leve Gil": "754",
+    "Leve Amount": 1,
+    "Leve Item ID": 10927
+  },
+  {
+    "Leve Name": "Seeing It Through to the End",
+    "Leve Item": "Woolen Smock",
+    "Leve Level": "45",
+    "Leve EXP": "100,980",
+    "Leve Gil": "308",
+    "Leve Amount": 1,
+    "Leve Item ID": 3187
+  },
+  {
+    "Leve Name": "Big in Mor Dhona",
+    "Leve Item": "Rainmaker's Tunic",
+    "Leve Level": "45",
+    "Leve EXP": "152,230",
+    "Leve Gil": "738",
+    "Leve Amount": 1,
+    "Leve Item ID": 3201
+  },
+  {
+    "Leve Name": "And a Haircut Wouldn't Hurt",
+    "Leve Item": "Felt Robe",
+    "Leve Level": "45",
+    "Leve EXP": "199,230",
+    "Leve Gil": "822",
+    "Leve Amount": 1,
+    "Leve Item ID": 10892
+  },
+  {
+    "Leve Name": "Bundle Up, It's Odd out There",
+    "Leve Item": "Woolen Deerstalker",
+    "Leve Level": "45",
+    "Leve EXP": "82,440",
+    "Leve Gil": "292",
+    "Leve Amount": 1,
+    "Leve Item ID": 2854
+  },
+  {
+    "Leve Name": "Pride Up in Smoke",
+    "Leve Item": "Rainbow Cloth",
+    "Leve Level": "50",
+    "Leve EXP": "211,350",
+    "Leve Gil": "624",
+    "Leve Amount": 1,
+    "Leve Item ID": 12589
+  },
+  {
+    "Leve Name": "Protecting the Foundation",
+    "Leve Item": "Rainbow Slops of Aiming",
+    "Leve Level": "50",
+    "Leve EXP": "211,350",
+    "Leve Gil": "624",
+    "Leve Amount": 1,
+    "Leve Item ID": 10824
+  },
+  {
+    "Leve Name": "Ribbon of Remembrance",
+    "Leve Item": "Rainbow Ribbon of Healing",
+    "Leve Level": "50",
+    "Leve EXP": "163,630",
+    "Leve Gil": "248",
+    "Leve Amount": 1,
+    "Leve Item ID": 11036
+  },
+  {
+    "Leve Name": "Desperate for Diversionaries (L)",
+    "Leve Item": "Rainbow Cloth",
+    "Leve Level": "50",
+    "Leve EXP": "1,585,190",
+    "Leve Gil": "3,120",
+    "Leve Amount": 5,
+    "Leve Item ID": 12589
+  },
+  {
+    "Leve Name": "Curb the Gnawing Feeling (L)",
+    "Leve Item": "Rainbow Slops of Aiming",
+    "Leve Level": "50",
+    "Leve EXP": "1,162,470",
+    "Leve Gil": "3,120",
+    "Leve Amount": 3,
+    "Leve Item ID": 10824
+  },
+  {
+    "Leve Name": "The Road Was a Ribbon of Moonlight (L)",
+    "Leve Item": "Rainbow Ribbon of Healing",
+    "Leve Level": "50",
+    "Leve EXP": "272,720",
+    "Leve Gil": "858",
+    "Leve Amount": 1,
+    "Leve Item ID": 11036
+  },
+  {
+    "Leve Name": "What Not to Wear",
+    "Leve Item": "Holy Rainbow Shirt of Striking",
+    "Leve Level": "52",
+    "Leve EXP": "480,670",
+    "Leve Gil": "811",
+    "Leve Amount": 1,
+    "Leve Item ID": 10762
+  },
+  {
+    "Leve Name": "Fashion Patrol",
+    "Leve Item": "Holy Rainbow Sarouel of Casting",
+    "Leve Level": "52",
+    "Leve EXP": "406,080",
+    "Leve Gil": "749",
+    "Leve Amount": 1,
+    "Leve Item ID": 10951
+  },
+  {
+    "Leve Name": "An Account of My Boots",
+    "Leve Item": "Holy Rainbow Shoes",
+    "Leve Level": "52",
+    "Leve EXP": "198,900",
+    "Leve Gil": "315",
+    "Leve Amount": 1,
+    "Leve Item ID": 11979
+  },
+  {
+    "Leve Name": "Appeal of Foreign Apparel (L)",
+    "Leve Item": "Holy Rainbow Shirt of Striking",
+    "Leve Level": "52",
+    "Leve EXP": "2,643,720",
+    "Leve Gil": "4,056",
+    "Leve Amount": 3,
+    "Leve Item ID": 10762
+  },
+  {
+    "Leve Name": "Dress Code Violation (L)",
+    "Leve Item": "Holy Rainbow Sarouel of Casting",
+    "Leve Level": "52",
+    "Leve EXP": "2,233,480",
+    "Leve Gil": "3,744",
+    "Leve Amount": 3,
+    "Leve Item ID": 10951
+  },
+  {
+    "Leve Name": "Soot in My Hair and Scars on My Feet (L)",
+    "Leve Item": "Holy Rainbow Shoes",
+    "Leve Level": "52",
+    "Leve EXP": "331,500",
+    "Leve Gil": "1,092",
+    "Leve Amount": 1,
+    "Leve Item ID": 11979
+  },
+  {
+    "Leve Name": "Clothing the Naked Truth",
+    "Leve Item": "Ramie Robe of Casting",
+    "Leve Level": "54",
+    "Leve EXP": "560,140",
+    "Leve Gil": "936",
+    "Leve Amount": 1,
+    "Leve Item ID": 19022
+  },
+  {
+    "Leve Name": "Storm upon Bald Mountain",
+    "Leve Item": "Ramie Turban of Crafting",
+    "Leve Level": "54",
+    "Leve EXP": "473,220",
+    "Leve Gil": "936",
+    "Leve Amount": 1,
+    "Leve Item ID": 11957
+  },
+  {
+    "Leve Name": "Finger on the Pulse",
+    "Leve Item": "Ramie Halfgloves of Healing",
+    "Leve Level": "54",
+    "Leve EXP": "231,780",
+    "Leve Gil": "315",
+    "Leve Amount": 1,
+    "Leve Item ID": 10896
+  },
+  {
+    "Leve Name": "When in Robes (L)",
+    "Leve Item": "Ramie Robe of Casting",
+    "Leve Level": "54",
+    "Leve EXP": "3,080,780",
+    "Leve Gil": "4,680",
+    "Leve Amount": 3,
+    "Leve Item ID": 19022
+  },
+  {
+    "Leve Name": "Abrupt Apprentices (L)",
+    "Leve Item": "Ramie Turban of Crafting",
+    "Leve Level": "54",
+    "Leve EXP": "2,602,720",
+    "Leve Gil": "4,680",
+    "Leve Amount": 3,
+    "Leve Item ID": 11957
+  },
+  {
+    "Leve Name": "Chirurgeon Hand in Glove (L)",
+    "Leve Item": "Ramie Halfgloves of Healing",
+    "Leve Level": "54",
+    "Leve EXP": "386,300",
+    "Leve Gil": "1,092",
+    "Leve Amount": 1,
+    "Leve Item ID": 10896
+  },
+  {
+    "Leve Name": "Healing with Flair",
+    "Leve Item": "Hallowed Ramie Gaskins of Healing",
+    "Leve Level": "56",
+    "Leve EXP": "436,700",
+    "Leve Gil": "998",
+    "Leve Amount": 1,
+    "Leve Item ID": 10911
+  },
+  {
+    "Leve Name": "Where the Dragonflies, the Net Catches",
+    "Leve Item": "Crawler Silk",
+    "Leve Level": "56",
+    "Leve EXP": "310,930",
+    "Leve Gil": "1,061",
+    "Leve Amount": 2,
+    "Leve Item ID": 12596
+  },
+  {
+    "Leve Name": "Investing in the Future",
+    "Leve Item": "Hallowed Ramie Doublet of Aiming",
+    "Leve Level": "56",
+    "Leve EXP": "438,880",
+    "Leve Gil": "383",
+    "Leve Amount": 1,
+    "Leve Item ID": 10806
+  },
+  {
+    "Leve Name": "Pants Fit for Battle (L)",
+    "Leve Item": "Hallowed Ramie Gaskins of Healing",
+    "Leve Level": "56",
+    "Leve EXP": "2,401,870",
+    "Leve Gil": "4,992",
+    "Leve Amount": 3,
+    "Leve Item ID": 10911
+  },
+  {
+    "Leve Name": "To Kill a Dragon on Nameday (L)",
+    "Leve Item": "Crawler Silk",
+    "Leve Level": "56",
+    "Leve EXP": "1,710,120",
+    "Leve Gil": "5,304",
+    "Leve Amount": 10,
+    "Leve Item ID": 12596
+  },
+  {
+    "Leve Name": "Maids of Honor (L)",
+    "Leve Item": "Hallowed Ramie Doublet of Aiming",
+    "Leve Level": "56",
+    "Leve EXP": "731,480",
+    "Leve Gil": "1,326",
+    "Leve Amount": 1,
+    "Leve Item ID": 10806
+  },
+  {
+    "Leve Name": "Felt for the Fallen",
+    "Leve Item": "Chimerical Felt",
+    "Leve Level": "58",
+    "Leve EXP": "453,870",
+    "Leve Gil": "1,123",
+    "Leve Amount": 1,
+    "Leve Item ID": 11977
+  },
+  {
+    "Leve Name": "He Wears the Pants",
+    "Leve Item": "Chimerical Felt Trousers",
+    "Leve Level": "58",
+    "Leve EXP": "593,380",
+    "Leve Gil": "1,248",
+    "Leve Amount": 1,
+    "Leve Item ID": 12005
+  },
+  {
+    "Leve Name": "The Hat List",
+    "Leve Item": "Chimerical Felt Cap of Scouting",
+    "Leve Level": "58",
+    "Leve EXP": "290,630",
+    "Leve Gil": "406",
+    "Leve Amount": 1,
+    "Leve Item ID": 10842
+  },
+  {
+    "Leve Name": "Blinded Veil of Vigilance (L)",
+    "Leve Item": "Chimerical Felt",
+    "Leve Level": "58",
+    "Leve EXP": "3,404,060",
+    "Leve Gil": "5,616",
+    "Leve Amount": 5,
+    "Leve Item ID": 11977
+  },
+  {
+    "Leve Name": "Pom Hemlock (L)",
+    "Leve Item": "Chimerical Felt Trousers",
+    "Leve Level": "58",
+    "Leve EXP": "3,263,600",
+    "Leve Gil": "6,240",
+    "Leve Amount": 3,
+    "Leve Item ID": 12005
+  },
+  {
+    "Leve Name": "Knight Incognito (L)",
+    "Leve Item": "Chimerical Felt Cap of Scouting",
+    "Leve Level": "58",
+    "Leve EXP": "484,390",
+    "Leve Gil": "1,404",
+    "Leve Amount": 1,
+    "Leve Item ID": 10842
+  },
+  {
+    "Leve Name": "Modest Beginnings",
+    "Leve Item": "Bloodhempen Culottes of Casting",
+    "Leve Level": "60",
+    "Leve EXP": "703,720",
+    "Leve Gil": "2,496",
+    "Leve Amount": 1,
+    "Leve Item ID": 18088
+  },
+  {
+    "Leve Name": "What Guides Want",
+    "Leve Item": "Bloodhempen Doublet of Crafting",
+    "Leve Level": "60",
+    "Leve EXP": "703,720",
+    "Leve Gil": "2,496",
+    "Leve Amount": 1,
+    "Leve Item ID": 19613
+  },
+  {
+    "Leve Name": "Proper Props",
+    "Leve Item": "Bloodhempen Armguards of Scouting",
+    "Leve Level": "60",
+    "Leve EXP": "291,190",
+    "Leve Gil": "901",
+    "Leve Amount": 1,
+    "Leve Item ID": 18075
+  },
+  {
+    "Leve Name": "Duress Rehearsal",
+    "Leve Item": "Ruby Cotton Fingerless Gloves of Casting",
+    "Leve Level": "62",
+    "Leve EXP": "376,880",
+    "Leve Gil": "2,746",
+    "Leve Amount": 1,
+    "Leve Item ID": 18243
+  },
+  {
+    "Leve Name": "Skills on Display",
+    "Leve Item": "Ruby Cotton Cloth",
+    "Leve Level": "62",
+    "Leve EXP": "376,880",
+    "Leve Gil": "1,373",
+    "Leve Amount": 1,
+    "Leve Item ID": 19977
+  },
+  {
+    "Leve Name": "Getting a Leg Up",
+    "Leve Item": "Ruby Cotton Gaskins of Striking",
+    "Leve Level": "62",
+    "Leve EXP": "357,430",
+    "Leve Gil": "991",
+    "Leve Amount": 1,
+    "Leve Item ID": 18220
+  },
+  {
+    "Leve Name": "Apparent Apparel",
+    "Leve Item": "Kudzu Tunic of Striking",
+    "Leve Level": "64",
+    "Leve EXP": "929,220",
+    "Leve Gil": "2,995",
+    "Leve Amount": 1,
+    "Leve Item ID": 18374
+  },
+  {
+    "Leve Name": "Say Yes to Formal Dress",
+    "Leve Item": "Kudzu Culottes of Gathering",
+    "Leve Level": "64",
+    "Leve EXP": "819,180",
+    "Leve Gil": "2,995",
+    "Leve Amount": 1,
+    "Leve Item ID": 19640
+  },
+  {
+    "Leve Name": "Of Great Import",
+    "Leve Item": "Kudzu Thread",
+    "Leve Level": "64",
+    "Leve EXP": "95,360",
+    "Leve Gil": "541",
+    "Leve Amount": 2,
+    "Leve Item ID": 19981
+  },
+  {
+    "Leve Name": "Who War It Better",
+    "Leve Item": "Serge Hose of Aiming",
+    "Leve Level": "66",
+    "Leve EXP": "510,240",
+    "Leve Gil": "3,245",
+    "Leve Amount": 1,
+    "Leve Item ID": 18538
+  },
+  {
+    "Leve Name": "Don't Sweat the Role",
+    "Leve Item": "Serge Turban of Crafting",
+    "Leve Level": "66",
+    "Leve EXP": "625,040",
+    "Leve Gil": "3,245",
+    "Leve Amount": 1,
+    "Leve Item ID": 19642
+  },
+  {
+    "Leve Name": "To the Tops",
+    "Leve Item": "Serge Gambison of Healing",
+    "Leve Level": "66",
+    "Leve EXP": "581,670",
+    "Leve Gil": "1,172",
+    "Leve Amount": 1,
+    "Leve Item ID": 18548
+  },
+  {
+    "Leve Name": "Brimming with Confidence",
+    "Leve Item": "Twinsilk Turban of Aiming",
+    "Leve Level": "68",
+    "Leve EXP": "931,890",
+    "Leve Gil": "3,494",
+    "Leve Amount": 1,
+    "Leve Item ID": 18691
+  },
+  {
+    "Leve Name": "One Winged Angle",
+    "Leve Item": "Twinsilk Coat of Casting",
+    "Leve Level": "68",
+    "Leve EXP": "1,057,080",
+    "Leve Gil": "3,494",
+    "Leve Amount": 1,
+    "Leve Item ID": 18710
+  },
+  {
+    "Leve Name": "Cap It Off",
+    "Leve Item": "Serge Knit Cap",
+    "Leve Level": "68",
+    "Leve EXP": "333,810",
+    "Leve Gil": "1,262",
+    "Leve Amount": 1,
+    "Leve Item ID": 19652
+  },
+  {
+    "Leve Name": "Flax Wax",
+    "Leve Item": "Bright Linen Yarn",
+    "Leve Level": "70",
+    "Leve EXP": "183,900",
+    "Leve Gil": "1,920",
+    "Leve Amount": 3,
+    "Leve Item ID": 27746
+  },
+  {
+    "Leve Name": "Lovely Leggings",
+    "Leve Item": "Brightlinen Bottoms of Striking",
+    "Leve Level": "70",
+    "Leve EXP": "820,510",
+    "Leve Gil": "3,840",
+    "Leve Amount": 1,
+    "Leve Item ID": 25661
+  },
+  {
+    "Leve Name": "Turban in Training",
+    "Leve Item": "Brightlinen Turban of Crafting",
+    "Leve Level": "70",
+    "Leve EXP": "339,520",
+    "Leve Gil": "1,387",
+    "Leve Amount": 1,
+    "Leve Item ID": 27161
+  },
+  {
+    "Leve Name": "Suits You",
+    "Leve Item": "Iridescent Acton of Aiming",
+    "Leve Level": "72",
+    "Leve EXP": "826,240",
+    "Leve Gil": "4,090",
+    "Leve Amount": 1,
+    "Leve Item ID": 25825
+  },
+  {
+    "Leve Name": "Legs for Days",
+    "Leve Item": "Iridescent Bottoms of Scouting",
+    "Leve Level": "72",
+    "Leve EXP": "698,030",
+    "Leve Gil": "4,090",
+    "Leve Amount": 1,
+    "Leve Item ID": 25833
+  },
+  {
+    "Leve Name": "Hair Do No Harm",
+    "Leve Item": "Iridescent Hat of Healing",
+    "Leve Level": "72",
+    "Leve EXP": "341,890",
+    "Leve Gil": "1,477",
+    "Leve Amount": 1,
+    "Leve Item ID": 25836
+  },
+  {
+    "Leve Name": "A Tender Table",
+    "Leve Item": "Pixie Floss",
+    "Leve Level": "74",
+    "Leve EXP": "210,060",
+    "Leve Gil": "2,170",
+    "Leve Amount": 3,
+    "Leve Item ID": 27752
+  },
+  {
+    "Leve Name": "Hunting Season",
+    "Leve Item": "Pixie Cotton Hat of Striking",
+    "Leve Level": "74",
+    "Leve EXP": "937,250",
+    "Leve Gil": "4,339",
+    "Leve Amount": 1,
+    "Leve Item ID": 25978
+  },
+  {
+    "Leve Name": "Gloves Come in Handy",
+    "Leve Item": "Pixie Cotton Sleeves of Crafting",
+    "Leve Level": "74",
+    "Leve EXP": "387,820",
+    "Leve Gil": "1,567",
+    "Leve Amount": 1,
+    "Leve Item ID": 27173
+  },
+  {
+    "Leve Name": "All-purpose Overgarments",
+    "Leve Item": "Ovim Wool Tunic of Aiming",
+    "Leve Level": "76",
+    "Leve EXP": "1,425,640",
+    "Leve Gil": "4,589",
+    "Leve Amount": 1,
+    "Leve Item ID": 26145
+  },
+  {
+    "Leve Name": "The Hunt Continues",
+    "Leve Item": "Ovim Wool Muffed Met of Casting",
+    "Leve Level": "76",
+    "Leve EXP": "1,000,200",
+    "Leve Gil": "4,589",
+    "Leve Amount": 1,
+    "Leve Item ID": 26162
+  },
+  {
+    "Leve Name": "Something in My Eye",
+    "Leve Item": "Ovim Wool Turban of Gathering",
+    "Leve Level": "76",
+    "Leve EXP": "498,820",
+    "Leve Gil": "1,657",
+    "Leve Amount": 1,
+    "Leve Item ID": 27186
+  },
+  {
+    "Leve Name": "A Job Well Done",
+    "Leve Item": "Dwarven Cotton Gaskins of Fending",
+    "Leve Level": "78",
+    "Leve EXP": "1,509,210",
+    "Leve Gil": "4,838",
+    "Leve Amount": 1,
+    "Leve Item ID": 26289
+  },
+  {
+    "Leve Name": "A Turban for the Ages",
+    "Leve Item": "Dwarven Cotton Turban of Scouting",
+    "Leve Level": "78",
+    "Leve EXP": "1,403,790",
+    "Leve Gil": "4,838",
+    "Leve Amount": 1,
+    "Leve Item ID": 26310
+  },
+  {
+    "Leve Name": "Healing Headwear",
+    "Leve Item": "Dwarven Cotton Petasos of Healing",
+    "Leve Level": "78",
+    "Leve EXP": "598,990",
+    "Leve Gil": "1,747",
+    "Leve Amount": 1,
+    "Leve Item ID": 26316
+  },
+  {
+    "Leve Name": "Heavy Armoire",
+    "Leve Item": "Dark Hempen Cloth",
+    "Leve Level": "80",
+    "Leve EXP": "724,620",
+    "Leve Gil": "2,450",
+    "Leve Amount": 3,
+    "Leve Item ID": 36208
+  },
+  {
+    "Leve Name": "Helping Handwear",
+    "Leve Item": "Fingerless Darkhempen Gloves of Healing",
+    "Leve Level": "80",
+    "Leve EXP": "935,000",
+    "Leve Gil": "4,900",
+    "Leve Amount": 1,
+    "Leve Item ID": 34127
+  },
+  {
+    "Leve Name": "Hot Heads",
+    "Leve Item": "Almasty Serge Hat of Casting",
+    "Leve Level": "82",
+    "Leve EXP": "1,051,810",
+    "Leve Gil": "4,910",
+    "Leve Amount": 1,
+    "Leve Item ID": 34280
+  },
+  {
+    "Leve Name": "Color Coated",
+    "Leve Item": "Almasty Serge Coat of Healing",
+    "Leve Level": "82",
+    "Leve EXP": "1,582,910",
+    "Leve Gil": "4,920",
+    "Leve Amount": 1,
+    "Leve Item ID": 34276
+  },
+  {
+    "Leve Name": "A Polished Purchase",
+    "Leve Item": "Snow Linen",
+    "Leve Level": "84",
+    "Leve EXP": "933,280",
+    "Leve Gil": "2,470",
+    "Leve Amount": 3,
+    "Leve Item ID": 36210
+  },
+  {
+    "Leve Name": "Turban Sprawl",
+    "Leve Item": "Snow Linen Turban of Crafting",
+    "Leve Level": "84",
+    "Leve EXP": "1,255,600",
+    "Leve Gil": "4,960",
+    "Leve Amount": 1,
+    "Leve Item ID": 35414
+  },
+  {
+    "Leve Name": "Lightening Up",
+    "Leve Item": "Scarlet Moko Gaskins of the Rising Dragon",
+    "Leve Level": "86",
+    "Leve EXP": "1,922,600",
+    "Leve Gil": "4,980",
+    "Leve Amount": 1,
+    "Leve Item ID": 34563
+  },
+  {
+    "Leve Name": "Lifetime of Gleaning",
+    "Leve Item": "Scarlet Moko Beret of Gathering",
+    "Leve Level": "86",
+    "Leve EXP": "1,443,780",
+    "Leve Gil": "5,000",
+    "Leve Amount": 1,
+    "Leve Item ID": 35429
+  },
+  {
+    "Leve Name": "Skill Cap",
+    "Leve Item": "AR-Caean Velvet Cap of Maiming",
+    "Leve Level": "88",
+    "Leve EXP": "1,703,250",
+    "Leve Gil": "5,020",
+    "Leve Amount": 1,
+    "Leve Item ID": 34705
+  },
+  {
+    "Leve Name": "A Better Bottom Line",
+    "Leve Item": "AR-Caean Velvet Bottoms of Scouting",
+    "Leve Level": "88",
+    "Leve EXP": "2,257,300",
+    "Leve Gil": "5,040",
+    "Leve Amount": 1,
+    "Leve Item ID": 34723
+  },
+  {
+    "Leve Name": "Comfy Cabins",
+    "Leve Item": "Snow Cotton Cloth",
+    "Leve Level": "90",
+    "Leve EXP": "1,440,660",
+    "Leve Gil": "2,530",
+    "Leve Amount": 3,
+    "Leve Item ID": 44029
+  },
+  {
+    "Leve Name": "Begin with the Basics",
+    "Leve Item": "Snow Cotton Jacket",
+    "Leve Level": "90",
+    "Leve EXP": "2,695,430",
+    "Leve Gil": "5,060",
+    "Leve Amount": 1,
+    "Leve Item ID": 41869
+  },
+  {
+    "Leve Name": "Cloth for Canvas",
+    "Leve Item": "Mountain Linen",
+    "Leve Level": "92",
+    "Leve EXP": "1,665,250",
+    "Leve Gil": "2,535",
+    "Leve Amount": 3,
+    "Leve Item ID": 42037
+  },
+  {
+    "Leve Name": "In Line with Linen",
+    "Leve Item": "Mountain Linen Cloak of Casting",
+    "Leve Level": "92",
+    "Leve EXP": "3,115,640",
+    "Leve Gil": "5,070",
+    "Leve Amount": 1,
+    "Leve Item ID": 42043
+  },
+  {
+    "Leve Name": "Weaving the Envelope",
+    "Leve Item": "Sarcenet Cloth",
+    "Leve Level": "94",
+    "Leve EXP": "1,902,430",
+    "Leve Gil": "2,550",
+    "Leve Amount": 3,
+    "Leve Item ID": 44031
+  },
+  {
+    "Leve Name": "Traditional Trousers",
+    "Leve Item": "Sarcenet Slops of Aiming",
+    "Leve Level": "94",
+    "Leve EXP": "3,929,450",
+    "Leve Gil": "5,100",
+    "Leve Amount": 1,
+    "Leve Item ID": 42184
+  },
+  {
+    "Leve Name": "Halfgloves, Full Effort",
+    "Leve Item": "Rroneek Serge Halfgloves of Healing",
+    "Leve Level": "96",
+    "Leve EXP": "3,059,520",
+    "Leve Gil": "5,140",
+    "Leve Amount": 1,
+    "Leve Item ID": 42347
+  },
+  {
+    "Leve Name": "Cruel Climates",
+    "Leve Item": "Rroneek Serge Trousers of Gathering",
+    "Leve Level": "96",
+    "Leve EXP": "4,125,360",
+    "Leve Gil": "5,140",
+    "Leve Amount": 1,
+    "Leve Item ID": 43312
+  },
+  {
+    "Leve Name": "Glamorous Gloves",
+    "Leve Item": "Thunderyards Silk Gloves of Casting",
+    "Leve Level": "98",
+    "Leve EXP": "3,459,540",
+    "Leve Gil": "5,180",
+    "Leve Amount": 1,
+    "Leve Item ID": 42506
+  },
+  {
+    "Leve Name": "Silk for Sunperch",
+    "Leve Item": "Thunderyards Silk Coat of Casting",
+    "Leve Level": "98",
+    "Leve EXP": "5,149,700",
+    "Leve Gil": "5,180",
+    "Leve Amount": 1,
+    "Leve Item ID": 42505
+  }
+]

@@ -1,0 +1,982 @@
+[
+    {
+        "Leve Name": "Copper and Robbers",
+        "Leve Item": "Copper Ingot",
+        "Leve Level": "1",
+        "Leve EXP": "630",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "Needful Rings",
+        "Leve Item": "Copper Wristlets",
+        "Leve Level": "1",
+        "Leve EXP": "1,690",
+        "Leve Gil": "116"
+    },
+    {
+        "Leve Name": "Arms for the Poor",
+        "Leve Item": "Bone Brand",
+        "Leve Level": "1",
+        "Leve EXP": "450",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "Hora at Me",
+        "Leve Item": "Bone Hora",
+        "Leve Level": "1",
+        "Leve EXP": "720",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "Bad Bromance",
+        "Leve Item": "Bone Staff",
+        "Leve Level": "1",
+        "Leve EXP": "630",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "Water of Life",
+        "Leve Item": "Copper Rings",
+        "Leve Level": "1",
+        "Leve EXP": "630",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "Gods of Small Things",
+        "Leve Item": "Copper Earrings",
+        "Leve Level": "5",
+        "Leve EXP": "3,600",
+        "Leve Gil": "139"
+    },
+    {
+        "Leve Name": "I Ram What I Ram",
+        "Leve Item": "Ramhorn Claws",
+        "Leve Level": "5",
+        "Leve EXP": "2,230",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "Let's Talk about Hex",
+        "Leve Item": "Bone Necklace",
+        "Leve Level": "5",
+        "Leve EXP": "3,040",
+        "Leve Gil": "169"
+    },
+    {
+        "Leve Name": "A Ringing Success",
+        "Leve Item": "Copper Ring",
+        "Leve Level": "5",
+        "Leve EXP": "3,600",
+        "Leve Gil": "139"
+    },
+    {
+        "Leve Name": "Horn of Plenty",
+        "Leve Item": "Bone Armillae",
+        "Leve Level": "5",
+        "Leve EXP": "1,980",
+        "Leve Gil": "140"
+    },
+    {
+        "Leve Name": "A Needle Is a Small Sword",
+        "Leve Item": "Copper Needle",
+        "Leve Level": "5",
+        "Leve EXP": "3,600",
+        "Leve Gil": "139"
+    },
+    {
+        "Leve Name": "All That Glitters",
+        "Leve Item": "Copper Ear Cuffs",
+        "Leve Level": "10",
+        "Leve EXP": "9,990",
+        "Leve Gil": "168"
+    },
+    {
+        "Leve Name": "The Tusk at Hand",
+        "Leve Item": "Fang Earrings",
+        "Leve Level": "10",
+        "Leve EXP": "7,880",
+        "Leve Gil": "288"
+    },
+    {
+        "Leve Name": "An Offer We Can't Refuse",
+        "Leve Item": "Decorated Bone Staff",
+        "Leve Level": "10",
+        "Leve EXP": "7,880",
+        "Leve Gil": "250"
+    },
+    {
+        "Leve Name": "Point of Honor",
+        "Leve Item": "Amateur's Needle",
+        "Leve Level": "10",
+        "Leve EXP": "2,230",
+        "Leve Gil": "168"
+    },
+    {
+        "Leve Name": "Gorgeous Gorget",
+        "Leve Item": "Brass Gorget",
+        "Leve Level": "10",
+        "Leve EXP": "9,990",
+        "Leve Gil": "293"
+    },
+    {
+        "Leve Name": "Better Four Eyes than None",
+        "Leve Item": "Brass Spectacles",
+        "Leve Level": "10",
+        "Leve EXP": "6,880",
+        "Leve Gil": "288"
+    },
+    {
+        "Leve Name": "Brothers in Arms",
+        "Leve Item": "Brass Wristlets of Crafting",
+        "Leve Level": "15",
+        "Leve EXP": "18,910",
+        "Leve Gil": "245"
+    },
+    {
+        "Leve Name": "Forever 21K",
+        "Leve Item": "Brass Ring",
+        "Leve Level": "15",
+        "Leve EXP": "13,040",
+        "Leve Gil": "173"
+    },
+    {
+        "Leve Name": "Bad to the Bone",
+        "Leve Item": "Brass Circlet (Sunstone)",
+        "Leve Level": "15",
+        "Leve EXP": "24,790",
+        "Leve Gil": "529"
+    },
+    {
+        "Leve Name": "Sharp Words",
+        "Leve Item": "Bat Fang Needle",
+        "Leve Level": "15",
+        "Leve EXP": "10,100",
+        "Leve Gil": "223"
+    },
+    {
+        "Leve Name": "Bad Guys Eat Brass",
+        "Leve Item": "Brass Ring of Crafting",
+        "Leve Level": "15",
+        "Leve EXP": "13,040",
+        "Leve Gil": "173"
+    },
+    {
+        "Leve Name": "I Am a Rock",
+        "Leve Item": "Brass Circlet (Danburite)",
+        "Leve Level": "15",
+        "Leve EXP": "24,790",
+        "Leve Gil": "529"
+    },
+    {
+        "Leve Name": "Perk of Fiction",
+        "Leve Item": "Coral Ring",
+        "Leve Level": "20",
+        "Leve EXP": "10,710",
+        "Leve Gil": "280"
+    },
+    {
+        "Leve Name": "King for a Day",
+        "Leve Item": "Decorated Copper Scepter",
+        "Leve Level": "20",
+        "Leve EXP": "12,960",
+        "Leve Gil": "166"
+    },
+    {
+        "Leve Name": "You Burnt It, You Bought It",
+        "Leve Item": "Wind Brand",
+        "Leve Level": "20",
+        "Leve EXP": "18,290",
+        "Leve Gil": "192"
+    },
+    {
+        "Leve Name": "Music to Their Ears",
+        "Leve Item": "Brass Ear Cuffs",
+        "Leve Level": "20",
+        "Leve EXP": "21,600",
+        "Leve Gil": "290"
+    },
+    {
+        "Leve Name": "Dog Tags Are for Dogs",
+        "Leve Item": "Brass Ring",
+        "Leve Level": "20",
+        "Leve EXP": "8,990",
+        "Leve Gil": "105"
+    },
+    {
+        "Leve Name": "One and Only",
+        "Leve Item": "Staghorn Staff",
+        "Leve Level": "20",
+        "Leve EXP": "10,710",
+        "Leve Gil": "292"
+    },
+    {
+        "Leve Name": "Love in the Time of Umbra",
+        "Leve Item": "Silver Ring",
+        "Leve Level": "25",
+        "Leve EXP": "25,250",
+        "Leve Gil": "296"
+    },
+    {
+        "Leve Name": "Thaumaturge Is Magic",
+        "Leve Item": "Fluorite Ring",
+        "Leve Level": "25",
+        "Leve EXP": "25,250",
+        "Leve Gil": "252"
+    },
+    {
+        "Leve Name": "All Booked Up",
+        "Leve Item": "Silver Magnifiers",
+        "Leve Level": "25",
+        "Leve EXP": "21,830",
+        "Leve Gil": "268"
+    },
+    {
+        "Leve Name": "Necklet of Champions",
+        "Leve Item": "Horn Necklace",
+        "Leve Level": "25",
+        "Leve EXP": "25,250",
+        "Leve Gil": "298"
+    },
+    {
+        "Leve Name": "Keep the Change",
+        "Leve Item": "Fluorite Earrings",
+        "Leve Level": "25",
+        "Leve EXP": "36,390",
+        "Leve Gil": "485"
+    },
+    {
+        "Leve Name": "Dancing with the Stars",
+        "Leve Item": "Toothed Staghorn Staff",
+        "Leve Level": "25",
+        "Leve EXP": "18,490",
+        "Leve Gil": "277"
+    },
+    {
+        "Leve Name": "He Has His Quartz",
+        "Leve Item": "Silver Circlet (Goshenite)",
+        "Leve Level": "30",
+        "Leve EXP": "67,730",
+        "Leve Gil": "463"
+    },
+    {
+        "Leve Name": "One Man's Trash",
+        "Leve Item": "Horn Ring",
+        "Leve Level": "30",
+        "Leve EXP": "25,900",
+        "Leve Gil": "532"
+    },
+    {
+        "Leve Name": "A Little Bird Told Me",
+        "Leve Item": "Malachite Bracelet",
+        "Leve Level": "30",
+        "Leve EXP": "31,330",
+        "Leve Gil": "151"
+    },
+    {
+        "Leve Name": "Renascence Man",
+        "Leve Item": "Worm Fang Needle",
+        "Leve Level": "30",
+        "Leve EXP": "25,900",
+        "Leve Gil": "355"
+    },
+    {
+        "Leve Name": "It's Only Love",
+        "Leve Item": "Silver Choker",
+        "Leve Level": "30",
+        "Leve EXP": "52,220",
+        "Leve Gil": "485"
+    },
+    {
+        "Leve Name": "Get the Green Stuff",
+        "Leve Item": "Malachite Earrings",
+        "Leve Level": "30",
+        "Leve EXP": "31,330",
+        "Leve Gil": "151"
+    },
+    {
+        "Leve Name": "Actually, It's Loyalty",
+        "Leve Item": "Aquamarine Bracelet",
+        "Leve Level": "35",
+        "Leve EXP": "72,600",
+        "Leve Gil": "596"
+    },
+    {
+        "Leve Name": "Lode It Up",
+        "Leve Item": "Mythril Ring",
+        "Leve Level": "35",
+        "Leve EXP": "50,380",
+        "Leve Gil": "559"
+    },
+    {
+        "Leve Name": "Burning the Midnight Oil",
+        "Leve Item": "Fire Brand",
+        "Leve Level": "35",
+        "Leve EXP": "36,890",
+        "Leve Gil": "156"
+    },
+    {
+        "Leve Name": "Wear Your Patriotic Pin",
+        "Leve Item": "Peridot Choker",
+        "Leve Level": "35",
+        "Leve EXP": "72,600",
+        "Leve Gil": "568"
+    },
+    {
+        "Leve Name": "Dead Can't Defang",
+        "Leve Item": "Wolf Necklace",
+        "Leve Level": "35",
+        "Leve EXP": "50,380",
+        "Leve Gil": "485"
+    },
+    {
+        "Leve Name": "Faith and Fashion",
+        "Leve Item": "Mythril Earrings",
+        "Leve Level": "35",
+        "Leve EXP": "30,230",
+        "Leve Gil": "184"
+    },
+    {
+        "Leve Name": "Coral on My Mind",
+        "Leve Item": "Red Coral Ring",
+        "Leve Level": "40",
+        "Leve EXP": "40,730",
+        "Leve Gil": "498"
+    },
+    {
+        "Leve Name": "When We Were Blings",
+        "Leve Item": "Mythril Ear Cuffs",
+        "Leve Level": "40",
+        "Leve EXP": "79,510",
+        "Leve Gil": "509"
+    },
+    {
+        "Leve Name": "It's My Business to Know Things",
+        "Leve Item": "Red Coral Armillae",
+        "Leve Level": "40",
+        "Leve EXP": "20,000",
+        "Leve Gil": "259"
+    },
+    {
+        "Leve Name": "North Ore South",
+        "Leve Item": "Electrum Gorget",
+        "Leve Level": "40",
+        "Leve EXP": "79,510",
+        "Leve Gil": "631"
+    },
+    {
+        "Leve Name": "Tough Job Market",
+        "Leve Item": "Horn Staff",
+        "Leve Level": "40",
+        "Leve EXP": "67,510",
+        "Leve Gil": "390"
+    },
+    {
+        "Leve Name": "If You've Got It, Flaunt It",
+        "Leve Item": "Peridot Earrings",
+        "Leve Level": "40",
+        "Leve EXP": "47,700",
+        "Leve Gil": "327"
+    },
+    {
+        "Leve Name": "Green and Bear It",
+        "Leve Item": "Tourmaline Choker",
+        "Leve Level": "45",
+        "Leve EXP": "106,480",
+        "Leve Gil": "752"
+    },
+    {
+        "Leve Name": "Gold Is So Last Year",
+        "Leve Item": "Electrum Circlet (Amber)",
+        "Leve Level": "45",
+        "Leve EXP": "137,400",
+        "Leve Gil": "820"
+    },
+    {
+        "Leve Name": "The Big Red",
+        "Leve Item": "Red Coral Necklace",
+        "Leve Level": "45",
+        "Leve EXP": "45,340",
+        "Leve Gil": "277"
+    },
+    {
+        "Leve Name": "Sew Not Doing This",
+        "Leve Item": "Electrum Needle",
+        "Leve Level": "45",
+        "Leve EXP": "75,570",
+        "Leve Gil": "583"
+    },
+    {
+        "Leve Name": "Sweet Charity",
+        "Leve Item": "Amber Ring",
+        "Leve Level": "45",
+        "Leve EXP": "75,570",
+        "Leve Gil": "575"
+    },
+    {
+        "Leve Name": "Light in the Darkness",
+        "Leve Item": "Amber Choker",
+        "Leve Level": "45",
+        "Leve EXP": "63,890",
+        "Leve Gil": "360"
+    },
+    {
+        "Leve Name": "The Goggles, They Do Naught",
+        "Leve Item": "Mythrite Goggles of Gathering",
+        "Leve Level": "50",
+        "Leve EXP": "334,080",
+        "Leve Gil": "686"
+    },
+    {
+        "Leve Name": "Not on My Table",
+        "Leve Item": "Mythrite Earrings of Healing",
+        "Leve Level": "50",
+        "Leve EXP": "272,720",
+        "Leve Gil": "686"
+    },
+    {
+        "Leve Name": "Halonic Hermeneutics",
+        "Leve Item": "Yeti Staff",
+        "Leve Level": "50",
+        "Leve EXP": "200,450",
+        "Leve Gil": "248"
+    },
+    {
+        "Leve Name": "Peril Never Wore Safety Goggles (L)",
+        "Leve Item": "Mythrite Goggles of Gathering x 3",
+        "Leve Level": "50",
+        "Leve EXP": "1,837,480",
+        "Leve Gil": "3,432"
+    },
+    {
+        "Leve Name": "Heinz's Dilemma (L)",
+        "Leve Item": "Mythrite Earrings of Healing x 3",
+        "Leve Level": "50",
+        "Leve EXP": "1,499,980",
+        "Leve Gil": "3,432"
+    },
+    {
+        "Leve Name": "Transposing Theology (L)",
+        "Leve Item": "Yeti Staff",
+        "Leve Level": "50",
+        "Leve EXP": "334,080",
+        "Leve Gil": "858"
+    },
+    {
+        "Leve Name": "Sense of Entitlement",
+        "Leve Item": "Mythrite Planisphere",
+        "Leve Level": "52",
+        "Leve EXP": "629,850",
+        "Leve Gil": "811"
+    },
+    {
+        "Leve Name": "High Above Me, She Sews Lovely",
+        "Leve Item": "Mythrite Needle",
+        "Leve Level": "52",
+        "Leve EXP": "331,500",
+        "Leve Gil": "749"
+    },
+    {
+        "Leve Name": "Sky Is the Limit",
+        "Leve Item": "Mythrite Ingot",
+        "Leve Level": "52",
+        "Leve EXP": "109,390",
+        "Leve Gil": "270"
+    },
+    {
+        "Leve Name": "Charting the Trends (L)",
+        "Leve Item": "Mythrite Planisphere x 3",
+        "Leve Level": "52",
+        "Leve EXP": "3,464,200",
+        "Leve Gil": "4,056"
+    },
+    {
+        "Leve Name": "Old-school Spooling (L)",
+        "Leve Item": "Mythrite Needle x 3",
+        "Leve Level": "52",
+        "Leve EXP": "1,823,250",
+        "Leve Gil": "3,744"
+    },
+    {
+        "Leve Name": "Hulls of Broken Dreams (L)",
+        "Leve Item": "Mythrite Ingot",
+        "Leve Level": "52",
+        "Leve EXP": "182,320",
+        "Leve Gil": "936"
+    },
+    {
+        "Leve Name": "The Unfortunate Retirony",
+        "Leve Item": "Hardsilver Bangle of Fending",
+        "Leve Level": "54",
+        "Leve EXP": "647,060",
+        "Leve Gil": "936"
+    },
+    {
+        "Leve Name": "Citizen's Arrest",
+        "Leve Item": "Mormorion Ring of Slaying",
+        "Leve Level": "54",
+        "Leve EXP": "299,380",
+        "Leve Gil": "874"
+    },
+    {
+        "Leve Name": "The Monuments Mages",
+        "Leve Item": "Hardsilver Magnifiers of Casting",
+        "Leve Level": "54",
+        "Leve EXP": "283,930",
+        "Leve Gil": "315"
+    },
+    {
+        "Leve Name": "Life Ends at Retirement (L)",
+        "Leve Item": "Hardsilver Bangle of Fending x 3",
+        "Leve Level": "54",
+        "Leve EXP": "3,558,830",
+        "Leve Gil": "4,680"
+    },
+    {
+        "Leve Name": "Watchers within the Walls (L)",
+        "Leve Item": "Mormorion Ring of Slaying x 3",
+        "Leve Level": "54",
+        "Leve EXP": "1,646,610",
+        "Leve Gil": "4,368"
+    },
+    {
+        "Leve Name": "Deal with It (L)",
+        "Leve Item": "Hardsilver Magnifiers of Casting",
+        "Leve Level": "54",
+        "Leve EXP": "473,220",
+        "Leve Gil": "1,092"
+    },
+    {
+        "Leve Name": "Needs More Prayerbell",
+        "Leve Item": "Hardsilver Ingot",
+        "Leve Level": "56",
+        "Leve EXP": "240,180",
+        "Leve Gil": "998"
+    },
+    {
+        "Leve Name": "The Grander Temple",
+        "Leve Item": "Dragon Fang Earrings",
+        "Leve Level": "56",
+        "Leve EXP": "240,180",
+        "Leve Gil": "998"
+    },
+    {
+        "Leve Name": "Appeasing the Astromancer",
+        "Leve Item": "Hardsilver Planisphere",
+        "Leve Level": "56",
+        "Leve EXP": "379,930",
+        "Leve Gil": "383"
+    },
+    {
+        "Leve Name": "With a Noise That Reaches Heaven (L)",
+        "Leve Item": "Hardsilver Ingot x 5",
+        "Leve Level": "56",
+        "Leve EXP": "1,801,390",
+        "Leve Gil": "4,992"
+    },
+    {
+        "Leve Name": "Man with a Dragon Earring (L)",
+        "Leve Item": "Dragon Fang Earrings x 3",
+        "Leve Level": "56",
+        "Leve EXP": "1,321,020",
+        "Leve Gil": "4,992"
+    },
+    {
+        "Leve Name": "Silver Bar of Upcycling (L)",
+        "Leve Item": "Hardsilver Planisphere",
+        "Leve Level": "56",
+        "Leve EXP": "633,220",
+        "Leve Gil": "1,326"
+    },
+    {
+        "Leve Name": "Keeping Claw and Order",
+        "Leve Item": "Griffin Talon Ring of Aiming",
+        "Leve Level": "58",
+        "Leve EXP": "318,720",
+        "Leve Gil": "1,186"
+    },
+    {
+        "Leve Name": "Embroiling Embroidery",
+        "Leve Item": "Griffin Talon Needle",
+        "Leve Level": "58",
+        "Leve EXP": "427,710",
+        "Leve Gil": "1,248"
+    },
+    {
+        "Leve Name": "A Halo for Her Head",
+        "Leve Item": "Aurum Regis Circlet of Healing",
+        "Leve Level": "58",
+        "Leve EXP": "356,020",
+        "Leve Gil": "451"
+    },
+    {
+        "Leve Name": "Ring of Reciprocity (L)",
+        "Leve Item": "Griffin Talon Ring of Aiming x 3",
+        "Leve Level": "58",
+        "Leve EXP": "1,752,990",
+        "Leve Gil": "5,928"
+    },
+    {
+        "Leve Name": "The Lovely Hands of Haillenarte (L)",
+        "Leve Item": "Griffin Talon Needle x 3",
+        "Leve Level": "58",
+        "Leve EXP": "2,352,440",
+        "Leve Gil": "6,240"
+    },
+    {
+        "Leve Name": "It's the Circlet of Life (L)",
+        "Leve Item": "Aurum Regis Circlet of Healing",
+        "Leve Level": "58",
+        "Leve EXP": "593,380",
+        "Leve Gil": "1,560"
+    },
+    {
+        "Leve Name": "Play It by Ear",
+        "Leve Item": "Triphane Earrings of Healing",
+        "Leve Level": "60",
+        "Leve EXP": "376,120",
+        "Leve Gil": "1,872"
+    },
+    {
+        "Leve Name": "One Ring Circus",
+        "Leve Item": "Triphane Ring of Slaying",
+        "Leve Level": "60",
+        "Leve EXP": "266,920",
+        "Leve Gil": "1,872"
+    },
+    {
+        "Leve Name": "Wants and Needles",
+        "Leve Item": "Bombfish Needle",
+        "Leve Level": "60",
+        "Leve EXP": "207,330",
+        "Leve Gil": "676"
+    },
+    {
+        "Leve Name": "Chain of Command",
+        "Leve Item": "Koppranickel Temple Chain",
+        "Leve Level": "62",
+        "Leve EXP": "486,300",
+        "Leve Gil": "2,746"
+    },
+    {
+        "Leve Name": "Bracelet for Impact",
+        "Leve Item": "Koppranickel Bracelet of Casting",
+        "Leve Level": "62",
+        "Leve EXP": "376,880",
+        "Leve Gil": "2,746"
+    },
+    {
+        "Leve Name": "If I'd a Koppranickel for Every Time...",
+        "Leve Item": "Koppranickel Ingot",
+        "Leve Level": "62",
+        "Leve EXP": "160,470",
+        "Leve Gil": "496"
+    },
+    {
+        "Leve Name": "Cutting Deals",
+        "Leve Item": "Durium Smallsword",
+        "Leve Level": "64",
+        "Leve EXP": "709,140",
+        "Leve Gil": "2,995"
+    },
+    {
+        "Leve Name": "Needle in a Hingan Stack",
+        "Leve Item": "Dzo Horn Needle",
+        "Leve Level": "64",
+        "Leve EXP": "431,830",
+        "Leve Gil": "2,246"
+    },
+    {
+        "Leve Name": "Hair-raising Action",
+        "Leve Item": "Durium Hairpin of Maiming",
+        "Leve Level": "64",
+        "Leve EXP": "359,460",
+        "Leve Gil": "1,082"
+    },
+    {
+        "Leve Name": "Best-laid Planispheres",
+        "Leve Item": "Dual-plated Durium Planisphere",
+        "Leve Level": "66",
+        "Leve EXP": "1,084,260",
+        "Leve Gil": "3,245"
+    },
+    {
+        "Leve Name": "Put the Metal to the Peddle",
+        "Leve Item": "Durium Ingot",
+        "Leve Level": "66",
+        "Leve EXP": "280,630",
+        "Leve Gil": "1,622"
+    },
+    {
+        "Leve Name": "Ring in the New",
+        "Leve Item": "Azurite Ring of Fending",
+        "Leve Level": "66",
+        "Leve EXP": "237,260",
+        "Leve Gil": "1,172"
+    },
+    {
+        "Leve Name": "Speak Softly and Carry a Metal Rod",
+        "Leve Item": "Palladium Rod",
+        "Leve Level": "68",
+        "Leve EXP": "681,530",
+        "Leve Gil": "3,494"
+    },
+    {
+        "Leve Name": "Untucked",
+        "Leve Item": "Palladium Tuck",
+        "Leve Level": "68",
+        "Leve EXP": "681,530",
+        "Leve Gil": "3,494"
+    },
+    {
+        "Leve Name": "Choker in the Clutch",
+        "Leve Item": "Palladium Choker of Aiming",
+        "Leve Level": "68",
+        "Leve EXP": "333,810",
+        "Leve Gil": "1,262"
+    },
+    {
+        "Leve Name": "Whetstones for the Workers",
+        "Leve Item": "Hard Mudstone Whetstone",
+        "Leve Level": "70",
+        "Leve EXP": "148,250",
+        "Leve Gil": "1,920"
+    },
+    {
+        "Leve Name": "Satisfactory Sewing",
+        "Leve Item": "Stonegold Needle",
+        "Leve Level": "70",
+        "Leve EXP": "693,190",
+        "Leve Gil": "3,840"
+    },
+    {
+        "Leve Name": "You're My Wonderhall",
+        "Leve Item": "Hematite Earrings of Healing",
+        "Leve Level": "70",
+        "Leve EXP": "339,520",
+        "Leve Gil": "1,040"
+    },
+    {
+        "Leve Name": "Slimming Down",
+        "Leve Item": "Stonegold Rapier",
+        "Leve Level": "72",
+        "Leve EXP": "826,240",
+        "Leve Gil": "4,090"
+    },
+    {
+        "Leve Name": "Neck on the Line",
+        "Leve Item": "Diaspore Choker of Fending",
+        "Leve Level": "72",
+        "Leve EXP": "569,820",
+        "Leve Gil": "3,067"
+    },
+    {
+        "Leve Name": "Gentleman Donor",
+        "Leve Item": "Diaspore Bracelet of Slaying",
+        "Leve Level": "72",
+        "Leve EXP": "341,890",
+        "Leve Gil": "1,108"
+    },
+    {
+        "Leve Name": "Copious Crystal Cannons",
+        "Leve Item": "Manasilver Nugget",
+        "Leve Level": "74",
+        "Leve EXP": "244,970",
+        "Leve Gil": "2,170"
+    },
+    {
+        "Leve Name": "Hot Rod",
+        "Leve Item": "Bluespirit Rod",
+        "Leve Level": "74",
+        "Leve EXP": "937,250",
+        "Leve Gil": "4,339"
+    },
+    {
+        "Leve Name": "Unsung Generosity",
+        "Leve Item": "Manasilver Choker",
+        "Leve Level": "74",
+        "Leve EXP": "387,820",
+        "Leve Gil": "1,175"
+    },
+    {
+        "Leve Name": "Prophet of Profit",
+        "Leve Item": "Titanbronze Star Globe",
+        "Leve Level": "76",
+        "Leve EXP": "919,160",
+        "Leve Gil": "4,589"
+    },
+    {
+        "Leve Name": "Birth Ring",
+        "Leve Item": "Triplite Ring of Aiming",
+        "Leve Level": "76",
+        "Leve EXP": "581,500",
+        "Leve Gil": "3,442"
+    },
+    {
+        "Leve Name": "A Magnanimous Refrain",
+        "Leve Item": "Triplite Earrings of Casting",
+        "Leve Level": "76",
+        "Leve EXP": "450,200",
+        "Leve Gil": "1,657"
+    },
+    {
+        "Leve Name": "Bulking Up",
+        "Leve Item": "Dwarven Mythril Rapier",
+        "Leve Level": "78",
+        "Leve EXP": "1,103,750",
+        "Leve Gil": "4,838"
+    },
+    {
+        "Leve Name": "A Beneficent Elegy",
+        "Leve Item": "Petalite Choker of Healing",
+        "Leve Level": "78",
+        "Leve EXP": "1,103,750",
+        "Leve Gil": "4,838"
+    },
+    {
+        "Leve Name": "Wrap Those Wrists",
+        "Leve Item": "Petalite Bracelet of Fending",
+        "Leve Level": "78",
+        "Leve EXP": "662,250",
+        "Leve Gil": "1,747"
+    },
+    {
+        "Leve Name": "Awarding Academic Excellence",
+        "Leve Item": "Ametrine x 3",
+        "Leve Level": "80",
+        "Leve EXP": "724,620",
+        "Leve Gil": "2,450"
+    },
+    {
+        "Leve Name": "Workplace Workout",
+        "Leve Item": "Ametrine Ring of Fending",
+        "Leve Level": "80",
+        "Leve EXP": "514,250",
+        "Leve Gil": "2,450"
+    },
+    {
+        "Leve Name": "The Sage's Successor",
+        "Leve Item": "Pewter Pendulums",
+        "Leve Level": "82",
+        "Leve EXP": "1,525,130",
+        "Leve Gil": "4,910"
+    },
+    {
+        "Leve Name": "Pewter-hewn Punishment",
+        "Leve Item": "Pewter Choker of Slaying",
+        "Leve Level": "82",
+        "Leve EXP": "846,040",
+        "Leve Gil": "2,460"
+    },
+    {
+        "Leve Name": "Gold Rush Order",
+        "Leve Item": "Phrygian Gold Ingot x 3",
+        "Leve Level": "84",
+        "Leve EXP": "933,280",
+        "Leve Gil": "2,470"
+    },
+    {
+        "Leve Name": "Sage with the Golden Earrings",
+        "Leve Item": "Phrygian Ear Cuffs of Healing",
+        "Leve Level": "84",
+        "Leve EXP": "1,067,020",
+        "Leve Gil": "4,960"
+    },
+    {
+        "Leve Name": "To Fight at Her Side",
+        "Leve Item": "Manganese Rapier",
+        "Leve Level": "86",
+        "Leve EXP": "2,028,020",
+        "Leve Gil": "4,980"
+    },
+    {
+        "Leve Name": "The Needle That Binds",
+        "Leve Item": "Manganese Needle",
+        "Leve Level": "86",
+        "Leve EXP": "1,443,780",
+        "Leve Gil": "5,000"
+    },
+    {
+        "Leve Name": "Planisphere to Paper",
+        "Leve Item": "Chondrite Magitek Planisphere",
+        "Leve Level": "88",
+        "Leve EXP": "2,297,800",
+        "Leve Gil": "5,020"
+    },
+    {
+        "Leve Name": "Star Athletes",
+        "Leve Item": "Star Quartz Wristband of Aiming",
+        "Leve Level": "88",
+        "Leve EXP": "1,395,490",
+        "Leve Gil": "5,040"
+    },
+    {
+        "Leve Name": "On Board for Lar",
+        "Leve Item": "Lar Ingot x 3",
+        "Leve Level": "90",
+        "Leve EXP": "1,440,660",
+        "Leve Gil": "2,530"
+    },
+    {
+        "Leve Name": "Pendulums of Our Own",
+        "Leve Item": "Lar Pendulums",
+        "Leve Level": "90",
+        "Leve EXP": "2,695,430",
+        "Leve Gil": "5,060"
+    },
+    {
+        "Leve Name": "Guaranteed Gem",
+        "Leve Item": "Ihuykanite x 3",
+        "Leve Level": "92",
+        "Leve EXP": "1,665,250",
+        "Leve Gil": "2,535"
+    },
+    {
+        "Leve Name": "Fan of the Foreign",
+        "Leve Item": "Ruthenium Folding Fans",
+        "Leve Level": "92",
+        "Leve EXP": "3,115,640",
+        "Leve Gil": "5,070"
+    },
+    {
+        "Leve Name": "Shiny and Good",
+        "Leve Item": "Pink Beryl x 3",
+        "Leve Level": "94",
+        "Leve EXP": "1,902,430",
+        "Leve Gil": "2,550"
+    },
+    {
+        "Leve Name": "Sew Excited",
+        "Leve Item": "Cobalt Tungsten Needle",
+        "Leve Level": "94",
+        "Leve EXP": "2,454,760",
+        "Leve Gil": "5,100"
+    },
+    {
+        "Leve Name": "Orders Anonymous",
+        "Leve Item": "White Gold Halfmask of Maiming",
+        "Leve Level": "96",
+        "Leve EXP": "3,059,520",
+        "Leve Gil": "5,140"
+    },
+    {
+        "Leve Name": "Ringing Gratitude",
+        "Leve Item": "White Gold Ring of Healing",
+        "Leve Level": "96",
+        "Leve EXP": "2,419,380",
+        "Leve Gil": "5,140"
+    },
+    {
+        "Leve Name": "The Right Rod",
+        "Leve Item": "Ra'Kaznar Rod",
+        "Leve Level": "98",
+        "Leve EXP": "4,183,380",
+        "Leve Gil": "5,180"
+    },
+    {
+        "Leve Name": "Mask Maker",
+        "Leve Item": "Black Star Mask of Casting",
+        "Leve Level": "98",
+        "Leve EXP": "3,459,540",
+        "Leve Gil": "5,180"
+    }
+]

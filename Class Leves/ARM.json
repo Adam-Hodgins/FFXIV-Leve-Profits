@@ -1,0 +1,982 @@
+[
+    {
+        "Leve Name": "Ain't Got No Ingots",
+        "Leve Item": "Bronze Ingot",
+        "Leve Level": "1",
+        "Leve EXP": "630",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "Skillet Labor",
+        "Leve Item": "Bronze Skillet",
+        "Leve Level": "1",
+        "Leve EXP": "1,160",
+        "Leve Gil": "115"
+    },
+    {
+        "Leve Name": "Eyes Bigger than the Plate",
+        "Leve Item": "Bronze Plate",
+        "Leve Level": "1",
+        "Leve EXP": "1,160",
+        "Leve Gil": "116"
+    },
+    {
+        "Leve Name": "The Alloyed Truth",
+        "Leve Item": "Bronze Rivets",
+        "Leve Level": "1",
+        "Leve EXP": "630",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "Don't Hit Me One More Time",
+        "Leve Item": "Bronze Hoplon",
+        "Leve Level": "1",
+        "Leve EXP": "1,690",
+        "Leve Gil": "173"
+    },
+    {
+        "Leve Name": "Distill It Yourself",
+        "Leve Item": "Bronze Alembic",
+        "Leve Level": "1",
+        "Leve EXP": "1,160",
+        "Leve Gil": "114"
+    },
+    {
+        "Leve Name": "You've Got Mail",
+        "Leve Item": "Bronze Haubergeon",
+        "Leve Level": "5",
+        "Leve EXP": "6,840",
+        "Leve Gil": "144"
+    },
+    {
+        "Leve Name": "Headbangers' Thrall",
+        "Leve Item": "Bronze Barbut",
+        "Leve Level": "5",
+        "Leve EXP": "5,220",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "Bronzed and Burnt",
+        "Leve Item": "Bronze Sallet",
+        "Leve Level": "5",
+        "Leve EXP": "5,220",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "Rodents of Unusual Size",
+        "Leve Item": "Bronze Sollerets",
+        "Leve Level": "5",
+        "Leve EXP": "5,220",
+        "Leve Gil": "144"
+    },
+    {
+        "Leve Name": "Strait Ain't the Gate",
+        "Leve Item": "Bronze Scutum",
+        "Leve Level": "5",
+        "Leve EXP": "8,460",
+        "Leve Gil": "173"
+    },
+    {
+        "Leve Name": "Get into Their Heads",
+        "Leve Item": "Bronze Chain Coif",
+        "Leve Level": "5",
+        "Leve EXP": "5,220",
+        "Leve Gil": "144"
+    },
+    {
+        "Leve Name": "Waste Not, Want Not",
+        "Leve Item": "Bronze Celata",
+        "Leve Level": "10",
+        "Leve EXP": "9,990",
+        "Leve Gil": "175"
+    },
+    {
+        "Leve Name": "All Ovo That",
+        "Leve Item": "Iron Skillet",
+        "Leve Level": "10",
+        "Leve EXP": "6,880",
+        "Leve Gil": "350"
+    },
+    {
+        "Leve Name": "Greavous Losses",
+        "Leve Item": "Bronze Sabatons",
+        "Leve Level": "10",
+        "Leve EXP": "13,090",
+        "Leve Gil": "287"
+    },
+    {
+        "Leve Name": "Cook Intentions",
+        "Leve Item": "Amateur's Skillet",
+        "Leve Level": "10",
+        "Leve EXP": "6,880",
+        "Leve Gil": "173"
+    },
+    {
+        "Leve Name": "Still the Best",
+        "Leve Item": "Brass Alembic",
+        "Leve Level": "10",
+        "Leve EXP": "9,990",
+        "Leve Gil": "322"
+    },
+    {
+        "Leve Name": "Stadium Envy",
+        "Leve Item": "Bronze Gauntlets",
+        "Leve Level": "10",
+        "Leve EXP": "9,990",
+        "Leve Gil": "229"
+    },
+    {
+        "Leve Name": "Cover Girl",
+        "Leve Item": "Decorated Bronze Barbut",
+        "Leve Level": "15",
+        "Leve EXP": "18,910",
+        "Leve Gil": "270"
+    },
+    {
+        "Leve Name": "Fashion Weak",
+        "Leve Item": "Iron Cuirass",
+        "Leve Level": "15",
+        "Leve EXP": "18,910",
+        "Leve Gil": "374"
+    },
+    {
+        "Leve Name": "Kiss the Pan (Good-bye)",
+        "Leve Item": "Initiate's Skillet",
+        "Leve Level": "15",
+        "Leve EXP": "13,040",
+        "Leve Gil": "299"
+    },
+    {
+        "Leve Name": "A Well-rounded Crew",
+        "Leve Item": "Iron Hoplon",
+        "Leve Level": "15",
+        "Leve EXP": "18,910",
+        "Leve Gil": "259"
+    },
+    {
+        "Leve Name": "A Firm Hand",
+        "Leve Item": "Iron Gauntlets",
+        "Leve Level": "15",
+        "Leve EXP": "18,910",
+        "Leve Gil": "374"
+    },
+    {
+        "Leve Name": "Still Crazy After All These Years",
+        "Leve Item": "Initiate's Alembic",
+        "Leve Level": "15",
+        "Leve EXP": "13,040",
+        "Leve Gil": "402"
+    },
+    {
+        "Leve Name": "Night Squawker",
+        "Leve Item": "Iron Lantern Shield",
+        "Leve Level": "20",
+        "Leve EXP": "17,120",
+        "Leve Gil": "330"
+    },
+    {
+        "Leve Name": "Get Me the Hard Stuff",
+        "Leve Item": "Ironclad Bronze Buckler",
+        "Leve Level": "20",
+        "Leve EXP": "12,960",
+        "Leve Gil": "184"
+    },
+    {
+        "Leve Name": "246 Kinds of Cheese",
+        "Leve Item": "Iron Frypan",
+        "Leve Level": "20",
+        "Leve EXP": "14,990",
+        "Leve Gil": "192"
+    },
+    {
+        "Leve Name": "No Hand-me-downs",
+        "Leve Item": "Iron Vambraces",
+        "Leve Level": "20",
+        "Leve EXP": "21,600",
+        "Leve Gil": "308"
+    },
+    {
+        "Leve Name": "Not Enough Headroom",
+        "Leve Item": "Iron Celata",
+        "Leve Level": "20",
+        "Leve EXP": "12,960",
+        "Leve Gil": "150"
+    },
+    {
+        "Leve Name": "I Was a Teenage Wailer",
+        "Leve Item": "Iron Alembic",
+        "Leve Level": "20",
+        "Leve EXP": "14,990",
+        "Leve Gil": "294"
+    },
+    {
+        "Leve Name": "Ingot We Trust",
+        "Leve Item": "Steel Ingot",
+        "Leve Level": "25",
+        "Leve EXP": "16,080",
+        "Leve Gil": "287"
+    },
+    {
+        "Leve Name": "A Leg to Stand On",
+        "Leve Item": "Heavy Iron Flanchard",
+        "Leve Level": "25",
+        "Leve EXP": "69,150",
+        "Leve Gil": "329"
+    },
+    {
+        "Leve Name": "Insistent Sallets",
+        "Leve Item": "Steel Sallet",
+        "Leve Level": "25",
+        "Leve EXP": "21,830",
+        "Leve Gil": "271"
+    },
+    {
+        "Leve Name": "Need for Mead",
+        "Leve Item": "Conical Alembic",
+        "Leve Level": "25",
+        "Leve EXP": "36,390",
+        "Leve Gil": "406"
+    },
+    {
+        "Leve Name": "Hot for Teacher",
+        "Leve Item": "Heavy Iron Armor",
+        "Leve Level": "25",
+        "Leve EXP": "58,010",
+        "Leve Gil": "346"
+    },
+    {
+        "Leve Name": "Get Shirty",
+        "Leve Item": "Steel Chainmail",
+        "Leve Level": "25",
+        "Leve EXP": "28,320",
+        "Leve Gil": "273"
+    },
+    {
+        "Leve Name": "Eyes on a Hard Body",
+        "Leve Item": "Decorated Buckler",
+        "Leve Level": "30",
+        "Leve EXP": "52,220",
+        "Leve Gil": "467"
+    },
+    {
+        "Leve Name": "Aurochs Star",
+        "Leve Item": "Bull Hoplon",
+        "Leve Level": "30",
+        "Leve EXP": "67,730",
+        "Leve Gil": "520"
+    },
+    {
+        "Leve Name": "Romper Stomper",
+        "Leve Item": "Steel-plated Jackboots",
+        "Leve Level": "30",
+        "Leve EXP": "26,530",
+        "Leve Gil": "176"
+    },
+    {
+        "Leve Name": "Skillet Scandal",
+        "Leve Item": "White Skillet",
+        "Leve Level": "30",
+        "Leve EXP": "36,240",
+        "Leve Gil": "414"
+    },
+    {
+        "Leve Name": "Kitty Get Your Helm",
+        "Leve Item": "Steel Elmo",
+        "Leve Level": "30",
+        "Leve EXP": "67,730",
+        "Leve Gil": "486"
+    },
+    {
+        "Leve Name": "They've Got Legs",
+        "Leve Item": "Steel Sabatons",
+        "Leve Level": "30",
+        "Leve EXP": "49,940",
+        "Leve Gil": "313"
+    },
+    {
+        "Leve Name": "Very Slow Array",
+        "Leve Item": "Mythril Plate",
+        "Leve Level": "35",
+        "Leve EXP": "50,380",
+        "Leve Gil": "488"
+    },
+    {
+        "Leve Name": "Hollow Hallmarks",
+        "Leve Item": "Mythril Ingot",
+        "Leve Level": "35",
+        "Leve EXP": "28,820",
+        "Leve Gil": "377"
+    },
+    {
+        "Leve Name": "Get Me the Usual",
+        "Leve Item": "Heavy Steel Flanchard",
+        "Leve Level": "35",
+        "Leve EXP": "82,760",
+        "Leve Gil": "319"
+    },
+    {
+        "Leve Name": "War Is Tough on the Hands",
+        "Leve Item": "Horn Scale Fingers",
+        "Leve Level": "35",
+        "Leve EXP": "72,600",
+        "Leve Gil": "725"
+    },
+    {
+        "Leve Name": "Skillet to the Stars",
+        "Leve Item": "Steel Frypan",
+        "Leve Level": "35",
+        "Leve EXP": "50,380",
+        "Leve Gil": "384"
+    },
+    {
+        "Leve Name": "I've Got You under My Skin",
+        "Leve Item": "Steel-plated Caligae",
+        "Leve Level": "35",
+        "Leve EXP": "49,830",
+        "Leve Gil": "260"
+    },
+    {
+        "Leve Name": "Liquid Persuasion",
+        "Leve Item": "Mythril Chain Coif",
+        "Leve Level": "40",
+        "Leve EXP": "102,600",
+        "Leve Gil": "714"
+    },
+    {
+        "Leve Name": "Everybody Cut Footloose",
+        "Leve Item": "Mythril-plated Jackboots",
+        "Leve Level": "40",
+        "Leve EXP": "90,590",
+        "Leve Gil": "756"
+    },
+    {
+        "Leve Name": "Distill and Know that I'm Right",
+        "Leve Item": "Mythril Alembic",
+        "Leve Level": "40",
+        "Leve EXP": "61,560",
+        "Leve Gil": "318"
+    },
+    {
+        "Leve Name": "Metal Fatigue",
+        "Leve Item": "Mythril Vambraces",
+        "Leve Level": "40",
+        "Leve EXP": "79,510",
+        "Leve Gil": "682"
+    },
+    {
+        "Leve Name": "Family Secrets",
+        "Leve Item": "Mythril Barbut",
+        "Leve Level": "40",
+        "Leve EXP": "102,600",
+        "Leve Gil": "769"
+    },
+    {
+        "Leve Name": "Employee Retention",
+        "Leve Item": "Mythril Elmo",
+        "Leve Level": "40",
+        "Leve EXP": "61,560",
+        "Leve Gil": "315"
+    },
+    {
+        "Leve Name": "Feasting the Night Away",
+        "Leve Item": "Hells' Kitchen",
+        "Leve Level": "45",
+        "Leve EXP": "75,570",
+        "Leve Gil": "742"
+    },
+    {
+        "Leve Name": "Cobalt Aforethought",
+        "Leve Item": "Cobalt Plate",
+        "Leve Level": "45",
+        "Leve EXP": "75,570",
+        "Leve Gil": "484"
+    },
+    {
+        "Leve Name": "Some Dragoons Have All the Luck",
+        "Leve Item": "High Mythril Armor",
+        "Leve Level": "45",
+        "Leve EXP": "100,980",
+        "Leve Gil": "430"
+    },
+    {
+        "Leve Name": "Parasitic Win",
+        "Leve Item": "Cobalt-plated Caligae",
+        "Leve Level": "45",
+        "Leve EXP": "152,230",
+        "Leve Gil": "804"
+    },
+    {
+        "Leve Name": "Booty Call",
+        "Leve Item": "Cobalt-plated Jackboots",
+        "Leve Level": "45",
+        "Leve EXP": "121,320",
+        "Leve Gil": "733"
+    },
+    {
+        "Leve Name": "Dealing with the Tough Stuff",
+        "Leve Item": "Cobalt Ingot",
+        "Leve Level": "45",
+        "Leve EXP": "26,790",
+        "Leve Gil": "212"
+    },
+    {
+        "Leve Name": "Hauberk and No Play",
+        "Leve Item": "Mythrite Hauberk of Maiming",
+        "Leve Level": "50",
+        "Leve EXP": "211,350",
+        "Leve Gil": "624"
+    },
+    {
+        "Leve Name": "Rivets Run through It",
+        "Leve Item": "Mythrite Rivets",
+        "Leve Level": "50",
+        "Leve EXP": "88,620",
+        "Leve Gil": "686"
+    },
+    {
+        "Leve Name": "Don't Scuttle with Scuta",
+        "Leve Item": "Mythrite Scutum",
+        "Leve Level": "50",
+        "Leve EXP": "200,450",
+        "Leve Gil": "248"
+    },
+    {
+        "Leve Name": "Knights without Armor (L)",
+        "Leve Item": "Mythrite Hauberk of Maiming x 3",
+        "Leve Level": "50",
+        "Leve EXP": "1,162,470",
+        "Leve Gil": "3,120"
+    },
+    {
+        "Leve Name": "A Riveting Revival (L)",
+        "Leve Item": "Mythrite Rivets x 5",
+        "Leve Level": "50",
+        "Leve EXP": "664,710",
+        "Leve Gil": "3,432"
+    },
+    {
+        "Leve Name": "Shielded by Bureaucracy (L)",
+        "Leve Item": "Mythrite Scutum",
+        "Leve Level": "50",
+        "Leve EXP": "334,080",
+        "Leve Gil": "858"
+    },
+    {
+        "Leve Name": "Let Faith Light the Way",
+        "Leve Item": "Mythrite Bladed Lantern Shield",
+        "Leve Level": "52",
+        "Leve EXP": "555,260",
+        "Leve Gil": "811"
+    },
+    {
+        "Leve Name": "The Cut Alembical Cord",
+        "Leve Item": "Mythrite Alembic",
+        "Leve Level": "52",
+        "Leve EXP": "331,500",
+        "Leve Gil": "749"
+    },
+    {
+        "Leve Name": "Pan That Laid the Golden Egg",
+        "Leve Item": "Frypan Caliente",
+        "Leve Level": "52",
+        "Leve EXP": "243,650",
+        "Leve Gil": "270"
+    },
+    {
+        "Leve Name": "Fifty Shields of Blades (L)",
+        "Leve Item": "Mythrite Bladed Lantern Shield x 3",
+        "Leve Level": "52",
+        "Leve EXP": "3,053,960",
+        "Leve Gil": "4,056"
+    },
+    {
+        "Leve Name": "Sheer Distill Power (L)",
+        "Leve Item": "Mythrite Alembic x 3",
+        "Leve Level": "52",
+        "Leve EXP": "1,823,250",
+        "Leve Gil": "3,744"
+    },
+    {
+        "Leve Name": "Skillet with Fire (L)",
+        "Leve Item": "Frypan Caliente",
+        "Leve Level": "52",
+        "Leve EXP": "406,080",
+        "Leve Gil": "936"
+    },
+    {
+        "Leve Name": "As the Bolt Flies",
+        "Leve Item": "Titanium Nugget",
+        "Leve Level": "54",
+        "Leve EXP": "212,460",
+        "Leve Gil": "874"
+    },
+    {
+        "Leve Name": "Someone Put Dung in My Helmet",
+        "Leve Item": "Titanium Sallet of Maiming",
+        "Leve Level": "54",
+        "Leve EXP": "473,220",
+        "Leve Gil": "874"
+    },
+    {
+        "Leve Name": "Sometimes the South Wins",
+        "Leve Item": "Titanium Mail of Fending",
+        "Leve Level": "54",
+        "Leve EXP": "336,080",
+        "Leve Gil": "338"
+    },
+    {
+        "Leve Name": "Heavy Metal Banned (L)",
+        "Leve Item": "Titanium Nugget x 5",
+        "Leve Level": "54",
+        "Leve EXP": "1,593,490",
+        "Leve Gil": "4,368"
+    },
+    {
+        "Leve Name": "Rage against the Scream (L)",
+        "Leve Item": "Titanium Sallet of Maiming x 3",
+        "Leve Level": "54",
+        "Leve EXP": "2,602,720",
+        "Leve Gil": "4,368"
+    },
+    {
+        "Leve Name": "The Thriller of Autumn (L)",
+        "Leve Item": "Titanium Mail of Fending",
+        "Leve Level": "54",
+        "Leve EXP": "560,140",
+        "Leve Gil": "1,170"
+    },
+    {
+        "Leve Name": "A Squire to Inspire",
+        "Leve Item": "Titanium Hoplon",
+        "Leve Level": "56",
+        "Leve EXP": "436,700",
+        "Leve Gil": "998"
+    },
+    {
+        "Leve Name": "A Halonic Masquerade",
+        "Leve Item": "Titanium Headgear of Scouting",
+        "Leve Level": "56",
+        "Leve EXP": "534,960",
+        "Leve Gil": "998"
+    },
+    {
+        "Leve Name": "Belle of the Brawl",
+        "Leve Item": "Titanium Vambraces of Fending",
+        "Leve Level": "56",
+        "Leve EXP": "320,970",
+        "Leve Gil": "361"
+    },
+    {
+        "Leve Name": "All's Fair in Highborn Assassination (L)",
+        "Leve Item": "Titanium Hoplon x 3",
+        "Leve Level": "56",
+        "Leve EXP": "2,401,870",
+        "Leve Gil": "4,992"
+    },
+    {
+        "Leve Name": "Why I Wear a Mask (L)",
+        "Leve Item": "Titanium Headgear of Scouting x 3",
+        "Leve Level": "56",
+        "Leve EXP": "2,942,290",
+        "Leve Gil": "4,992"
+    },
+    {
+        "Leve Name": "Shouldering the Shut-ins (L)",
+        "Leve Item": "Titanium Vambraces of Fending",
+        "Leve Level": "56",
+        "Leve EXP": "534,960",
+        "Leve Gil": "1,248"
+    },
+    {
+        "Leve Name": "Sir, Dost Thou Even Heft",
+        "Leve Item": "Adamantite Chain Hose of Fending",
+        "Leve Level": "58",
+        "Leve EXP": "811,360",
+        "Leve Gil": "1,186"
+    },
+    {
+        "Leve Name": "Look Before You Leap",
+        "Leve Item": "Adamantite Leg Guards of Maiming",
+        "Leve Level": "58",
+        "Leve EXP": "593,380",
+        "Leve Gil": "1,248"
+    },
+    {
+        "Leve Name": "The Mast Chance",
+        "Leve Item": "Adamantite Rivets",
+        "Leve Level": "58",
+        "Leve EXP": "94,450",
+        "Leve Gil": "406"
+    },
+    {
+        "Leve Name": "Men in Adamantite (L)",
+        "Leve Item": "Adamantite Chain Hose of Fending x 3",
+        "Leve Level": "58",
+        "Leve EXP": "4,462,490",
+        "Leve Gil": "5,928"
+    },
+    {
+        "Leve Name": "Patience, Young Grasshopper (L)",
+        "Leve Item": "Adamantite Leg Guards of Maiming x 3",
+        "Leve Level": "58",
+        "Leve EXP": "3,263,600",
+        "Leve Gil": "6,240"
+    },
+    {
+        "Leve Name": "The Rose and the Riveter (L)",
+        "Leve Item": "Adamantite Rivets",
+        "Leve Level": "58",
+        "Leve EXP": "157,420",
+        "Leve Gil": "1,404"
+    },
+    {
+        "Leve Name": "Mail It In",
+        "Leve Item": "High Steel Scale Mail of Fending",
+        "Leve Level": "60",
+        "Leve EXP": "594,520",
+        "Leve Gil": "2,496"
+    },
+    {
+        "Leve Name": "Alembic Medals",
+        "Leve Item": "High Steel Thermal Alembic",
+        "Leve Level": "60",
+        "Leve EXP": "485,320",
+        "Leve Gil": "2,496"
+    },
+    {
+        "Leve Name": "Setting the Stage",
+        "Leve Item": "High Steel Helm of Maiming",
+        "Leve Level": "60",
+        "Leve EXP": "356,710",
+        "Leve Gil": "901"
+    },
+    {
+        "Leve Name": "Shielded Life",
+        "Leve Item": "High Steel Scutum",
+        "Leve Level": "62",
+        "Leve EXP": "595,710",
+        "Leve Gil": "2,746"
+    },
+    {
+        "Leve Name": "The Gauntlet Is Cast",
+        "Leve Item": "High Steel Gauntlets of Fending",
+        "Leve Level": "62",
+        "Leve EXP": "486,300",
+        "Leve Gil": "2,746"
+    },
+    {
+        "Leve Name": "Ore for Me",
+        "Leve Item": "High Steel Ingot",
+        "Leve Level": "62",
+        "Leve EXP": "160,470",
+        "Leve Gil": "496"
+    },
+    {
+        "Leve Name": "Greaving",
+        "Leve Item": "Doman Iron Greaves of Maiming",
+        "Leve Level": "64",
+        "Leve EXP": "709,140",
+        "Leve Gil": "2,995"
+    },
+    {
+        "Leve Name": "Home Cooking",
+        "Leve Item": "Doman Iron Frypan",
+        "Leve Level": "64",
+        "Leve EXP": "599,100",
+        "Leve Gil": "2,995"
+    },
+    {
+        "Leve Name": "En Garde and on Guard",
+        "Leve Item": "Doman Iron Gauntlets of Fending",
+        "Leve Level": "64",
+        "Leve EXP": "359,460",
+        "Leve Gil": "1,082"
+    },
+    {
+        "Leve Name": "Art Imitates Life",
+        "Leve Item": "Doman Steel Tabard of Fending",
+        "Leve Level": "66",
+        "Leve EXP": "969,450",
+        "Leve Gil": "3,245"
+    },
+    {
+        "Leve Name": "Smells of Rich Tama-hagane",
+        "Leve Item": "Tama-hagane Ingot",
+        "Leve Level": "66",
+        "Leve EXP": "280,630",
+        "Leve Gil": "1,622"
+    },
+    {
+        "Leve Name": "Sweeping the Legs",
+        "Leve Item": "Doman Steel Greaves of Striking",
+        "Leve Level": "66",
+        "Leve EXP": "375,020",
+        "Leve Gil": "1,172"
+    },
+    {
+        "Leve Name": "See Shields by the Sea Shore",
+        "Leve Item": "Molybdenum Kite Shield",
+        "Leve Level": "68",
+        "Leve EXP": "431,170",
+        "Leve Gil": "3,494"
+    },
+    {
+        "Leve Name": "Spoony Is the Bard",
+        "Leve Item": "Molybdenum Armguards of Scouting",
+        "Leve Level": "68",
+        "Leve EXP": "681,530",
+        "Leve Gil": "3,494"
+    },
+    {
+        "Leve Name": "Heads Will Roll",
+        "Leve Item": "Molybdenum Headgear of Maiming",
+        "Leve Level": "68",
+        "Leve EXP": "408,920",
+        "Leve Gil": "1,262"
+    },
+    {
+        "Leve Name": "Shielding the Realm",
+        "Leve Item": "Deepgold Kite Shield",
+        "Leve Level": "70",
+        "Leve EXP": "565,870",
+        "Leve Gil": "3,840"
+    },
+    {
+        "Leve Name": "Time to Fry",
+        "Leve Item": "Deepgold Rail Frypan",
+        "Leve Level": "70",
+        "Leve EXP": "565,870",
+        "Leve Gil": "3,840"
+    },
+    {
+        "Leve Name": "A Head of Demand",
+        "Leve Item": "Deepgold Helm of Fending",
+        "Leve Level": "70",
+        "Leve EXP": "339,520",
+        "Leve Gil": "1,387"
+    },
+    {
+        "Leve Name": "Scheduled Maintenance",
+        "Leve Item": "Deepgold Ingot",
+        "Leve Level": "72",
+        "Leve EXP": "215,950",
+        "Leve Gil": "2,045"
+    },
+    {
+        "Leve Name": "Hedging Bets",
+        "Leve Item": "Deepgold Surcoat of Maiming",
+        "Leve Level": "72",
+        "Leve EXP": "698,030",
+        "Leve Gil": "4,090"
+    },
+    {
+        "Leve Name": "Wrapped Knuckles",
+        "Leve Item": "Deepgold Gloves of Fending",
+        "Leve Level": "72",
+        "Leve EXP": "341,890",
+        "Leve Gil": "1,477"
+    },
+    {
+        "Leve Name": "Catching an Earful",
+        "Leve Item": "Bluespirit Headgear of Casting",
+        "Leve Level": "74",
+        "Leve EXP": "791,810",
+        "Leve Gil": "4,339"
+    },
+    {
+        "Leve Name": "A New Regular",
+        "Leve Item": "Bluespirit Gauntlets of Fending",
+        "Leve Level": "74",
+        "Leve EXP": "791,810",
+        "Leve Gil": "4,339"
+    },
+    {
+        "Leve Name": "The Proper Precautions",
+        "Leve Item": "Bluespirit Alembic",
+        "Leve Level": "74",
+        "Leve EXP": "387,820",
+        "Leve Gil": "1,567"
+    },
+    {
+        "Leve Name": "No Scope",
+        "Leve Item": "Titanbronze Ingot",
+        "Leve Level": "76",
+        "Leve EXP": "284,370",
+        "Leve Gil": "2,294"
+    },
+    {
+        "Leve Name": "Signed, Shield, Delivered",
+        "Leve Item": "Titanbronze Tower Shield",
+        "Leve Level": "76",
+        "Leve EXP": "750,330",
+        "Leve Gil": "4,589"
+    },
+    {
+        "Leve Name": "A Budding Business",
+        "Leve Item": "Titanbronze Headband of Scouting",
+        "Leve Level": "76",
+        "Leve EXP": "450,200",
+        "Leve Gil": "1,657"
+    },
+    {
+        "Leve Name": "Trial and Error",
+        "Leve Item": "Dwarven Mythril Chainmail of Fending",
+        "Leve Level": "78",
+        "Leve EXP": "1,711,940",
+        "Leve Gil": "4,838"
+    },
+    {
+        "Leve Name": "One Foot Forward",
+        "Leve Item": "Dwarven Mythril Shoes of Maiming",
+        "Leve Level": "78",
+        "Leve EXP": "1,306,480",
+        "Leve Gil": "4,838"
+    },
+    {
+        "Leve Name": "Shield to Shield",
+        "Leve Item": "Dwarven Mythril Shield",
+        "Leve Level": "78",
+        "Leve EXP": "540,610",
+        "Leve Gil": "1,747"
+    },
+    {
+        "Leve Name": "Haste for High Durium",
+        "Leve Item": "High Durium Nugget x 3",
+        "Leve Level": "80",
+        "Leve EXP": "724,620",
+        "Leve Gil": "2,450"
+    },
+    {
+        "Leve Name": "The Armoire Is Open",
+        "Leve Item": "High Durium Armguards of Maiming",
+        "Leve Level": "80",
+        "Leve EXP": "935,000",
+        "Leve Gil": "4,900"
+    },
+    {
+        "Leve Name": "Ace of Gloves",
+        "Leve Item": "High Durium Gauntlets of Fending",
+        "Leve Level": "82",
+        "Leve EXP": "1,051,810",
+        "Leve Gil": "4,910"
+    },
+    {
+        "Leve Name": "The Incomplete Costume",
+        "Leve Item": "High Durium Armor of Fending",
+        "Leve Level": "82",
+        "Leve EXP": "1,582,910",
+        "Leve Gil": "4,920"
+    },
+    {
+        "Leve Name": "Armoire Aftercare",
+        "Leve Item": "Bismuth Ingot x 3",
+        "Leve Level": "84",
+        "Leve EXP": "933,280",
+        "Leve Gil": "2,470"
+    },
+    {
+        "Leve Name": "Once and for Alchemy",
+        "Leve Item": "Bismuth Alembic",
+        "Leve Level": "84",
+        "Leve EXP": "1,255,600",
+        "Leve Gil": "4,960"
+    },
+    {
+        "Leve Name": "Heading toward Bankruptcy",
+        "Leve Item": "Manganese Helm of the Falling Dragon",
+        "Leve Level": "86",
+        "Leve EXP": "1,503,270",
+        "Leve Gil": "4,980"
+    },
+    {
+        "Leve Name": "In-kweh-dible Cooking",
+        "Leve Item": "Manganese Chocobo Frypan",
+        "Leve Level": "86",
+        "Leve EXP": "1,443,780",
+        "Leve Gil": "5,000"
+    },
+    {
+        "Leve Name": "A Gift of Gloves",
+        "Leve Item": "Chondrite Gloves of Casting",
+        "Leve Level": "88",
+        "Leve EXP": "1,703,250",
+        "Leve Gil": "5,020"
+    },
+    {
+        "Leve Name": "Additions to the Armoire",
+        "Leve Item": "Chondrite Top of Maiming",
+        "Leve Level": "88",
+        "Leve EXP": "2,257,300",
+        "Leve Gil": "5,040"
+    },
+    {
+        "Leve Name": "Don't Bore Me, Ore Me",
+        "Leve Item": "Mountain Chromite Ingot x 3",
+        "Leve Level": "90",
+        "Leve EXP": "1,440,660",
+        "Leve Gil": "2,530"
+    },
+    {
+        "Leve Name": "Shielding My Students",
+        "Leve Item": "Mountain Chromite Tower Shield",
+        "Leve Level": "90",
+        "Leve EXP": "1,440,660",
+        "Leve Gil": "2,530"
+    },
+    {
+        "Leve Name": "Brace for More Vambraces",
+        "Leve Item": "Ruthenium Vambraces of Maiming",
+        "Leve Level": "92",
+        "Leve EXP": "2,148,720",
+        "Leve Gil": "5,070"
+    },
+    {
+        "Leve Name": "Forgiveness for My Shins",
+        "Leve Item": "Ruthenium Sabatons of Fending",
+        "Leve Level": "92",
+        "Leve EXP": "2,148,720",
+        "Leve Gil": "5,070"
+    },
+    {
+        "Leve Name": "Metal with Mettle",
+        "Leve Item": "Cobalt Tungsten Ingot x 3",
+        "Leve Level": "94",
+        "Leve EXP": "1,902,430",
+        "Leve Gil": "2,550"
+    },
+    {
+        "Leve Name": "Odd Instruments",
+        "Leve Item": "Cobalt Tungsten Alembic",
+        "Leve Level": "94",
+        "Leve EXP": "2,454,760",
+        "Leve Gil": "5,100"
+    },
+    {
+        "Leve Name": "Don't Ask about the Rivets",
+        "Leve Item": "Titanium Gold Helm of Casting",
+        "Leve Level": "96",
+        "Leve EXP": "3,059,520",
+        "Leve Gil": "5,140"
+    },
+    {
+        "Leve Name": "Backing up My Words",
+        "Leve Item": "Titanium Gold Thornplate of Fending",
+        "Leve Level": "96",
+        "Leve EXP": "4,554,260",
+        "Leve Gil": "5,140"
+    },
+    {
+        "Leve Name": "A Hand for a Deckhand",
+        "Leve Item": "Ra'Kaznar Gloves of Scouting",
+        "Leve Level": "98",
+        "Leve EXP": "3,459,540",
+        "Leve Gil": "5,180"
+    },
+    {
+        "Leve Name": "Essays on Equipment",
+        "Leve Item": "Ra'Kaznar Greaves of Maiming",
+        "Leve Level": "98",
+        "Leve EXP": "3,459,540",
+        "Leve Gil": "5,180"
+    }
+]

@@ -1,0 +1,982 @@
+[
+    {
+        "Leve Name": "In with the New",
+        "Leve Item": "Bone Harpoon",
+        "Leve Level": "1",
+        "Leve EXP": "1,330",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "Touch and Heal",
+        "Leve Item": "Maple Pattens",
+        "Leve Level": "1",
+        "Leve EXP": "1,690",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "A Clogful of Camaraderie",
+        "Leve Item": "Maple Clogs",
+        "Leve Level": "1",
+        "Leve EXP": "630",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "Bowing Out",
+        "Leve Item": "Maple Shortbow",
+        "Leve Level": "1",
+        "Leve EXP": "1,160",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "Got Your Back",
+        "Leve Item": "Square Maple Shield",
+        "Leve Level": "1",
+        "Leve EXP": "1,690",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "Gridania's Got Talent",
+        "Leve Item": "Maple Lumber",
+        "Leve Level": "1",
+        "Leve EXP": "630",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "Bows for the Boys",
+        "Leve Item": "Maple Longbow",
+        "Leve Level": "5",
+        "Leve EXP": "4,110",
+        "Leve Gil": "140"
+    },
+    {
+        "Leve Name": "Shields for the Serpents",
+        "Leve Item": "Round Shield",
+        "Leve Level": "5",
+        "Leve EXP": "6,840",
+        "Leve Gil": "168"
+    },
+    {
+        "Leve Name": "Spears and Sorcery",
+        "Leve Item": "Maple Crook",
+        "Leve Level": "5",
+        "Leve EXP": "2,790",
+        "Leve Gil": "139"
+    },
+    {
+        "Leve Name": "Leaving without Leave",
+        "Leve Item": "Bronze Spear",
+        "Leve Level": "5",
+        "Leve EXP": "5,220",
+        "Leve Gil": "140"
+    },
+    {
+        "Leve Name": "A Sword in Hand",
+        "Leve Item": "Ash Macuahuitl",
+        "Leve Level": "5",
+        "Leve EXP": "2,490",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "Compulsory Conjury",
+        "Leve Item": "Maple Cane",
+        "Leve Level": "5",
+        "Leve EXP": "3,600",
+        "Leve Gil": "139"
+    },
+    {
+        "Leve Name": "Citizens' Canes",
+        "Leve Item": "Ash Radical",
+        "Leve Level": "10",
+        "Leve EXP": "4,280",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "On the Move",
+        "Leve Item": "Ragstone Grinding Wheel",
+        "Leve Level": "10",
+        "Leve EXP": "7,880",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "Raise the Roof",
+        "Leve Item": "Ash Lumber",
+        "Leve Level": "10",
+        "Leve EXP": "3,780",
+        "Leve Gil": "287"
+    },
+    {
+        "Leve Name": "Say It with Spears",
+        "Leve Item": "Feathered Harpoon",
+        "Leve Level": "10",
+        "Leve EXP": "9,430",
+        "Leve Gil": "174"
+    },
+    {
+        "Leve Name": "Life's a Stitch",
+        "Leve Item": "Ash Spinning Wheel",
+        "Leve Level": "10",
+        "Leve EXP": "13,090",
+        "Leve Gil": "230"
+    },
+    {
+        "Leve Name": "Shielding Sales",
+        "Leve Item": "Square Ash Shield",
+        "Leve Level": "10",
+        "Leve EXP": "9,990",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "Re-crating the Scene",
+        "Leve Item": "Iron Spear",
+        "Leve Level": "15",
+        "Leve EXP": "18,910",
+        "Leve Gil": "236"
+    },
+    {
+        "Leve Name": "Nightmare on My Street",
+        "Leve Item": "Elm Cane",
+        "Leve Level": "15",
+        "Leve EXP": "13,040",
+        "Leve Gil": "235"
+    },
+    {
+        "Leve Name": "Driving Up the Wall",
+        "Leve Item": "Elm Lumber",
+        "Leve Level": "15",
+        "Leve EXP": "7,170",
+        "Leve Gil": "350"
+    },
+    {
+        "Leve Name": "Nothing to Hide",
+        "Leve Item": "Ash Mask (Lapis Lazuli)",
+        "Leve Level": "15",
+        "Leve EXP": "24,790",
+        "Leve Gil": "240"
+    },
+    {
+        "Leve Name": "What You Need",
+        "Leve Item": "Square Ash Shield",
+        "Leve Level": "15",
+        "Leve EXP": "18,910",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "Bowing to Necessity",
+        "Leve Item": "Ash Shortbow",
+        "Leve Level": "15",
+        "Leve EXP": "14,920",
+        "Leve Gil": "174"
+    },
+    {
+        "Leve Name": "As the Worm Turns",
+        "Leve Item": "Yew Radical",
+        "Leve Level": "20",
+        "Leve EXP": "9,540",
+        "Leve Gil": "287"
+    },
+    {
+        "Leve Name": "Behind the Mask",
+        "Leve Item": "Ash Mask (Lapis Lazuli)",
+        "Leve Level": "20",
+        "Leve EXP": "16,800",
+        "Leve Gil": "192"
+    },
+    {
+        "Leve Name": "Militia on My Mind",
+        "Leve Item": "Iron Lance",
+        "Leve Level": "20",
+        "Leve EXP": "28,010",
+        "Leve Gil": "245"
+    },
+    {
+        "Leve Name": "Grinding It Out",
+        "Leve Item": "Mudstone Grinding Wheel",
+        "Leve Level": "20",
+        "Leve EXP": "17,120",
+        "Leve Gil": "293"
+    },
+    {
+        "Leve Name": "Polearms Aplenty",
+        "Leve Item": "Iron Spear",
+        "Leve Level": "20",
+        "Leve EXP": "12,960",
+        "Leve Gil": "91"
+    },
+    {
+        "Leve Name": "Wall Not Found",
+        "Leve Item": "Walnut Lumber",
+        "Leve Level": "20",
+        "Leve EXP": "8,570",
+        "Leve Gil": "295"
+    },
+    {
+        "Leve Name": "Daddy's Little Girl",
+        "Leve Item": "Viper-crested Round Shield",
+        "Leve Level": "25",
+        "Leve EXP": "47,200",
+        "Leve Gil": "316"
+    },
+    {
+        "Leve Name": "Tools for the Tools",
+        "Leve Item": "Silver Battle Fork",
+        "Leve Level": "25",
+        "Leve EXP": "36,390",
+        "Leve Gil": "379"
+    },
+    {
+        "Leve Name": "Armoires of the Rich and Famous",
+        "Leve Item": "Walnut Lumber",
+        "Leve Level": "25",
+        "Leve EXP": "8,660",
+        "Leve Gil": "202"
+    },
+    {
+        "Leve Name": "Storm of Swords",
+        "Leve Item": "Elm Macuahuitl",
+        "Leve Level": "25",
+        "Leve EXP": "39,990",
+        "Leve Gil": "294"
+    },
+    {
+        "Leve Name": "Toys of Summer",
+        "Leve Item": "Steel Spear",
+        "Leve Level": "25",
+        "Leve EXP": "36,390",
+        "Leve Gil": "388"
+    },
+    {
+        "Leve Name": "Heal Away",
+        "Leve Item": "Yew Crook",
+        "Leve Level": "25",
+        "Leve EXP": "12,000",
+        "Leve Gil": "107"
+    },
+    {
+        "Leve Name": "Knock on Wood",
+        "Leve Item": "Walnut Macuahuitl",
+        "Leve Level": "30",
+        "Leve EXP": "31,070",
+        "Leve Gil": "377"
+    },
+    {
+        "Leve Name": "An Expected Tourney",
+        "Leve Item": "Ash Cavalry Bow",
+        "Leve Level": "30",
+        "Leve EXP": "64,910",
+        "Leve Gil": "391"
+    },
+    {
+        "Leve Name": "Ceremonial Spears",
+        "Leve Item": "Steel Spear",
+        "Leve Level": "30",
+        "Leve EXP": "31,330",
+        "Leve Gil": "160"
+    },
+    {
+        "Leve Name": "The Lone Bowman",
+        "Leve Item": "Oak Longbow",
+        "Leve Level": "30",
+        "Leve EXP": "62,560",
+        "Leve Gil": "428"
+    },
+    {
+        "Leve Name": "Live Freelance or Die",
+        "Leve Item": "Heavy Steel Lance",
+        "Leve Level": "30",
+        "Leve EXP": "67,730",
+        "Leve Gil": "593"
+    },
+    {
+        "Leve Name": "The Long Lance of the Law",
+        "Leve Item": "Steel Halberd",
+        "Leve Level": "30",
+        "Leve EXP": "40,640",
+        "Leve Gil": "184"
+    },
+    {
+        "Leve Name": "Stay on Target",
+        "Leve Item": "Yarzonshell Harpoon",
+        "Leve Level": "35",
+        "Leve EXP": "68,670",
+        "Leve Gil": "442"
+    },
+    {
+        "Leve Name": "A Tree Grew in Gridania",
+        "Leve Item": "Pastoral Oak Cane",
+        "Leve Level": "35",
+        "Leve EXP": "105,270",
+        "Leve Gil": "593"
+    },
+    {
+        "Leve Name": "Flintstone Fight",
+        "Leve Item": "Walnut Macuahuitl",
+        "Leve Level": "35",
+        "Leve EXP": "25,910",
+        "Leve Gil": "211"
+    },
+    {
+        "Leve Name": "Grippy When Wet",
+        "Leve Item": "Mythril Cavalry Bow",
+        "Leve Level": "35",
+        "Leve EXP": "90,240",
+        "Leve Gil": "566"
+    },
+    {
+        "Leve Name": "The Cold, Cold Ground",
+        "Leve Item": "Oak Pattens",
+        "Leve Level": "35",
+        "Leve EXP": "72,600",
+        "Leve Gil": "476"
+    },
+    {
+        "Leve Name": "Bend It Like Durendaire",
+        "Leve Item": "Ash Cavalry Bow",
+        "Leve Level": "35",
+        "Leve EXP": "54,140",
+        "Leve Gil": "182"
+    },
+    {
+        "Leve Name": "The Arsenal of Theocracy",
+        "Leve Item": "Cobalt Halberd",
+        "Leve Level": "40",
+        "Leve EXP": "102,600",
+        "Leve Gil": "625"
+    },
+    {
+        "Leve Name": "Greenstone for Greenhorns",
+        "Leve Item": "Jade Crook",
+        "Leve Level": "40",
+        "Leve EXP": "90,590",
+        "Leve Gil": "736"
+    },
+    {
+        "Leve Name": "Spin It Like You Mean It",
+        "Leve Item": "Mahogany Spinning Wheel",
+        "Leve Level": "40",
+        "Leve EXP": "61,560",
+        "Leve Gil": "294"
+    },
+    {
+        "Leve Name": "A Winning Combo",
+        "Leve Item": "Oak Composite Bow",
+        "Leve Level": "40",
+        "Leve EXP": "102,600",
+        "Leve Gil": "607"
+    },
+    {
+        "Leve Name": "The Turning Point",
+        "Leve Item": "Garnet Grinding Wheel",
+        "Leve Level": "40",
+        "Leve EXP": "63,810",
+        "Leve Gil": "658"
+    },
+    {
+        "Leve Name": "Ready for a Rematch",
+        "Leve Item": "Mythril Lance",
+        "Leve Level": "40",
+        "Leve EXP": "61,560",
+        "Leve Gil": "315"
+    },
+    {
+        "Leve Name": "Trident and Error",
+        "Leve Item": "Cobalt Trident",
+        "Leve Level": "45",
+        "Leve EXP": "168,310",
+        "Leve Gil": "845"
+    },
+    {
+        "Leve Name": "Clogs of War",
+        "Leve Item": "Mahogany Pattens",
+        "Leve Level": "45",
+        "Leve EXP": "106,480",
+        "Leve Gil": "560"
+    },
+    {
+        "Leve Name": "You Do the Heavy Lifting",
+        "Leve Item": "Mahogany Lumber",
+        "Leve Level": "45",
+        "Leve EXP": "26,790",
+        "Leve Gil": "203"
+    },
+    {
+        "Leve Name": "Bow Down to Magic",
+        "Leve Item": "Crab Bow",
+        "Leve Level": "45",
+        "Leve EXP": "85,460",
+        "Leve Gil": "1,145"
+    },
+    {
+        "Leve Name": "Bowing to Greater Power",
+        "Leve Item": "Yew Longbow",
+        "Leve Level": "45",
+        "Leve EXP": "111,430",
+        "Leve Gil": "511"
+    },
+    {
+        "Leve Name": "Incant Now, Think Later",
+        "Leve Item": "Jade Crook",
+        "Leve Level": "45",
+        "Leve EXP": "72,790",
+        "Leve Gil": "348"
+    },
+    {
+        "Leve Name": "Splinter in the Sewers",
+        "Leve Item": "Cedar Lumber",
+        "Leve Level": "50",
+        "Leve EXP": "103,350",
+        "Leve Gil": "624"
+    },
+    {
+        "Leve Name": "So You Think You Can Lance?",
+        "Leve Item": "Mythrite Trident",
+        "Leve Level": "50",
+        "Leve EXP": "334,080",
+        "Leve Gil": "686"
+    },
+    {
+        "Leve Name": "Almost as Fun as Slingshotting Birds",
+        "Leve Item": "Cedar Longbow",
+        "Leve Level": "50",
+        "Leve EXP": "144,480",
+        "Leve Gil": "248"
+    },
+    {
+        "Leve Name": "The Lumber of Their Discontent (L)",
+        "Leve Item": "Cedar Lumber x 5",
+        "Leve Level": "50",
+        "Leve EXP": "775,170",
+        "Leve Gil": "3,120"
+    },
+    {
+        "Leve Name": "Sticks and Stones (L)",
+        "Leve Item": "Mythrite Trident x 3",
+        "Leve Level": "50",
+        "Leve EXP": "1,837,480",
+        "Leve Gil": "3,432"
+    },
+    {
+        "Leve Name": "Living Bow to Mouth (L)",
+        "Leve Item": "Cedar Longbow",
+        "Leve Level": "50",
+        "Leve EXP": "240,810",
+        "Leve Gil": "858"
+    },
+    {
+        "Leve Name": "Do You Even String Bow",
+        "Leve Item": "Holy Cedar Composite Bow",
+        "Leve Level": "52",
+        "Leve EXP": "423,990",
+        "Leve Gil": "749"
+    },
+    {
+        "Leve Name": "Landing the Big One",
+        "Leve Item": "Cedar Fishing Rod",
+        "Leve Level": "52",
+        "Leve EXP": "349,400",
+        "Leve Gil": "749"
+    },
+    {
+        "Leve Name": "A Reward Fitting of the Faithful",
+        "Leve Item": "Holy Cedar Necklace",
+        "Leve Level": "52",
+        "Leve EXP": "154,140",
+        "Leve Gil": "315"
+    },
+    {
+        "Leve Name": "Win One Bow, Get Three Free (L)",
+        "Leve Item": "Holy Cedar Composite Bow x 3",
+        "Leve Level": "52",
+        "Leve EXP": "2,331,940",
+        "Leve Gil": "3,744"
+    },
+    {
+        "Leve Name": "Fishing for Profits (L)",
+        "Leve Item": "Cedar Fishing Rod x 3",
+        "Leve Level": "52",
+        "Leve EXP": "1,921,700",
+        "Leve Gil": "3,744"
+    },
+    {
+        "Leve Name": "Just Rewards for Just Devotion (L)",
+        "Leve Item": "Holy Cedar Necklace",
+        "Leve Level": "52",
+        "Leve EXP": "256,910",
+        "Leve Gil": "1,092"
+    },
+    {
+        "Leve Name": "License to Heal",
+        "Leve Item": "Dark Chestnut Rod",
+        "Leve Level": "54",
+        "Leve EXP": "407,160",
+        "Leve Gil": "874"
+    },
+    {
+        "Leve Name": "The Darkest Hearth",
+        "Leve Item": "Dark Chestnut Spinning Wheel",
+        "Leve Level": "54",
+        "Leve EXP": "473,220",
+        "Leve Gil": "998"
+    },
+    {
+        "Leve Name": "Walking on Pins and Needles",
+        "Leve Item": "Dark Chestnut Lumber",
+        "Leve Level": "54",
+        "Leve EXP": "87,840",
+        "Leve Gil": "315"
+    },
+    {
+        "Leve Name": "Purified Polyrhythm (L)",
+        "Leve Item": "Dark Chestnut Rod x 3",
+        "Leve Level": "54",
+        "Leve EXP": "2,239,400",
+        "Leve Gil": "4,368"
+    },
+    {
+        "Leve Name": "Fruit of the Loom (L)",
+        "Leve Item": "Dark Chestnut Spinning Wheel x 3",
+        "Leve Level": "54",
+        "Leve EXP": "2,602,720",
+        "Leve Gil": "4,992"
+    },
+    {
+        "Leve Name": "Like Lemon on a Lumbercut (L)",
+        "Leve Item": "Dark Chestnut Lumber",
+        "Leve Level": "54",
+        "Leve EXP": "146,400",
+        "Leve Gil": "1,092"
+    },
+    {
+        "Leve Name": "The Long Armillae of the Law",
+        "Leve Item": "Hallowed Chestnut Armillae",
+        "Leve Level": "56",
+        "Leve EXP": "338,440",
+        "Leve Gil": "1,123"
+    },
+    {
+        "Leve Name": "Don't Ask Wyvern",
+        "Leve Item": "Hallowed Chestnut Composite Bow",
+        "Leve Level": "56",
+        "Leve EXP": "656,800",
+        "Leve Gil": "998"
+    },
+    {
+        "Leve Name": "Aim to Please",
+        "Leve Item": "Hallowed Chestnut Mask of Aiming",
+        "Leve Level": "56",
+        "Leve EXP": "320,970",
+        "Leve Gil": "361"
+    },
+    {
+        "Leve Name": "Wooden Ambitions (L)",
+        "Leve Item": "Hallowed Chestnut Armillae x 3",
+        "Leve Level": "56",
+        "Leve EXP": "1,861,440",
+        "Leve Gil": "5,616"
+    },
+    {
+        "Leve Name": "A Sky Pirate's Life for Me (L)",
+        "Leve Item": "Hallowed Chestnut Composite Bow x 3",
+        "Leve Level": "56",
+        "Leve EXP": "3,612,420",
+        "Leve Gil": "4,992"
+    },
+    {
+        "Leve Name": "To Protect My City, I Must Wear a Mask (L)",
+        "Leve Item": "Hallowed Chestnut Mask of Aiming",
+        "Leve Level": "56",
+        "Leve EXP": "534,960",
+        "Leve Gil": "1,248"
+    },
+    {
+        "Leve Name": "Birch, Please",
+        "Leve Item": "Birch Lumber",
+        "Leve Level": "58",
+        "Leve EXP": "183,570",
+        "Leve Gil": "1,123"
+    },
+    {
+        "Leve Name": "Anatomy of a Drill Bit",
+        "Leve Item": "Dragonscale Grinding Wheel",
+        "Leve Level": "58",
+        "Leve EXP": "484,390",
+        "Leve Gil": "1,186"
+    },
+    {
+        "Leve Name": "Hold on Adamantite",
+        "Leve Item": "Adamantite Spear",
+        "Leve Level": "58",
+        "Leve EXP": "421,420",
+        "Leve Gil": "406"
+    },
+    {
+        "Leve Name": "Built This City on Blocks and Soul (L)",
+        "Leve Item": "Birch Lumber x 5",
+        "Leve Level": "58",
+        "Leve EXP": "1,376,840",
+        "Leve Gil": "5,616"
+    },
+    {
+        "Leve Name": "Pulling Them to the Grind (L)",
+        "Leve Item": "Dragonscale Grinding Wheel x 3",
+        "Leve Level": "58",
+        "Leve EXP": "2,664,150",
+        "Leve Gil": "5,928"
+    },
+    {
+        "Leve Name": "Spears for Stone Vigilantes (L)",
+        "Leve Item": "Adamantite Spear",
+        "Leve Level": "58",
+        "Leve EXP": "702,370",
+        "Leve Gil": "1,404"
+    },
+    {
+        "Leve Name": "Walk the Walk",
+        "Leve Item": "Beech Rod",
+        "Leve Level": "60",
+        "Leve EXP": "812,920",
+        "Leve Gil": "2,496"
+    },
+    {
+        "Leve Name": "Reeling for Rods",
+        "Leve Item": "Muudhorn Fishing Rod",
+        "Leve Level": "60",
+        "Leve EXP": "428,540",
+        "Leve Gil": "1,872"
+    },
+    {
+        "Leve Name": "Beech, Please",
+        "Leve Item": "Beech Lumber",
+        "Leve Level": "60",
+        "Leve EXP": "94,630",
+        "Leve Gil": "451"
+    },
+    {
+        "Leve Name": "Standing on Ceremony",
+        "Leve Item": "High Steel Fork",
+        "Leve Level": "62",
+        "Leve EXP": "705,130",
+        "Leve Gil": "2,746"
+    },
+    {
+        "Leve Name": "Composition",
+        "Leve Item": "Larch Composite Bow",
+        "Leve Level": "62",
+        "Leve EXP": "705,130",
+        "Leve Gil": "2,746"
+    },
+    {
+        "Leve Name": "Wood That You Could",
+        "Leve Item": "Larch Bracelets",
+        "Leve Level": "62",
+        "Leve EXP": "357,430",
+        "Leve Gil": "991"
+    },
+    {
+        "Leve Name": "Pinewheel",
+        "Leve Item": "Pine Spinning Wheel",
+        "Leve Level": "64",
+        "Leve EXP": "489,060",
+        "Leve Gil": "2,246"
+    },
+    {
+        "Leve Name": "O Pine",
+        "Leve Item": "Pine Lumber",
+        "Leve Level": "64",
+        "Leve EXP": "158,940",
+        "Leve Gil": "1,498"
+    },
+    {
+        "Leve Name": "Run Before They Walk",
+        "Leve Item": "Pine Cane",
+        "Leve Level": "64",
+        "Leve EXP": "375,300",
+        "Leve Gil": "1,082"
+    },
+    {
+        "Leve Name": "Everybody's Heard about the 'Berd",
+        "Leve Item": "Doman Steel Halberd",
+        "Leve Level": "66",
+        "Leve EXP": "739,840",
+        "Leve Gil": "3,245"
+    },
+    {
+        "Leve Name": "The Ear Is the Way to the Heart",
+        "Leve Item": "Persimmon Earrings",
+        "Leve Level": "66",
+        "Leve EXP": "395,430",
+        "Leve Gil": "2,434"
+    },
+    {
+        "Leve Name": "Spare a Rod and Spoil the Fishers",
+        "Leve Item": "Gazelle Horn Fishing Rod",
+        "Leve Level": "66",
+        "Leve EXP": "270,320",
+        "Leve Gil": "1,172"
+    },
+    {
+        "Leve Name": "Putting Your Line on the Neck",
+        "Leve Item": "Zelkova Necklace",
+        "Leve Level": "68",
+        "Leve EXP": "556,350",
+        "Leve Gil": "2,621"
+    },
+    {
+        "Leve Name": "Zelkova, My Love",
+        "Leve Item": "Zelkova Lumber",
+        "Leve Level": "68",
+        "Leve EXP": "180,810",
+        "Leve Gil": "1,747"
+    },
+    {
+        "Leve Name": "With a Bow on Top",
+        "Leve Item": "Zelkova Longbow",
+        "Leve Level": "68",
+        "Leve EXP": "408,920",
+        "Leve Gil": "1,262"
+    },
+    {
+        "Leve Name": "Built to Last",
+        "Leve Item": "White Oak Lumber",
+        "Leve Level": "70",
+        "Leve EXP": "183,900",
+        "Leve Gil": "1,920"
+    },
+    {
+        "Leve Name": "Just Starting Out",
+        "Leve Item": "White Oak Fishing Rod",
+        "Leve Level": "70",
+        "Leve EXP": "565,870",
+        "Leve Gil": "3,840"
+    },
+    {
+        "Leve Name": "Playing the Market",
+        "Leve Item": "White Oak Necklace",
+        "Leve Level": "70",
+        "Leve EXP": "339,520",
+        "Leve Gil": "1,040"
+    },
+    {
+        "Leve Name": "A Stronger Offense",
+        "Leve Item": "Applewood Spear",
+        "Leve Level": "72",
+        "Leve EXP": "826,240",
+        "Leve Gil": "4,090"
+    },
+    {
+        "Leve Name": "Taking Aim",
+        "Leve Item": "Applewood Longbow",
+        "Leve Level": "72",
+        "Leve EXP": "826,240",
+        "Leve Gil": "4,090"
+    },
+    {
+        "Leve Name": "Understaffed",
+        "Leve Item": "Applewood Cane",
+        "Leve Level": "72",
+        "Leve EXP": "418,810",
+        "Leve Gil": "1,477"
+    },
+    {
+        "Leve Name": "Patient Patients",
+        "Leve Item": "White Ash Lumber",
+        "Leve Level": "74",
+        "Leve EXP": "210,060",
+        "Leve Gil": "2,170"
+    },
+    {
+        "Leve Name": "Ground to a Halt",
+        "Leve Item": "White Ash Grinding Wheel",
+        "Leve Level": "74",
+        "Leve EXP": "646,380",
+        "Leve Gil": "4,339"
+    },
+    {
+        "Leve Name": "Horde of the Rings",
+        "Leve Item": "White Ash Bracelet",
+        "Leve Level": "74",
+        "Leve EXP": "387,820",
+        "Leve Gil": "1,175"
+    },
+    {
+        "Leve Name": "The Right Tool for the Job",
+        "Leve Item": "Sandteak Rod",
+        "Leve Level": "76",
+        "Leve EXP": "919,160",
+        "Leve Gil": "4,589"
+    },
+    {
+        "Leve Name": "Sleep on It",
+        "Leve Item": "Sandteak Spinning Wheel",
+        "Leve Level": "76",
+        "Leve EXP": "750,330",
+        "Leve Gil": "4,589"
+    },
+    {
+        "Leve Name": "A Miss and a Hit",
+        "Leve Item": "Sandteak Longbow",
+        "Leve Level": "76",
+        "Leve EXP": "652,790",
+        "Leve Gil": "1,657"
+    },
+    {
+        "Leve Name": "Off to a Good Staff",
+        "Leve Item": "Dwarven Lignum Cane",
+        "Leve Level": "78",
+        "Leve EXP": "1,103,750",
+        "Leve Gil": "4,838"
+    },
+    {
+        "Leve Name": "Kindling the Flame",
+        "Leve Item": "Lignum Vitae Ring",
+        "Leve Level": "78",
+        "Leve EXP": "495,550",
+        "Leve Gil": "3,629"
+    },
+    {
+        "Leve Name": "Safety First",
+        "Leve Item": "Lignum Vitae Earrings",
+        "Leve Level": "78",
+        "Leve EXP": "418,970",
+        "Leve Gil": "1,310"
+    },
+    {
+        "Leve Name": "Timber of Tenkonto",
+        "Leve Item": "Horse Chestnut Lumber x 3",
+        "Leve Level": "80",
+        "Leve EXP": "724,620",
+        "Leve Gil": "2,450"
+    },
+    {
+        "Leve Name": "A Real Grind",
+        "Leve Item": "Horse Chestnut Grinding Wheel",
+        "Leve Level": "80",
+        "Leve EXP": "935,000",
+        "Leve Gil": "4,900"
+    },
+    {
+        "Leve Name": "Earring Awakening",
+        "Leve Item": "Palm Ear Cuffs of Fending",
+        "Leve Level": "82",
+        "Leve EXP": "815,150",
+        "Leve Gil": "2,455"
+    },
+    {
+        "Leve Name": "A Wristy Experiment",
+        "Leve Item": "Palm Bracelets of Aiming",
+        "Leve Level": "82",
+        "Leve EXP": "846,040",
+        "Leve Gil": "2,460"
+    },
+    {
+        "Leve Name": "A Better Conductor",
+        "Leve Item": "Red Pine Lumber x 3",
+        "Leve Level": "84",
+        "Leve EXP": "933,280",
+        "Leve Gil": "2,470"
+    },
+    {
+        "Leve Name": "In Rod We Trust",
+        "Leve Item": "Red Pine Fishing Rod",
+        "Leve Level": "84",
+        "Leve EXP": "1,255,600",
+        "Leve Gil": "4,960"
+    },
+    {
+        "Leve Name": "An A-prop-riate Request",
+        "Leve Item": "Ironwood Spear",
+        "Leve Level": "86",
+        "Leve EXP": "2,028,020",
+        "Leve Gil": "4,980"
+    },
+    {
+        "Leve Name": "Spinning the Time Away",
+        "Leve Item": "Ironwood Spinning Wheel",
+        "Leve Level": "86",
+        "Leve EXP": "1,443,780",
+        "Leve Gil": "5,000"
+    },
+    {
+        "Leve Name": "Annals of the Empire II",
+        "Leve Item": "Integral Magitek Rod",
+        "Leve Level": "88",
+        "Leve EXP": "2,297,800",
+        "Leve Gil": "5,020"
+    },
+    {
+        "Leve Name": "An Integral Reward",
+        "Leve Item": "Integral Necklace of Crafting",
+        "Leve Level": "88",
+        "Leve EXP": "1,457,380",
+        "Leve Gil": "5,040"
+    },
+    {
+        "Leve Name": "Hull Lotta Damage",
+        "Leve Item": "Ginseng Lumber x 3",
+        "Leve Level": "90",
+        "Leve EXP": "1,440,660",
+        "Leve Gil": "2,530"
+    },
+    {
+        "Leve Name": "Yimepi's Country Charms",
+        "Leve Item": "Ginseng Earrings",
+        "Leve Level": "90",
+        "Leve EXP": "1,440,660",
+        "Leve Gil": "2,530"
+    },
+    {
+        "Leve Name": "Wood You Be Quiet",
+        "Leve Item": "Ceiba Lumber x 3",
+        "Leve Level": "92",
+        "Leve EXP": "1,665,250",
+        "Leve Gil": "2,535"
+    },
+    {
+        "Leve Name": "The Wing's Wings",
+        "Leve Item": "Ceiba Wings",
+        "Leve Level": "92",
+        "Leve EXP": "3,115,640",
+        "Leve Gil": "5,070"
+    },
+    {
+        "Leve Name": "Turali Quality",
+        "Leve Item": "Dark Mahogany Lumber x 3",
+        "Leve Level": "94",
+        "Leve EXP": "1,902,430",
+        "Leve Gil": "2,550"
+    },
+    {
+        "Leve Name": "Lament of the Lazylump",
+        "Leve Item": "Dark Mahogany Fishing Rod",
+        "Leve Level": "94",
+        "Leve EXP": "2,454,760",
+        "Leve Gil": "5,100"
+    },
+    {
+        "Leve Name": "Bow Out",
+        "Leve Item": "Acacia Longbow",
+        "Leve Level": "96",
+        "Leve EXP": "4,125,360",
+        "Leve Gil": "5,140"
+    },
+    {
+        "Leve Name": "Weaving a Path",
+        "Leve Item": "Acacia Spinning Wheel",
+        "Leve Level": "96",
+        "Leve EXP": "2,845,080",
+        "Leve Gil": "5,140"
+    },
+    {
+        "Leve Name": "Spear Pressure",
+        "Leve Item": "Claro Walnut Spear",
+        "Leve Level": "98",
+        "Leve EXP": "4,664,730",
+        "Leve Gil": "5,180"
+    },
+    {
+        "Leve Name": "No Greater Treasure",
+        "Leve Item": "Claro Walnut Necklace of Gathering",
+        "Leve Level": "98",
+        "Leve EXP": "3,217,060",
+        "Leve Gil": "5,180"
+    }
+]

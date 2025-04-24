@@ -1,0 +1,982 @@
+[
+    {
+        "Leve Name": "Mercury Rising",
+        "Leve Item": "Quicksilver",
+        "Leve Level": "1",
+        "Leve EXP": "800",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "One for the Books",
+        "Leve Item": "Leather Grimoire",
+        "Leve Level": "1",
+        "Leve EXP": "2,040",
+        "Leve Gil": "114"
+    },
+    {
+        "Leve Name": "Root Rush",
+        "Leve Item": "Growth Formula Alpha",
+        "Leve Level": "1",
+        "Leve EXP": "1,330",
+        "Leve Gil": "114"
+    },
+    {
+        "Leve Name": "Met a Sticky End",
+        "Leve Item": "Animal Glue",
+        "Leve Level": "1",
+        "Leve EXP": "1,330",
+        "Leve Gil": "115"
+    },
+    {
+        "Leve Name": "Days of Chunder",
+        "Leve Item": "Antidote x 3",
+        "Leve Level": "1",
+        "Leve EXP": "800",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "The Bleat Is On",
+        "Leve Item": "Maple Wand",
+        "Leve Level": "1",
+        "Leve EXP": "980",
+        "Leve Gil": "112"
+    },
+    {
+        "Leve Name": "On the Drip",
+        "Leve Item": "Eye Drops x 3",
+        "Leve Level": "5",
+        "Leve EXP": "2,490",
+        "Leve Gil": "139"
+    },
+    {
+        "Leve Name": "Distill, My Heart",
+        "Leve Item": "Distilled Water",
+        "Leve Level": "5",
+        "Leve EXP": "1,420",
+        "Leve Gil": "169"
+    },
+    {
+        "Leve Name": "A Jawbreaking Weapon of Staggering Weight",
+        "Leve Item": "Whispering Maple Wand",
+        "Leve Level": "5",
+        "Leve EXP": "5,220",
+        "Leve Gil": "293"
+    },
+    {
+        "Leve Name": "Gotta Bounce",
+        "Leve Item": "Rubber",
+        "Leve Level": "5",
+        "Leve EXP": "1,420",
+        "Leve Gil": "140"
+    },
+    {
+        "Leve Name": "Don't Be So Tallow",
+        "Leve Item": "Beeswax",
+        "Leve Level": "5",
+        "Leve EXP": "3,600",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "The Hexster Runoff",
+        "Leve Item": "Maple Picatrix",
+        "Leve Level": "5",
+        "Leve EXP": "6,280",
+        "Leve Gil": "169"
+    },
+    {
+        "Leve Name": "Wand-full Tonight",
+        "Leve Item": "Budding Maple Wand",
+        "Leve Level": "10",
+        "Leve EXP": "9,990",
+        "Leve Gil": "191"
+    },
+    {
+        "Leve Name": "Morning Glass of Ether",
+        "Leve Item": "Ether x 3",
+        "Leve Level": "10",
+        "Leve EXP": "8,930",
+        "Leve Gil": "169"
+    },
+    {
+        "Leve Name": "Using Your Arcane Powers for Fun and Profit",
+        "Leve Item": "Ash Picatrix",
+        "Leve Level": "10",
+        "Leve EXP": "12,030",
+        "Leve Gil": "230"
+    },
+    {
+        "Leve Name": "One for the Road",
+        "Leve Item": "Potion x 3",
+        "Leve Level": "10",
+        "Leve EXP": "7,880",
+        "Leve Gil": "168"
+    },
+    {
+        "Leve Name": "You Grow, Girl",
+        "Leve Item": "Growth Formula Beta",
+        "Leve Level": "10",
+        "Leve EXP": "8,930",
+        "Leve Gil": "284"
+    },
+    {
+        "Leve Name": "Unbreak My Heart",
+        "Leve Item": "Roof Tile",
+        "Leve Level": "10",
+        "Leve EXP": "6,880",
+        "Leve Gil": "175"
+    },
+    {
+        "Leve Name": "Shut Up and Take My Gil",
+        "Leve Item": "Ash Wand",
+        "Leve Level": "15",
+        "Leve EXP": "11,040",
+        "Leve Gil": "230"
+    },
+    {
+        "Leve Name": "Book and a Hard Place",
+        "Leve Item": "Engraved Hard Leather Grimoire",
+        "Leve Level": "15",
+        "Leve EXP": "22,790",
+        "Leve Gil": "468"
+    },
+    {
+        "Leve Name": "Kiss of Life",
+        "Leve Item": "Potion of Vitality x 3",
+        "Leve Level": "15",
+        "Leve EXP": "14,920",
+        "Leve Gil": "172"
+    },
+    {
+        "Leve Name": "There's Something about Bury",
+        "Leve Item": "Hard Leather Grimoire",
+        "Leve Level": "15",
+        "Leve EXP": "22,790",
+        "Leve Gil": "234"
+    },
+    {
+        "Leve Name": "Sanity Points",
+        "Leve Item": "Potion of Mind x 3",
+        "Leve Level": "15",
+        "Leve EXP": "16,920",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "Devil Take the Foremost",
+        "Leve Item": "Potion of Strength x 3",
+        "Leve Level": "15",
+        "Leve EXP": "16,920",
+        "Leve Gil": "174"
+    },
+    {
+        "Leve Name": "Everything Is Impossible",
+        "Leve Item": "Budding Ash Wand",
+        "Leve Level": "20",
+        "Leve EXP": "21,600",
+        "Leve Gil": "344"
+    },
+    {
+        "Leve Name": "Don't Forget to Take Your Meds",
+        "Leve Item": "Potion of Intelligence x 3",
+        "Leve Level": "20",
+        "Leve EXP": "11,560",
+        "Leve Gil": "101"
+    },
+    {
+        "Leve Name": "The Writing Is Not on the Wall",
+        "Leve Item": "Enchanted Silver Ink",
+        "Leve Level": "20",
+        "Leve EXP": "17,120",
+        "Leve Gil": "485"
+    },
+    {
+        "Leve Name": "Dripping with Venom",
+        "Leve Item": "Weak Blinding Potion x 3",
+        "Leve Level": "20",
+        "Leve EXP": "21,600",
+        "Leve Gil": "281"
+    },
+    {
+        "Leve Name": "Blind Man's Bluff",
+        "Leve Item": "Potion of Dexterity x 3",
+        "Leve Level": "20",
+        "Leve EXP": "7,710",
+        "Leve Gil": "101"
+    },
+    {
+        "Leve Name": "Hush Little Wailer",
+        "Leve Item": "Weak Silencing Potion x 3",
+        "Leve Level": "20",
+        "Leve EXP": "21,600",
+        "Leve Gil": "230"
+    },
+    {
+        "Leve Name": "Automata for the People",
+        "Leve Item": "Crab Oil",
+        "Leve Level": "25",
+        "Leve EXP": "25,250",
+        "Leve Gil": "326"
+    },
+    {
+        "Leve Name": "Glazed and Confused",
+        "Leve Item": "Clear Glass Lens",
+        "Leve Level": "25",
+        "Leve EXP": "21,650",
+        "Leve Gil": "229"
+    },
+    {
+        "Leve Name": "Sophomore Slump",
+        "Leve Item": "Goatskin Grimoire",
+        "Leve Level": "25",
+        "Leve EXP": "26,160",
+        "Leve Gil": "203"
+    },
+    {
+        "Leve Name": "Conspicuous Conjuration",
+        "Leve Item": "Whispering Ash Wand",
+        "Leve Level": "25",
+        "Leve EXP": "36,390",
+        "Leve Gil": "379"
+    },
+    {
+        "Leve Name": "You Put Your Left Hand In",
+        "Leve Item": "Engraved Goatskin Grimoire",
+        "Leve Level": "25",
+        "Leve EXP": "43,600",
+        "Leve Gil": "715"
+    },
+    {
+        "Leve Name": "The Wailers' First Law of Potion",
+        "Leve Item": "Hi-Potion x 3",
+        "Leve Level": "25",
+        "Leve EXP": "17,310",
+        "Leve Gil": "126"
+    },
+    {
+        "Leve Name": "Just Give Him a Serum",
+        "Leve Item": "Hi-Potion of Strength x 3",
+        "Leve Level": "30",
+        "Leve EXP": "41,410",
+        "Leve Gil": "372"
+    },
+    {
+        "Leve Name": "Riches' Brew",
+        "Leve Item": "Hi-Potion of Mind x 3",
+        "Leve Level": "30",
+        "Leve EXP": "41,410",
+        "Leve Gil": "296"
+    },
+    {
+        "Leve Name": "Stuck in the Moment",
+        "Leve Item": "Horn Glue",
+        "Leve Level": "30",
+        "Leve EXP": "21,740",
+        "Leve Gil": "175"
+    },
+    {
+        "Leve Name": "The Write Stuff",
+        "Leve Item": "Enchanted Mythril Ink",
+        "Leve Level": "30",
+        "Leve EXP": "41,410",
+        "Leve Gil": "440"
+    },
+    {
+        "Leve Name": "Eye of the Beholder",
+        "Leve Item": "Hi-Potion of Dexterity x 3",
+        "Leve Level": "30",
+        "Leve EXP": "41,410",
+        "Leve Gil": "230"
+    },
+    {
+        "Leve Name": "Growing Is Knowing",
+        "Leve Item": "Growth Formula Gamma",
+        "Leve Level": "30",
+        "Leve EXP": "27,950",
+        "Leve Gil": "69"
+    },
+    {
+        "Leve Name": "Alive and Unwell",
+        "Leve Item": "Budding Oak Wand",
+        "Leve Level": "35",
+        "Leve EXP": "64,750",
+        "Leve Gil": "462"
+    },
+    {
+        "Leve Name": "The House Always Wins",
+        "Leve Item": "Blinding Potion x 3",
+        "Leve Level": "35",
+        "Leve EXP": "72,600",
+        "Leve Gil": "192"
+    },
+    {
+        "Leve Name": "Always Have an Exit Plan",
+        "Leve Item": "Poisoning Potion x 3",
+        "Leve Level": "35",
+        "Leve EXP": "43,560",
+        "Leve Gil": "119"
+    },
+    {
+        "Leve Name": "Open Your Grimoire to Page 42",
+        "Leve Item": "Embossed Book of Silver",
+        "Leve Level": "35",
+        "Leve EXP": "72,600",
+        "Leve Gil": "972"
+    },
+    {
+        "Leve Name": "The Sting of Conscience",
+        "Leve Item": "Sleeping Potion x 3",
+        "Leve Level": "35",
+        "Leve EXP": "64,750",
+        "Leve Gil": "292"
+    },
+    {
+        "Leve Name": "Going Nowhere Fast",
+        "Leve Item": "Paralyzing Potion x 3",
+        "Leve Level": "35",
+        "Leve EXP": "38,850",
+        "Leve Gil": "136"
+    },
+    {
+        "Leve Name": "A Patch-up Place",
+        "Leve Item": "Mega-Potion x 3",
+        "Leve Level": "40",
+        "Leve EXP": "63,810",
+        "Leve Gil": "475"
+    },
+    {
+        "Leve Name": "A Bile Business",
+        "Leve Item": "Shark Oil",
+        "Leve Level": "40",
+        "Leve EXP": "40,730",
+        "Leve Gil": "484"
+    },
+    {
+        "Leve Name": "Your Courtesy Wake-up Call",
+        "Leve Item": "Smelling Salts x 3",
+        "Leve Level": "40",
+        "Leve EXP": "38,290",
+        "Leve Gil": "160"
+    },
+    {
+        "Leve Name": "No Accounting for Waste",
+        "Leve Item": "Enchanted Electrum Ink",
+        "Leve Level": "40",
+        "Leve EXP": "63,810",
+        "Leve Gil": "637"
+    },
+    {
+        "Leve Name": "Arcane Arts for Dummies",
+        "Leve Item": "Book of Mythril",
+        "Leve Level": "40",
+        "Leve EXP": "94,280",
+        "Leve Gil": "486"
+    },
+    {
+        "Leve Name": "A Real Smooth Move",
+        "Leve Item": "Lanolin",
+        "Leve Level": "40",
+        "Leve EXP": "20,000",
+        "Leve Gil": "214"
+    },
+    {
+        "Leve Name": "Sleepless in Silvertear",
+        "Leve Item": "Potent Sleeping Potion x 3",
+        "Leve Level": "45",
+        "Leve EXP": "95,350",
+        "Leve Gil": "534"
+    },
+    {
+        "Leve Name": "Quit Your Jib-jab",
+        "Leve Item": "Gold Needle x 3",
+        "Leve Level": "45",
+        "Leve EXP": "106,480",
+        "Leve Gil": "499"
+    },
+    {
+        "Leve Name": "A Matter of Vital Importance",
+        "Leve Item": "Mega-Potion of Vitality x 3",
+        "Leve Level": "45",
+        "Leve EXP": "57,210",
+        "Leve Gil": "150"
+    },
+    {
+        "Leve Name": "Shut Up Already",
+        "Leve Item": "Potent Silencing Potion x 3",
+        "Leve Level": "45",
+        "Leve EXP": "95,350",
+        "Leve Gil": "557"
+    },
+    {
+        "Leve Name": "Make Up Your Mind or Else",
+        "Leve Item": "Potent Poisoning Potion x 3",
+        "Leve Level": "45",
+        "Leve EXP": "106,480",
+        "Leve Gil": "484"
+    },
+    {
+        "Leve Name": "Not Taking No for an Answer",
+        "Leve Item": "Mega-Potion of Strength x 3",
+        "Leve Level": "45",
+        "Leve EXP": "51,270",
+        "Leve Gil": "172"
+    },
+    {
+        "Leve Name": "The Mustache Suits Him",
+        "Leve Item": "Enchanted Mythrite Ink",
+        "Leve Level": "50",
+        "Leve EXP": "272,720",
+        "Leve Gil": "624"
+    },
+    {
+        "Leve Name": "Summoning for Dummies",
+        "Leve Item": "Archaeoskin Codex",
+        "Leve Level": "50",
+        "Leve EXP": "334,080",
+        "Leve Gil": "624"
+    },
+    {
+        "Leve Name": "Forged from the Void",
+        "Leve Item": "Void Glue",
+        "Leve Level": "50",
+        "Leve EXP": "200,450",
+        "Leve Gil": "248"
+    },
+    {
+        "Leve Name": "Forgery of Convenience (L)",
+        "Leve Item": "Enchanted Mythrite Ink x 5",
+        "Leve Level": "50",
+        "Leve EXP": "2,045,430",
+        "Leve Gil": "3,120"
+    },
+    {
+        "Leve Name": "Summoning the Courage to Be Different (L)",
+        "Leve Item": "Archaeoskin Codex x 3",
+        "Leve Level": "50",
+        "Leve EXP": "1,837,480",
+        "Leve Gil": "3,120"
+    },
+    {
+        "Leve Name": "Dodging the Draft (L)",
+        "Leve Item": "Void Glue",
+        "Leve Level": "50",
+        "Leve EXP": "334,080",
+        "Leve Gil": "858"
+    },
+    {
+        "Leve Name": "Can't Sleep, Inquisitors Will Eat Me",
+        "Leve Item": "Wyvernskin Grimoire",
+        "Leve Level": "52",
+        "Leve EXP": "331,500",
+        "Leve Gil": "749"
+    },
+    {
+        "Leve Name": "Steeling the Knife, Steeling the Mind",
+        "Leve Item": "Grade 1 Mind Dissolvent x 3",
+        "Leve Level": "52",
+        "Leve EXP": "480,670",
+        "Leve Gil": "874"
+    },
+    {
+        "Leve Name": "Consecrating Congregation",
+        "Leve Item": "Holy Water x 3",
+        "Leve Level": "52",
+        "Leve EXP": "154,140",
+        "Leve Gil": "270"
+    },
+    {
+        "Leve Name": "Allow No Fallacies (L)",
+        "Leve Item": "Wyvernskin Grimoire x 3",
+        "Leve Level": "52",
+        "Leve EXP": "1,823,250",
+        "Leve Gil": "3,744"
+    },
+    {
+        "Leve Name": "Surgical Substitution (L)",
+        "Leve Item": "Grade 1 Mind Dissolvent x 9",
+        "Leve Level": "52",
+        "Leve EXP": "2,643,720",
+        "Leve Gil": "4,368"
+    },
+    {
+        "Leve Name": "Curbing the Contagion (L)",
+        "Leve Item": "Holy Water x 3",
+        "Leve Level": "52",
+        "Leve EXP": "256,910",
+        "Leve Gil": "936"
+    },
+    {
+        "Leve Name": "Adhesive of Antipathy",
+        "Leve Item": "Wing Glue",
+        "Leve Level": "54",
+        "Leve EXP": "647,060",
+        "Leve Gil": "936"
+    },
+    {
+        "Leve Name": "Tomes Roam on the Range",
+        "Leve Item": "Dhalmelskin Codex",
+        "Leve Level": "54",
+        "Leve EXP": "473,220",
+        "Leve Gil": "936"
+    },
+    {
+        "Leve Name": "Warding Off Temptation",
+        "Leve Item": "Enchanted Hardsilver Ink",
+        "Leve Level": "54",
+        "Leve EXP": "256,810",
+        "Leve Gil": "315"
+    },
+    {
+        "Leve Name": "It's Gonna Grow Back (L)",
+        "Leve Item": "Wing Glue x 5",
+        "Leve Level": "54",
+        "Leve EXP": "4,852,950",
+        "Leve Gil": "4,680"
+    },
+    {
+        "Leve Name": "Field Trip to the Unknown (L)",
+        "Leve Item": "Dhalmelskin Codex x 3",
+        "Leve Level": "54",
+        "Leve EXP": "2,602,720",
+        "Leve Gil": "4,680"
+    },
+    {
+        "Leve Name": "The Garden of Arcane Delights (L)",
+        "Leve Item": "Enchanted Hardsilver Ink",
+        "Leve Level": "54",
+        "Leve EXP": "428,020",
+        "Leve Gil": "1,092"
+    },
+    {
+        "Leve Name": "Cleansing the Wicked Humours",
+        "Leve Item": "Hallowed Water x 3",
+        "Leve Level": "56",
+        "Leve EXP": "338,440",
+        "Leve Gil": "998"
+    },
+    {
+        "Leve Name": "Volunteering with Staff",
+        "Leve Item": "Hallowed Chestnut Wand",
+        "Leve Level": "56",
+        "Leve EXP": "534,960",
+        "Leve Gil": "998"
+    },
+    {
+        "Leve Name": "Rolling on Initiative",
+        "Leve Item": "Draconian Potion of Dexterity x 3",
+        "Leve Level": "56",
+        "Leve EXP": "438,880",
+        "Leve Gil": "406"
+    },
+    {
+        "Leve Name": "Washing Away the Sins (L)",
+        "Leve Item": "Hallowed Water x 9",
+        "Leve Level": "56",
+        "Leve EXP": "1,861,440",
+        "Leve Gil": "4,992"
+    },
+    {
+        "Leve Name": "Scripture Is the Best Medicine (L)",
+        "Leve Item": "Hallowed Chestnut Wand x 3",
+        "Leve Level": "56",
+        "Leve EXP": "2,942,290",
+        "Leve Gil": "4,992"
+    },
+    {
+        "Leve Name": "Darkly Dreaming Dexterity (L)",
+        "Leve Item": "Draconian Potion of Dexterity x 3",
+        "Leve Level": "56",
+        "Leve EXP": "731,480",
+        "Leve Gil": "1,404"
+    },
+    {
+        "Leve Name": "Filling in the Blanks",
+        "Leve Item": "Enchanted Aurum Regis Ink",
+        "Leve Level": "58",
+        "Leve EXP": "536,700",
+        "Leve Gil": "1,123"
+    },
+    {
+        "Leve Name": "There Was a Late Fee",
+        "Leve Item": "Noble Gold",
+        "Leve Level": "58",
+        "Leve EXP": "811,360",
+        "Leve Gil": "1,248"
+    },
+    {
+        "Leve Name": "The Grave of Hemlock Groves",
+        "Leve Item": "Growth Formula Zeta",
+        "Leve Level": "58",
+        "Leve EXP": "256,630",
+        "Leve Gil": "406"
+    },
+    {
+        "Leve Name": "Ink into Antiquity (L)",
+        "Leve Item": "Enchanted Aurum Regis Ink x 5",
+        "Leve Level": "58",
+        "Leve EXP": "4,025,300",
+        "Leve Gil": "5,616"
+    },
+    {
+        "Leve Name": "A Gate Arcane Is Dragon's Bane (L)",
+        "Leve Item": "Noble Gold x 3",
+        "Leve Level": "58",
+        "Leve EXP": "4,462,490",
+        "Leve Gil": "6,240"
+    },
+    {
+        "Leve Name": "Dappling the Highlands (L)",
+        "Leve Item": "Growth Formula Zeta",
+        "Leve Level": "58",
+        "Leve EXP": "427,710",
+        "Leve Gil": "1,404"
+    },
+    {
+        "Leve Name": "Whinier than the Sword",
+        "Leve Item": "Enchanted Koppranickel Ink",
+        "Leve Level": "60",
+        "Leve EXP": "428,540",
+        "Leve Gil": "1,248"
+    },
+    {
+        "Leve Name": "Spellbound",
+        "Leve Item": "Koppranickel Index",
+        "Leve Level": "60",
+        "Leve EXP": "812,920",
+        "Leve Gil": "2,496"
+    },
+    {
+        "Leve Name": "Magic Beans",
+        "Leve Item": "Growth Formula Eta",
+        "Leve Level": "60",
+        "Leve EXP": "225,670",
+        "Leve Gil": "451"
+    },
+    {
+        "Leve Name": "Official Strategy Guide",
+        "Leve Item": "Gyuki Leather Codex",
+        "Leve Level": "62",
+        "Leve EXP": "595,710",
+        "Leve Gil": "2,746"
+    },
+    {
+        "Leve Name": "Scroll Down",
+        "Leve Item": "Grade 1 Reisui of Intelligence x 3",
+        "Leve Level": "62",
+        "Leve EXP": "376,880",
+        "Leve Gil": "1,373"
+    },
+    {
+        "Leve Name": "Materia Worth",
+        "Leve Item": "Potent Spiritbond Potion x 3",
+        "Leve Level": "62",
+        "Leve EXP": "257,640",
+        "Leve Gil": "496"
+    },
+    {
+        "Leve Name": "The Dotted Line",
+        "Leve Item": "Enchanted Durium Ink",
+        "Leve Level": "64",
+        "Leve EXP": "379,020",
+        "Leve Gil": "1,498"
+    },
+    {
+        "Leve Name": "Rumor Has It",
+        "Leve Item": "Commanding Craftsman's Tea x 3",
+        "Leve Level": "64",
+        "Leve EXP": "379,020",
+        "Leve Gil": "1,498"
+    },
+    {
+        "Leve Name": "Asking for a Friend",
+        "Leve Item": "Beetle Glue",
+        "Leve Level": "64",
+        "Leve EXP": "259,100",
+        "Leve Gil": "541"
+    },
+    {
+        "Leve Name": "Edge of the Arcane",
+        "Leve Item": "Cunning Craftsman's Tea x 3",
+        "Leve Level": "66",
+        "Leve EXP": "395,430",
+        "Leve Gil": "1,622"
+    },
+    {
+        "Leve Name": "Spell-rebound",
+        "Leve Item": "Marid Leather Grimoire",
+        "Leve Level": "66",
+        "Leve EXP": "625,040",
+        "Leve Gil": "3,245"
+    },
+    {
+        "Leve Name": "Let Loose the Juice",
+        "Leve Item": "Persimmon Tannin x 3",
+        "Leve Level": "66",
+        "Leve EXP": "237,260",
+        "Leve Gil": "586"
+    },
+    {
+        "Leve Name": "Pep-stepper",
+        "Leve Item": "Infusion of Vitality x 3",
+        "Leve Level": "68",
+        "Leve EXP": "491,260",
+        "Leve Gil": "1,747"
+    },
+    {
+        "Leve Name": "Ultimate Official Strategy Guide",
+        "Leve Item": "Gazelleskin Codex",
+        "Leve Level": "68",
+        "Leve EXP": "681,530",
+        "Leve Gil": "3,494"
+    },
+    {
+        "Leve Name": "Making Your Mark",
+        "Leve Item": "Enchanted Palladium Ink",
+        "Leve Level": "68",
+        "Leve EXP": "219,640",
+        "Leve Gil": "631"
+    },
+    {
+        "Leve Name": "Another Man's Ink",
+        "Leve Item": "Enchanted Truegold Ink",
+        "Leve Level": "70",
+        "Leve EXP": "438,540",
+        "Leve Gil": "1,920"
+    },
+    {
+        "Leve Name": "Keeping Magic Alive",
+        "Leve Item": "Smilodonskin Grimoire",
+        "Leve Level": "70",
+        "Leve EXP": "693,190",
+        "Leve Gil": "3,840"
+    },
+    {
+        "Leve Name": "A Time for Peace",
+        "Leve Item": "Smilodonskin Codex",
+        "Leve Level": "70",
+        "Leve EXP": "415,910",
+        "Leve Gil": "1,387"
+    },
+    {
+        "Leve Name": "Make It Bigger",
+        "Leve Item": "Gliderskin Grimoire",
+        "Leve Level": "72",
+        "Leve EXP": "698,030",
+        "Leve Gil": "4,090"
+    },
+    {
+        "Leve Name": "An Eye for Healing",
+        "Leve Item": "Grade 1 Dexterity Alkahest x 3",
+        "Leve Level": "72",
+        "Leve EXP": "374,930",
+        "Leve Gil": "3,067"
+    },
+    {
+        "Leve Name": "Making Ends Meet",
+        "Leve Item": "Superior Spiritbond Potion x 3",
+        "Leve Level": "72",
+        "Leve EXP": "301,890",
+        "Leve Gil": "1,108"
+    },
+    {
+        "Leve Name": "Amaro Kart",
+        "Leve Item": "Starch Glue",
+        "Leve Level": "74",
+        "Leve EXP": "646,380",
+        "Leve Gil": "3,254"
+    },
+    {
+        "Leve Name": "Conserving Combat",
+        "Leve Item": "Bluespirit Codex",
+        "Leve Level": "74",
+        "Leve EXP": "937,250",
+        "Leve Gil": "4,339"
+    },
+    {
+        "Leve Name": "5-bell Energy",
+        "Leve Item": "Competent Craftsman's Syrup x 3",
+        "Leve Level": "74",
+        "Leve EXP": "429,710",
+        "Leve Gil": "1,567"
+    },
+    {
+        "Leve Name": "Growing Up",
+        "Leve Item": "Growth Formula Kappa",
+        "Leve Level": "76",
+        "Leve EXP": "831,370",
+        "Leve Gil": "3,442"
+    },
+    {
+        "Leve Name": "A Greater Grimoire",
+        "Leve Item": "Zonureskin Grimoire",
+        "Leve Level": "76",
+        "Leve EXP": "1,087,990",
+        "Leve Gil": "4,589"
+    },
+    {
+        "Leve Name": "Crafty Concoctions",
+        "Leve Item": "Commanding Craftsman's Syrup x 3",
+        "Leve Level": "76",
+        "Leve EXP": "498,820",
+        "Leve Gil": "1,657"
+    },
+    {
+        "Leve Name": "A Labor of Love",
+        "Leve Item": "Tincture of Vitality x 3",
+        "Leve Level": "78",
+        "Leve EXP": "1,201,060",
+        "Leve Gil": "4,838"
+    },
+    {
+        "Leve Name": "Supreme Official Strategy Guide",
+        "Leve Item": "Dwarven Mythril Codex",
+        "Leve Level": "78",
+        "Leve EXP": "1,103,750",
+        "Leve Gil": "4,838"
+    },
+    {
+        "Leve Name": "Mindful Medicine",
+        "Leve Item": "Tincture of Mind x 3",
+        "Leve Level": "78",
+        "Leve EXP": "720,630",
+        "Leve Gil": "1,747"
+    },
+    {
+        "Leve Name": "Wishful Inking",
+        "Leve Item": "Enchanted High Durium Ink x 3",
+        "Leve Level": "80",
+        "Leve EXP": "724,620",
+        "Leve Gil": "2,450"
+    },
+    {
+        "Leve Name": "Nearly Bare",
+        "Leve Item": "Gaja Grimoire",
+        "Leve Level": "80",
+        "Leve EXP": "1,355,750",
+        "Leve Gil": "4,900"
+    },
+    {
+        "Leve Name": "Luncheon Bound",
+        "Leve Item": "Luncheon Toadskin Codex",
+        "Leve Level": "82",
+        "Leve EXP": "1,525,130",
+        "Leve Gil": "4,910"
+    },
+    {
+        "Leve Name": "Body over Mind",
+        "Leve Item": "Grade 5 Dexterity Alkahest x 9",
+        "Leve Level": "82",
+        "Leve EXP": "846,040",
+        "Leve Gil": "2,460"
+    },
+    {
+        "Leve Name": "Rebuilding to Code",
+        "Leve Item": "Saigaskin Codex",
+        "Leve Level": "84",
+        "Leve EXP": "1,746,150",
+        "Leve Gil": "4,940"
+    },
+    {
+        "Leve Name": "Liquid Competence",
+        "Leve Item": "Competent Craftsman's Draught x 3",
+        "Leve Level": "84",
+        "Leve EXP": "1,086,090",
+        "Leve Gil": "4,960"
+    },
+    {
+        "Leve Name": "Nearly There",
+        "Leve Item": "Kumbhiraskin Grimoire",
+        "Leve Level": "86",
+        "Leve EXP": "2,028,020",
+        "Leve Gil": "4,980"
+    },
+    {
+        "Leve Name": "Practical Command",
+        "Leve Item": "Commanding Craftsman's Draught x 3",
+        "Leve Level": "86",
+        "Leve EXP": "1,248,870",
+        "Leve Gil": "5,000"
+    },
+    {
+        "Leve Name": "Technically Still Magic",
+        "Leve Item": "Ophiotauroskin Magitek Codex",
+        "Leve Level": "88",
+        "Leve EXP": "2,297,800",
+        "Leve Gil": "5,020"
+    },
+    {
+        "Leve Name": "Mindful Study",
+        "Leve Item": "Grade 5 Tincture of Mind x 3",
+        "Leve Level": "88",
+        "Leve EXP": "1,494,330",
+        "Leve Gil": "5,040"
+    },
+    {
+        "Leve Name": "Fast-forwarding Flora",
+        "Leve Item": "Growth Formula Lambda x 3",
+        "Leve Level": "90",
+        "Leve EXP": "1,440,660",
+        "Leve Gil": "2,530"
+    },
+    {
+        "Leve Name": "Big Brush, Big Dreams",
+        "Leve Item": "Ginseng Angle Brush",
+        "Leve Level": "90",
+        "Leve EXP": "2,695,430",
+        "Leve Gil": "5,060"
+    },
+    {
+        "Leve Name": "Binding Spells",
+        "Leve Item": "Crocodileskin Index",
+        "Leve Level": "92",
+        "Leve EXP": "3,115,640",
+        "Leve Gil": "5,070"
+    },
+    {
+        "Leve Name": "For Tired Minds",
+        "Leve Item": "Grade 1 Gemsap of Intelligence x 9",
+        "Leve Level": "92",
+        "Leve EXP": "1,665,250",
+        "Leve Gil": "2,535"
+    },
+    {
+        "Leve Name": "I Like Big Brush and I Cannot Lie",
+        "Leve Item": "Dark Mahogany Round Brush",
+        "Leve Level": "94",
+        "Leve EXP": "3,559,400",
+        "Leve Gil": "5,100"
+    },
+    {
+        "Leve Name": "Cutting Edge of Culinary Quality",
+        "Leve Item": "Magnesia Whetstone x 3",
+        "Leve Level": "94",
+        "Leve EXP": "1,902,430",
+        "Leve Gil": "2,550"
+    },
+    {
+        "Leve Name": "All-night Crafting",
+        "Leve Item": "Cunning Craftsman's Tisane x 3",
+        "Leve Level": "96",
+        "Leve EXP": "2,268,950",
+        "Leve Gil": "5,140"
+    },
+    {
+        "Leve Name": "Something Salty and Ceremonial",
+        "Leve Item": "Gomphotherium Codex",
+        "Leve Level": "96",
+        "Leve EXP": "4,125,360",
+        "Leve Gil": "5,140"
+    },
+    {
+        "Leve Name": "Tome for Tradition",
+        "Leve Item": "Book of Ra'Kaznar",
+        "Leve Level": "98",
+        "Leve EXP": "4,183,380",
+        "Leve Gil": "5,180"
+    },
+    {
+        "Leve Name": "Remedy for Reason",
+        "Leve Item": "Grade 1 Gemdraught of Mind x 3",
+        "Leve Level": "98",
+        "Leve EXP": "2,580,080",
+        "Leve Gil": "5,180"
+    }
+]

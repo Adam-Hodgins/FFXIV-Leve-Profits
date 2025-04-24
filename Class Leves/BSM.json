@@ -1,0 +1,982 @@
+[
+    {
+        "Leve Name": "Proly Hatchet",
+        "Leve Item": "Bronze Hatchet",
+        "Leve Level": "1",
+        "Leve EXP": "1,160",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "Hells Bells",
+        "Leve Item": "Bronze Ingot",
+        "Leve Level": "1",
+        "Leve EXP": "630",
+        "Leve Gil": "114"
+    },
+    {
+        "Leve Name": "Mending Fences",
+        "Leve Item": "Bronze Rivets",
+        "Leve Level": "1",
+        "Leve EXP": "630",
+        "Leve Gil": "115"
+    },
+    {
+        "Leve Name": "Axe Me Anything",
+        "Leve Item": "Bronze War Axe",
+        "Leve Level": "1",
+        "Leve EXP": "1,690",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "The Unkindest Cut",
+        "Leve Item": "Bronze Saw",
+        "Leve Level": "1",
+        "Leve EXP": "1,690",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "Thank You for Your Business",
+        "Leve Item": "Bronze Bastard Sword",
+        "Leve Level": "1",
+        "Leve EXP": "1,330",
+        "Leve Gil": "113"
+    },
+    {
+        "Leve Name": "Stainless Chef",
+        "Leve Item": "Amateur's Culinary Knife",
+        "Leve Level": "5",
+        "Leve EXP": "5,220",
+        "Leve Gil": "140"
+    },
+    {
+        "Leve Name": "I, Gladius",
+        "Leve Item": "Viking Sword",
+        "Leve Level": "5",
+        "Leve EXP": "4,110",
+        "Leve Gil": "168"
+    },
+    {
+        "Leve Name": "Bring Me the Head Knife of Al'bedo Derssia",
+        "Leve Item": "Bronze Head Knife",
+        "Leve Level": "5",
+        "Leve EXP": "5,220",
+        "Leve Gil": "140"
+    },
+    {
+        "Leve Name": "Down on the Pharm",
+        "Leve Item": "Amateur's Mortar",
+        "Leve Level": "5",
+        "Leve EXP": "5,220",
+        "Leve Gil": "140"
+    },
+    {
+        "Leve Name": "A Hit Job",
+        "Leve Item": "Bronze Chaser Hammer",
+        "Leve Level": "5",
+        "Leve EXP": "5,220",
+        "Leve Gil": "168"
+    },
+    {
+        "Leve Name": "As Above, Below",
+        "Leve Item": "Bronze Pickaxe",
+        "Leve Level": "5",
+        "Leve EXP": "5,220",
+        "Leve Gil": "168"
+    },
+    {
+        "Leve Name": "Farriers of Fortune",
+        "Leve Item": "Amateur's Cross-pein Hammer",
+        "Leve Level": "10",
+        "Leve EXP": "9,990",
+        "Leve Gil": "172"
+    },
+    {
+        "Leve Name": "Anutha Spatha",
+        "Leve Item": "Bronze Spatha",
+        "Leve Level": "10",
+        "Leve EXP": "8,430",
+        "Leve Gil": "227"
+    },
+    {
+        "Leve Name": "Port of Call: Ul'dah",
+        "Leve Item": "Bronze Knuckles",
+        "Leve Level": "10",
+        "Leve EXP": "9,990",
+        "Leve Gil": "170"
+    },
+    {
+        "Leve Name": "Peddle to the Metal",
+        "Leve Item": "Amateur's Chaser Hammer",
+        "Leve Level": "10",
+        "Leve EXP": "9,990",
+        "Leve Gil": "172"
+    },
+    {
+        "Leve Name": "I'm into Leather",
+        "Leve Item": "Brass Head Knife",
+        "Leve Level": "10",
+        "Leve EXP": "9,990",
+        "Leve Gil": "529"
+    },
+    {
+        "Leve Name": "Twice as Slice",
+        "Leve Item": "Spiked Bronze Labrys",
+        "Leve Level": "10",
+        "Leve EXP": "13,090",
+        "Leve Gil": "173"
+    },
+    {
+        "Leve Name": "Smelt and Dealt",
+        "Leve Item": "Iron Ingot",
+        "Leve Level": "15",
+        "Leve EXP": "7,170",
+        "Leve Gil": "247"
+    },
+    {
+        "Leve Name": "Awl or Nothing",
+        "Leve Item": "Iron Awl",
+        "Leve Level": "15",
+        "Leve EXP": "18,910",
+        "Leve Gil": "236"
+    },
+    {
+        "Leve Name": "Riveting Run",
+        "Leve Item": "Iron Rivets",
+        "Leve Level": "15",
+        "Leve EXP": "7,170",
+        "Leve Gil": "173"
+    },
+    {
+        "Leve Name": "Get a Little Bit Closer",
+        "Leve Item": "Brass Knuckles",
+        "Leve Level": "15",
+        "Leve EXP": "13,040",
+        "Leve Gil": "283"
+    },
+    {
+        "Leve Name": "Honest Ballast",
+        "Leve Item": "Initiate's Head Knife",
+        "Leve Level": "15",
+        "Leve EXP": "18,910",
+        "Leve Gil": "235"
+    },
+    {
+        "Leve Name": "Tools of the Trade",
+        "Leve Item": "Iron Doming Hammer",
+        "Leve Level": "15",
+        "Leve EXP": "13,040",
+        "Leve Gil": "235"
+    },
+    {
+        "Leve Name": "Unseamly Conditions",
+        "Leve Item": "Iron Pickaxe",
+        "Leve Level": "20",
+        "Leve EXP": "21,600",
+        "Leve Gil": "292"
+    },
+    {
+        "Leve Name": "Claw Daddy",
+        "Leve Item": "Iron Claw Hammer",
+        "Leve Level": "20",
+        "Leve EXP": "12,960",
+        "Leve Gil": "192"
+    },
+    {
+        "Leve Name": "Hearth Maul",
+        "Leve Item": "Iron Sledgehammer",
+        "Leve Level": "20",
+        "Leve EXP": "21,600",
+        "Leve Gil": "294"
+    },
+    {
+        "Leve Name": "Powderpost Derby",
+        "Leve Item": "Initiate's Saw",
+        "Leve Level": "20",
+        "Leve EXP": "21,600",
+        "Leve Gil": "289"
+    },
+    {
+        "Leve Name": "The Devil's Workshop",
+        "Leve Item": "Brass Viking Sword",
+        "Leve Level": "20",
+        "Leve EXP": "12,960",
+        "Leve Gil": "125"
+    },
+    {
+        "Leve Name": "When Rhalgr Met Nophica",
+        "Leve Item": "Spiked Knuckles",
+        "Leve Level": "20",
+        "Leve EXP": "21,600",
+        "Leve Gil": "252"
+    },
+    {
+        "Leve Name": "Time to Upgrade",
+        "Leve Item": "Iron Ornamental Hammer",
+        "Leve Level": "25",
+        "Leve EXP": "36,390",
+        "Leve Gil": "384"
+    },
+    {
+        "Leve Name": "Mors Dagger",
+        "Leve Item": "Steel Broadsword",
+        "Leve Level": "25",
+        "Leve EXP": "30,820",
+        "Leve Gil": "336"
+    },
+    {
+        "Leve Name": "Cleaving the Glim",
+        "Leve Item": "Iron Round Knife",
+        "Leve Level": "25",
+        "Leve EXP": "21,830",
+        "Leve Gil": "114"
+    },
+    {
+        "Leve Name": "Lancers' Creed",
+        "Leve Item": "Crowsbeak Hammer",
+        "Leve Level": "25",
+        "Leve EXP": "47,200",
+        "Leve Gil": "310"
+    },
+    {
+        "Leve Name": "I Saw What You Did There",
+        "Leve Item": "Iron Chocobotail Saw",
+        "Leve Level": "25",
+        "Leve EXP": "47,200",
+        "Leve Gil": "534"
+    },
+    {
+        "Leve Name": "That's Some Fine Grinding",
+        "Leve Item": "Initiate's Mortar",
+        "Leve Level": "25",
+        "Leve EXP": "21,830",
+        "Leve Gil": "137"
+    },
+    {
+        "Leve Name": "The Naked Blade",
+        "Leve Item": "Steel Falchion",
+        "Leve Level": "30",
+        "Leve EXP": "67,730",
+        "Leve Gil": "416"
+    },
+    {
+        "Leve Name": "Out on a Limb",
+        "Leve Item": "Bas-relief Steel Saw",
+        "Leve Level": "30",
+        "Leve EXP": "52,220",
+        "Leve Gil": "389"
+    },
+    {
+        "Leve Name": "Can You Spare a Dolabra",
+        "Leve Item": "Steel Dolabra",
+        "Leve Level": "30",
+        "Leve EXP": "40,640",
+        "Leve Gil": "265"
+    },
+    {
+        "Leve Name": "A Spy in the House of Love",
+        "Leve Item": "Steel Awl",
+        "Leve Level": "30",
+        "Leve EXP": "52,220",
+        "Leve Gil": "388"
+    },
+    {
+        "Leve Name": "Hard Knock Life",
+        "Leve Item": "Steel Sledgehammer",
+        "Leve Level": "30",
+        "Leve EXP": "52,220",
+        "Leve Gil": "328"
+    },
+    {
+        "Leve Name": "Don't Fear the Reaper",
+        "Leve Item": "Steel Scythe",
+        "Leve Level": "30",
+        "Leve EXP": "31,330",
+        "Leve Gil": "181"
+    },
+    {
+        "Leve Name": "You Spin Me Round",
+        "Leve Item": "Mythril Broadsword",
+        "Leve Level": "35",
+        "Leve EXP": "61,490",
+        "Leve Gil": "497"
+    },
+    {
+        "Leve Name": "Awl about Who You Know",
+        "Leve Item": "Wrapped Steel Awl",
+        "Leve Level": "35",
+        "Leve EXP": "72,600",
+        "Leve Gil": "808"
+    },
+    {
+        "Leve Name": "Spice Cadet",
+        "Leve Item": "Heavy Steel Mortar",
+        "Leve Level": "35",
+        "Leve EXP": "30,230",
+        "Leve Gil": "298"
+    },
+    {
+        "Leve Name": "Lending a Hand",
+        "Leve Item": "Steel Raising Hammer",
+        "Leve Level": "35",
+        "Leve EXP": "72,600",
+        "Leve Gil": "520"
+    },
+    {
+        "Leve Name": "Colder than Steel",
+        "Leve Item": "Steel Round Knife",
+        "Leve Level": "35",
+        "Leve EXP": "72,600",
+        "Leve Gil": "415"
+    },
+    {
+        "Leve Name": "Seemed Like the Thing to Get",
+        "Leve Item": "Wrapped Steel Culinary Knife",
+        "Leve Level": "35",
+        "Leve EXP": "43,560",
+        "Leve Gil": "239"
+    },
+    {
+        "Leve Name": "A Weighty Question",
+        "Leve Item": "Mythril Sledgehammer",
+        "Leve Level": "40",
+        "Leve EXP": "79,510",
+        "Leve Gil": "574"
+    },
+    {
+        "Leve Name": "A Mixed Message",
+        "Leve Item": "Mythril Pliers",
+        "Leve Level": "40",
+        "Leve EXP": "79,510",
+        "Leve Gil": "491"
+    },
+    {
+        "Leve Name": "File That under Whatever",
+        "Leve Item": "Mythril File",
+        "Leve Level": "40",
+        "Leve EXP": "47,700",
+        "Leve Gil": "263"
+    },
+    {
+        "Leve Name": "Kitchen Casualties",
+        "Leve Item": "Mythril Culinary Knife",
+        "Leve Level": "40",
+        "Leve EXP": "79,510",
+        "Leve Gil": "574"
+    },
+    {
+        "Leve Name": "Get Me to the War on Time",
+        "Leve Item": "Cobalt Doming Hammer",
+        "Leve Level": "40",
+        "Leve EXP": "79,510",
+        "Leve Gil": "484"
+    },
+    {
+        "Leve Name": "Streamlining Operations",
+        "Leve Item": "Mythril Claw Hammer",
+        "Leve Level": "40",
+        "Leve EXP": "47,700",
+        "Leve Gil": "273"
+    },
+    {
+        "Leve Name": "I'd Rather Be Digging",
+        "Leve Item": "Electrum Head Knife",
+        "Leve Level": "45",
+        "Leve EXP": "137,400",
+        "Leve Gil": "739"
+    },
+    {
+        "Leve Name": "No Refunds, Only Exchanges",
+        "Leve Item": "Cobalt File",
+        "Leve Level": "45",
+        "Leve EXP": "106,480",
+        "Leve Gil": "720"
+    },
+    {
+        "Leve Name": "You Stay on That Side",
+        "Leve Item": "Cobalt Pliers",
+        "Leve Level": "45",
+        "Leve EXP": "63,890",
+        "Leve Gil": "294"
+    },
+    {
+        "Leve Name": "Pop That Top",
+        "Leve Item": "Cobalt Raising Hammer",
+        "Leve Level": "45",
+        "Leve EXP": "137,400",
+        "Leve Gil": "847"
+    },
+    {
+        "Leve Name": "Talon Terrors",
+        "Leve Item": "Cobalt Claw Hammer",
+        "Leve Level": "45",
+        "Leve EXP": "106,480",
+        "Leve Gil": "599"
+    },
+    {
+        "Leve Name": "I Maul Right",
+        "Leve Item": "Cobalt Sledgehammer",
+        "Leve Level": "45",
+        "Leve EXP": "63,890",
+        "Leve Gil": "313"
+    },
+    {
+        "Leve Name": "Barring the Gates to Foundation",
+        "Leve Item": "Mythrite Katzbalger",
+        "Leve Level": "50",
+        "Leve EXP": "456,810",
+        "Leve Gil": "686"
+    },
+    {
+        "Leve Name": "Punching Your Way to Success",
+        "Leve Item": "Mythrite Patas",
+        "Leve Level": "50",
+        "Leve EXP": "395,450",
+        "Leve Gil": "686"
+    },
+    {
+        "Leve Name": "With Bearings Straight",
+        "Leve Item": "Mythrite Nugget",
+        "Leve Level": "50",
+        "Leve EXP": "70,850",
+        "Leve Gil": "225"
+    },
+    {
+        "Leve Name": "Starting Young (L)",
+        "Leve Item": "Mythrite Katzbalger x 3",
+        "Leve Level": "50",
+        "Leve EXP": "2,512,500",
+        "Leve Gil": "3,432"
+    },
+    {
+        "Leve Name": "Foreign Exchange (L)",
+        "Leve Item": "Mythrite Patas x 3",
+        "Leve Level": "50",
+        "Leve EXP": "2,174,990",
+        "Leve Gil": "3,432"
+    },
+    {
+        "Leve Name": "Bearing the Brunt (L)",
+        "Leve Item": "Mythrite Nugget",
+        "Leve Level": "50",
+        "Leve EXP": "118,080",
+        "Leve Gil": "780"
+    },
+    {
+        "Leve Name": "It's All about Execution",
+        "Leve Item": "Mythrite Zweihander",
+        "Leve Level": "52",
+        "Leve EXP": "629,850",
+        "Leve Gil": "811"
+    },
+    {
+        "Leve Name": "Freight and Barrel",
+        "Leve Item": "Mythrite Stilettos",
+        "Leve Level": "52",
+        "Leve EXP": "480,670",
+        "Leve Gil": "811"
+    },
+    {
+        "Leve Name": "Cautionary Cutlery",
+        "Leve Item": "Mythrite Culinary Knife",
+        "Leve Level": "52",
+        "Leve EXP": "198,900",
+        "Leve Gil": "293"
+    },
+    {
+        "Leve Name": "Too Big to Miss (L)",
+        "Leve Item": "Mythrite Zweihander x 3",
+        "Leve Level": "52",
+        "Leve EXP": "3,464,200",
+        "Leve Gil": "4,056"
+    },
+    {
+        "Leve Name": "Stepping on My Heart with Stilettos (L)",
+        "Leve Item": "Mythrite Stilettos x 3",
+        "Leve Level": "52",
+        "Leve EXP": "2,643,720",
+        "Leve Gil": "4,056"
+    },
+    {
+        "Leve Name": "Saw, Shank, and Redemption (L)",
+        "Leve Item": "Mythrite Culinary Knife",
+        "Leve Level": "52",
+        "Leve EXP": "331,500",
+        "Leve Gil": "1,014"
+    },
+    {
+        "Leve Name": "I Could Feel That from Here",
+        "Leve Item": "Titanium Creasing Knife",
+        "Leve Level": "54",
+        "Leve EXP": "473,220",
+        "Leve Gil": "936"
+    },
+    {
+        "Leve Name": "I Saw the Pine",
+        "Leve Item": "Hardsilver Saw",
+        "Leve Level": "54",
+        "Leve EXP": "473,220",
+        "Leve Gil": "936"
+    },
+    {
+        "Leve Name": "Keep Up with the Mechanics",
+        "Leve Item": "Titanium-barreled Arquebus",
+        "Leve Level": "54",
+        "Leve EXP": "477,930",
+        "Leve Gil": "315"
+    },
+    {
+        "Leve Name": "Tensions in Creasing (L)",
+        "Leve Item": "Titanium Creasing Knife x 3",
+        "Leve Level": "54",
+        "Leve EXP": "2,602,720",
+        "Leve Gil": "4,680"
+    },
+    {
+        "Leve Name": "I Came, I Sawed, I Conquered (L)",
+        "Leve Item": "Hardsilver Saw x 3",
+        "Leve Level": "54",
+        "Leve EXP": "2,602,720",
+        "Leve Gil": "4,680"
+    },
+    {
+        "Leve Name": "Unconventional Weaponry (L)",
+        "Leve Item": "Titanium-barreled Arquebus",
+        "Leve Level": "54",
+        "Leve EXP": "796,560",
+        "Leve Gil": "1,092"
+    },
+    {
+        "Leve Name": "Unbreaker",
+        "Leve Item": "Titanium Ingot",
+        "Leve Level": "56",
+        "Leve EXP": "240,180",
+        "Leve Gil": "998"
+    },
+    {
+        "Leve Name": "Diamond Sawdust",
+        "Leve Item": "Titanium Battleaxe",
+        "Leve Level": "56",
+        "Leve EXP": "731,480",
+        "Leve Gil": "1,061"
+    },
+    {
+        "Leve Name": "Spirituality Inspector",
+        "Leve Item": "Titanium Lump Hammer",
+        "Leve Level": "56",
+        "Leve EXP": "320,970",
+        "Leve Gil": "383"
+    },
+    {
+        "Leve Name": "Attack on Titanium (L)",
+        "Leve Item": "Titanium Ingot x 5",
+        "Leve Level": "56",
+        "Leve EXP": "1,801,390",
+        "Leve Gil": "4,992"
+    },
+    {
+        "Leve Name": "I'm a Lumberjack and I'm Okay (L)",
+        "Leve Item": "Titanium Battleaxe x 3",
+        "Leve Level": "56",
+        "Leve EXP": "4,023,140",
+        "Leve Gil": "5,304"
+    },
+    {
+        "Leve Name": "The Clamor for Hammers (L)",
+        "Leve Item": "Titanium Lump Hammer",
+        "Leve Level": "56",
+        "Leve EXP": "534,960",
+        "Leve Gil": "1,326"
+    },
+    {
+        "Leve Name": "Through Thick and Thin",
+        "Leve Item": "Adamantite Nugget",
+        "Leve Level": "58",
+        "Leve EXP": "235,890",
+        "Leve Gil": "1,123"
+    },
+    {
+        "Leve Name": "Winter Weather Conditions",
+        "Leve Item": "Adamantite Dolabra",
+        "Leve Level": "58",
+        "Leve EXP": "811,360",
+        "Leve Gil": "1,248"
+    },
+    {
+        "Leve Name": "Swords for Plowshares",
+        "Leve Item": "Adamantite Zweihander",
+        "Leve Level": "58",
+        "Leve EXP": "617,600",
+        "Leve Gil": "406"
+    },
+    {
+        "Leve Name": "Piercing Eyes Deserve Piercing Shafts (L)",
+        "Leve Item": "Adamantite Nugget x 5",
+        "Leve Level": "58",
+        "Leve EXP": "1,769,210",
+        "Leve Gil": "5,616"
+    },
+    {
+        "Leve Name": "The Nightsoil Is Dark and Full of Terrors (L)",
+        "Leve Item": "Adamantite Dolabra x 3",
+        "Leve Level": "58",
+        "Leve EXP": "4,462,490",
+        "Leve Gil": "6,240"
+    },
+    {
+        "Leve Name": "Negative, They Are Meat Popsicles (L)",
+        "Leve Item": "Adamantite Zweihander",
+        "Leve Level": "58",
+        "Leve EXP": "1,029,340",
+        "Leve Gil": "1,404"
+    },
+    {
+        "Leve Name": "Have Blade, Will Travel",
+        "Leve Item": "High Steel Katzbalger",
+        "Leve Level": "60",
+        "Leve EXP": "703,720",
+        "Leve Gil": "2,496"
+    },
+    {
+        "Leve Name": "A Knack for Nicking",
+        "Leve Item": "High Steel Head Knife",
+        "Leve Level": "60",
+        "Leve EXP": "402,330",
+        "Leve Gil": "1,872"
+    },
+    {
+        "Leve Name": "High Steal",
+        "Leve Item": "High Steel Nugget",
+        "Leve Level": "60",
+        "Leve EXP": "110,360",
+        "Leve Gil": "451"
+    },
+    {
+        "Leve Name": "Crisscrossing",
+        "Leve Item": "High Steel Kris",
+        "Leve Level": "62",
+        "Leve EXP": "705,130",
+        "Leve Gil": "2,746"
+    },
+    {
+        "Leve Name": "Hammer Time",
+        "Leve Item": "High Steel Sledgehammer",
+        "Leve Level": "62",
+        "Leve EXP": "376,880",
+        "Leve Gil": "2,746"
+    },
+    {
+        "Leve Name": "File under Dull",
+        "Leve Item": "High Steel File",
+        "Leve Level": "62",
+        "Leve EXP": "226,120",
+        "Leve Gil": "991"
+    },
+    {
+        "Leve Name": "Killer Cutlery",
+        "Leve Item": "Doman Iron Culinary Knife",
+        "Leve Level": "64",
+        "Leve EXP": "489,060",
+        "Leve Gil": "2,995"
+    },
+    {
+        "Leve Name": "Meddle in Metal",
+        "Leve Item": "Oroshigane Ingot",
+        "Leve Level": "64",
+        "Leve EXP": "185,340",
+        "Leve Gil": "1,498"
+    },
+    {
+        "Leve Name": "And My Axe",
+        "Leve Item": "Doman Iron War Axe",
+        "Leve Level": "64",
+        "Leve EXP": "425,480",
+        "Leve Gil": "1,082"
+    },
+    {
+        "Leve Name": "Sea-saw",
+        "Leve Item": "Doman Steel Saw",
+        "Leve Level": "66",
+        "Leve EXP": "625,040",
+        "Leve Gil": "3,245"
+    },
+    {
+        "Leve Name": "Renting Mortality",
+        "Leve Item": "Doman Steel Mortar",
+        "Leve Level": "66",
+        "Leve EXP": "395,430",
+        "Leve Gil": "3,245"
+    },
+    {
+        "Leve Name": "The Bigger the Blade",
+        "Leve Item": "Doman Steel Tachi",
+        "Leve Level": "66",
+        "Leve EXP": "512,790",
+        "Leve Gil": "1,172"
+    },
+    {
+        "Leve Name": "Hammer and Sails",
+        "Leve Item": "Molybdenum Ball-pein Hammer",
+        "Leve Level": "68",
+        "Leve EXP": "806,710",
+        "Leve Gil": "3,494"
+    },
+    {
+        "Leve Name": "Ingot to Wing It",
+        "Leve Item": "Molybdenum Ingot",
+        "Leve Level": "68",
+        "Leve EXP": "210,850",
+        "Leve Gil": "1,747"
+    },
+    {
+        "Leve Name": "Fire for Hire",
+        "Leve Item": "Molybdenum Rimfire",
+        "Leve Level": "68",
+        "Leve EXP": "408,920",
+        "Leve Gil": "1,262"
+    },
+    {
+        "Leve Name": "The Gold Experience",
+        "Leve Item": "Deepgold Nugget",
+        "Leve Level": "70",
+        "Leve EXP": "214,460",
+        "Leve Gil": "1,920"
+    },
+    {
+        "Leve Name": "Fire Sale",
+        "Leve Item": "Deepgold Gunblade",
+        "Leve Level": "70",
+        "Leve EXP": "693,190",
+        "Leve Gil": "3,840"
+    },
+    {
+        "Leve Name": "Here Comes the Hammer",
+        "Leve Item": "Deepgold Sledgehammer",
+        "Leve Level": "70",
+        "Leve EXP": "263,120",
+        "Leve Gil": "1,387"
+    },
+    {
+        "Leve Name": "Selective Logging",
+        "Leve Item": "Deepgold Axe",
+        "Leve Level": "72",
+        "Leve EXP": "954,450",
+        "Leve Gil": "4,090"
+    },
+    {
+        "Leve Name": "Heavy Hitter",
+        "Leve Item": "Deepgold Knuckles",
+        "Leve Level": "72",
+        "Leve EXP": "826,240",
+        "Leve Gil": "4,090"
+    },
+    {
+        "Leve Name": "Enlistment Highs",
+        "Leve Item": "Deepgold Sword",
+        "Leve Level": "72",
+        "Leve EXP": "418,810",
+        "Leve Gil": "1,477"
+    },
+    {
+        "Leve Name": "Instruments of Distraction",
+        "Leve Item": "Bluespirit Tile",
+        "Leve Level": "74",
+        "Leve EXP": "244,970",
+        "Leve Gil": "2,170"
+    },
+    {
+        "Leve Name": "Halfhearted Effort",
+        "Leve Item": "Bluespirit Halfheart Saw",
+        "Leve Level": "74",
+        "Leve EXP": "646,380",
+        "Leve Gil": "4,339"
+    },
+    {
+        "Leve Name": "Nip It in the Bud",
+        "Leve Item": "Bluespirit Scythe",
+        "Leve Level": "74",
+        "Leve EXP": "387,820",
+        "Leve Gil": "1,567"
+    },
+    {
+        "Leve Name": "Dodge Once, Cut Twice",
+        "Leve Item": "Titanbronze Daggers",
+        "Leve Level": "76",
+        "Leve EXP": "919,160",
+        "Leve Gil": "4,589"
+    },
+    {
+        "Leve Name": "Idol Hands",
+        "Leve Item": "Titanbronze Chakrams",
+        "Leve Level": "76",
+        "Leve EXP": "1,256,820",
+        "Leve Gil": "4,589"
+    },
+    {
+        "Leve Name": "Cooking for the Future",
+        "Leve Item": "Titanbronze Culinary Knife",
+        "Leve Level": "76",
+        "Leve EXP": "450,200",
+        "Leve Gil": "1,657"
+    },
+    {
+        "Leve Name": "Bae Blade",
+        "Leve Item": "Dwarven Mythril Uchigatana",
+        "Leve Level": "78",
+        "Leve EXP": "1,103,750",
+        "Leve Gil": "4,838"
+    },
+    {
+        "Leve Name": "Under the Fool Moon",
+        "Leve Item": "Dwarven Mythril Pistol",
+        "Leve Level": "78",
+        "Leve EXP": "1,103,750",
+        "Leve Gil": "4,838"
+    },
+    {
+        "Leve Name": "Keeping Loyalty",
+        "Leve Item": "Dwarven Mythril File",
+        "Leve Level": "78",
+        "Leve EXP": "418,970",
+        "Leve Gil": "1,747"
+    },
+    {
+        "Leve Name": "To Delight a Dancer",
+        "Leve Item": "High Durium Tathlums",
+        "Leve Level": "80",
+        "Leve EXP": "1,355,750",
+        "Leve Gil": "4,900"
+    },
+    {
+        "Leve Name": "Archon Denied",
+        "Leve Item": "High Durium Saw",
+        "Leve Level": "80",
+        "Leve EXP": "935,000",
+        "Leve Gil": "4,900"
+    },
+    {
+        "Leve Name": "History of the Hrothgar",
+        "Leve Item": "High Durium Bayonet",
+        "Leve Level": "82",
+        "Leve EXP": "1,525,130",
+        "Leve Gil": "4,910"
+    },
+    {
+        "Leve Name": "Archon of His Eye",
+        "Leve Item": "High Durium Knives",
+        "Leve Level": "82",
+        "Leve EXP": "1,582,910",
+        "Leve Gil": "4,920"
+    },
+    {
+        "Leve Name": "Records of the Republic",
+        "Leve Item": "Bismuth War Scythe",
+        "Leve Level": "84",
+        "Leve EXP": "1,746,150",
+        "Leve Gil": "4,940"
+    },
+    {
+        "Leve Name": "In Pursuit of Panaloaf",
+        "Leve Item": "Bismuth Mortar",
+        "Leve Level": "84",
+        "Leve EXP": "1,255,600",
+        "Leve Gil": "4,960"
+    },
+    {
+        "Leve Name": "Mangalomania",
+        "Leve Item": "Manganese Ingot x 3",
+        "Leve Level": "86",
+        "Leve EXP": "1,083,940",
+        "Leve Gil": "2,490"
+    },
+    {
+        "Leve Name": "Pruned to Perfection",
+        "Leve Item": "Manganese Garden Scythe",
+        "Leve Level": "86",
+        "Leve EXP": "1,443,780",
+        "Leve Gil": "5,000"
+    },
+    {
+        "Leve Name": "Annals of the Empire I",
+        "Leve Item": "Chondrite Magitek Axe",
+        "Leve Level": "88",
+        "Leve EXP": "2,297,800",
+        "Leve Gil": "5,020"
+    },
+    {
+        "Leve Name": "Plying with Precision",
+        "Leve Item": "Chondrite Pliers",
+        "Leve Level": "88",
+        "Leve EXP": "1,826,850",
+        "Leve Gil": "5,040"
+    },
+    {
+        "Leve Name": "Always Be Prepaired",
+        "Leve Item": "Mountain Chromite Twinfangs",
+        "Leve Level": "90",
+        "Leve EXP": "2,695,430",
+        "Leve Gil": "5,060"
+    },
+    {
+        "Leve Name": "Paring Is Caring",
+        "Leve Item": "Mountain Chromite Hatchet",
+        "Leve Level": "90",
+        "Leve EXP": "1,858,920",
+        "Leve Gil": "5,060"
+    },
+    {
+        "Leve Name": "Ruthenium Supremium",
+        "Leve Item": "Ruthenium Ingot x 3",
+        "Leve Level": "92",
+        "Leve EXP": "1,665,250",
+        "Leve Gil": "2,535"
+    },
+    {
+        "Leve Name": "Axes to the Maxes",
+        "Leve Item": "Ruthenium War Axe",
+        "Leve Level": "92",
+        "Leve EXP": "3,115,640",
+        "Leve Gil": "5,070"
+    },
+    {
+        "Leve Name": "Maintaining the Maintainers",
+        "Leve Item": "Cobalt Tungsten File",
+        "Leve Level": "94",
+        "Leve EXP": "2,454,760",
+        "Leve Gil": "5,100"
+    },
+    {
+        "Leve Name": "Dagger Swagger",
+        "Leve Item": "Cobalt Tungsten Khukuri",
+        "Leve Level": "94",
+        "Leve EXP": "3,559,400",
+        "Leve Gil": "5,100"
+    },
+    {
+        "Leve Name": "Bladewinner",
+        "Leve Item": "Titanium Gold Greatsword",
+        "Leve Level": "96",
+        "Leve EXP": "4,125,360",
+        "Leve Gil": "5,140"
+    },
+    {
+        "Leve Name": "Maul Me",
+        "Leve Item": "Titanium Gold Maul",
+        "Leve Level": "96",
+        "Leve EXP": "2,845,080",
+        "Leve Gil": "5,140"
+    },
+    {
+        "Leve Name": "Ceremonial Teeth",
+        "Leve Item": "Ra'Kaznar Twinfangs",
+        "Leve Level": "98",
+        "Leve EXP": "4,664,730",
+        "Leve Gil": "5,180"
+    },
+    {
+        "Leve Name": "Awl Dreams Come True",
+        "Leve Item": "Ra'Kaznar Awl",
+        "Leve Level": "98",
+        "Leve EXP": "3,940,890",
+        "Leve Gil": "5,180"
+    }
+]
