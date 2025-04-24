@@ -59,7 +59,7 @@
 
 3. Copy the output into the required Class Leves File
 
-4. Duplicate the json files into the Clean Leves Directory
+4. Duplicate the json files from Class Leves into the Clean Leves Directory
 
 4. Run clean.py
 
