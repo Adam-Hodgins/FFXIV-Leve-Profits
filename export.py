@@ -2,7 +2,8 @@ import os
 import glob
 import json
 import pandas as pd
-
+from openpyxl import load_workbook
+from openpyxl.worksheet.table import Table, TableStyleInfo
 
 def process_dataframe(records):
     df = pd.DataFrame(records)
@@ -21,7 +22,6 @@ def process_dataframe(records):
     df['LeveProfitHQ'] = - (df['Leve Gil'] * 2) - df['LevePriceHQ']
     return df
 
-
 def main():
     directory = 'Prepped Leves'
     pattern = os.path.join(directory, '*.json')
@@ -32,6 +32,8 @@ def main():
         return
 
     output_file = 'Leve Profits.xlsx'
+
+    # Write each DataFrame to its own sheet using openpyxl engine
     with pd.ExcelWriter(output_file, engine='openpyxl') as writer:
         for file_path in sorted(files):
             fname = os.path.basename(file_path)
@@ -48,8 +50,23 @@ def main():
             except Exception as e:
                 print(f"Error processing {fname}: {e}")
 
-    print(f"All sheets written to {output_file}")
+    # Re-open workbook and convert each sheet to an Excel Table
+    wb = load_workbook(output_file)
+    for ws in wb.worksheets:
+        # Use sheet dimensions to define table ref
+        ref = ws.dimensions
+        tbl = Table(displayName=f"Table_{ws.title}", ref=ref)
+        style = TableStyleInfo(
+            name="TableStyleMedium9",
+            showRowStripes=True,
+            showColumnStripes=False
+        )
+        tbl.tableStyleInfo = style
+        ws.add_table(tbl)
+        print(f"Added table to sheet '{ws.title}'")
 
+    wb.save(output_file)
+    print(f"All sheets converted to tables in '{output_file}'")
 
 if __name__ == '__main__':
     main()
