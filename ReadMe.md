@@ -23,6 +23,7 @@
 (() => {
   const rows = Array.from(document.querySelectorAll('div.leve-row'));
   const data = rows.map(el => {
+    // 1. Leve Name
     const nameEl = el.querySelector('app-i18n-name[content="leves"] span');
     const leveName = nameEl ? nameEl.textContent.trim() : '';
 
