@@ -1,4 +1,4 @@
-## If running this for the first time, youll need to run the following in your environment to get the required dependencies
+## If running this for the first time, youll need to run the following to get the required dependencies
 
 ```pip install selenium requests pandas openpyxl```
 
