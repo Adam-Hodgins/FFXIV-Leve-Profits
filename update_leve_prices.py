@@ -7,7 +7,7 @@ from itertools import islice
 # === Configuration ===
 WORLD = 'Famfrit'
 # Directory containing the leve JSON files
-DIRECTORY = 'Clean Leves Directory'
+DIRECTORY = 'Clean Leves'
 
 # API URL template; {ids} will be replaced with comma-separated list
 API_URL = (
