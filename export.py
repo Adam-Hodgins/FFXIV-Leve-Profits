@@ -67,6 +67,8 @@ def main():
     # Re-open workbook and convert each sheet to an Excel Table
     wb = load_workbook(output_file)
     for ws in wb.worksheets:
+        # Use sheet dimensions to define table ref 
+        ref = ws.dimensions 
         tbl = Table(displayName=f"Table_{ws.title}", ref=ref)
         style = TableStyleInfo(
             name="TableStyleMedium9",
